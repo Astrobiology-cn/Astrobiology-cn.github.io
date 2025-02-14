@@ -1,5 +1,5 @@
 ---
-article: false
+article: True
 title: 生物无机化学
 icon: fa6-solid:check-to-slot
 ---

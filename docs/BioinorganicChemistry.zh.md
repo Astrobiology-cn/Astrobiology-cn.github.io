@@ -1,3 +1,10 @@
+---
+article: false
+title: 生物无机化学
+icon: fa6-solid:check-to-slot
+---
+
+
 # 生物无机化学
 
 > 警告：本文由机器翻译生成，可能导致质量不佳或信息有误，请谨慎阅读！

@@ -19,7 +19,7 @@ $$
 
 OEC产生的电子用于生成还原$ \ mathrm {Co} _ {2} $所需的还原等效物，并且所涉及的电子传输链既包含过渡金属Fe和Cu。 但是，能够进行水分反应的蓝细菌的到来已经
 
- ![](images/c10027292cc790374de6192b682c20e399d2ee8fbae016598a088e4b57d7a8bf.jpg) 
+
 
 The人体中化学元素的丰度（Winter，M.F.，2016年。在线可用：http：// www。
 webelements.com/hydrogen/biology.html（访问14.06.16）。 不包括灯笼和肌动剂。
@@ -33,7 +33,7 @@ $$
 
 This过程还需要电子传输链，这再次涉及f和$ \ mathrm {cu} $ 尽管仅FE仅参与了许多电子传输步骤，而将二氧化物的四电子降低到两个水分子中需要Fe和$ \ Mathrm {Cu} $在呼吸链的终端组件中，Cytotrome C氧化酶（CCCO）（CCCO）（CCCO） ）.1牛心脏CCO的全球结构和（a）PSII二聚体的总体结构，以及$ 1.9 \，\ Mathring \ Mathrm {a} $（pdb 3arc; uma，y，y）的分辨率。 ，Kawakami，K。，Shen，J.R.，N.，2011年。氧气增长光系统的晶体结构$ \ MATHRM {II} $，分辨率为$ 1.9 \ Mathrm {〜\ a〜 （b）蛋白质包裹的$ \ mathrm {mn} _ {4} \ mathrm {cao} _ {5} $ cofactor带有oxo-bridges和四个绑定水。
 
- ![](images/6317fb639bdef16125169c3140f797c8c048adea6c2706949bc3698990f81ee7.jpg) 
+
 
 FroM Kawakami，K.，Umena，Y.，Kamiya，N.，Shen J.R.，2011年。催化，氧气进化光系统II的结构，$ 1.9 \，\ Mathring {a} $分辨率。 J. Photochem。 Photobiol。 B. 104，9 18。版权2011。经Elsevier的许可。
 
@@ -43,7 +43,7 @@ arrHaems $ a $和$ a_ {3} {\ Mathrm {：}} \ Mathrm {Cu} B $和$ \ Mathrm {Cu} A
 
 The著名的德国化学家理查德·威尔斯塔特（Richard Willsta）因其对植物色素的开创性调查，尤其是他在花青素和叶绿素上的工作，于1915年获得了诺贝尔奖，在此过程中，他不仅表明了$ {\ mathrm {mg}}}}}^{\ mathrm {mg}}^{{ 2+} $是叶绿素分子的重要组成部分，但它的结合方式与Fe在血红蛋白中结合的方式非常相似。 他还对酶的隔离进行了研究，从1911年开始。尽管获得了萝卜过氧化物酶的富集，但富含3500倍的酵母菌转化酶，但威尔斯塔特（Willsta）并没有幸运的幸运才能获得结晶酶。 （Huisgen，1961年），并得出结论认为酶不是蛋白质（Willsta ter，1926年），并且该蛋白质只是名副其实的催化中心的载体（“ Nur Ein ein trager oftanz'）。 然而，在1926年，美国詹姆斯·萨姆纳（James Sumner）获得了尿素的晶体，该酶从杰克·比恩（Jack Bean）催化了尿素对氨和二氧化碳的分解。 随后，在1930年，约翰·诺斯罗普（John Northrop）结晶了胃蛋白酶和胰蛋白酶，从而确立了酶的蛋白质性质的确定证明（他们都在1946年获得了诺贝尔奖。 大约50年后，当测定蛋白质金属离子的分析方法的敏感性增加时，
 
- ![](images/2921ae88f879cc5f0c23d3430e51a869e53b0d167d73b9c5aaad13d50ae56a77.jpg) 
+
 (A)牛心脏细胞色素C氧化酶在其全氧化态中（PDB ID 2OCC，Yoshikawa，S.，Shinzawa-Itoh，K.，Nakashima，R.，Yaono，R。，R。 牛心细胞色素C氧化酶280，1723 1729）。 （b）haems $ a $和$ a_ {3} {\ mathrm {：}}} \ mathbf {c} \ mathbf {u} _ {b} $和$ \ mathrm { } $在CCO中。 Dinuclear $ \ mathrm {{Cu}} _ {a} $中心位于Cox2亚基（透明绿色）中，是从还原的细胞色素c中电子的入口站点。 电子随后将传递给低自旋，bis-His-His-His-His $ a $，然后转移到杂质的haem $ a_ {3} {\ mathrm {：}}}} \ mathbf {c} {c} {\ mathrm {\ mathrm {u}} b } $中心Cox1（透明灰色），其中$ \ mathrm {o} _ {2} $减少发生。 高血铁的轴向配体与各自的残留数和亚基一起突出显示（PDB ID：2OCC编号）。
 
 FroM Kim，H.J，Khalimonchuk，O. 生物基。 生物。 Acta 1823，1604 1616。版权所有2012。经Elsevier许可。
@@ -54,12 +54,12 @@ As 我们将在第12章中看到锌刘易斯酸和基因调节剂，$ z \ mathrm
 
 在人类中存在的其他过渡金属中，ZR没有已知功能，也没有AU，而Mo与W一起，在人类中不存在，最肯定的是，正如我们在第17章中所看到的那样，
 
- ![](images/4809e47e22086c3eb9e3876c9b56073893fcac9f638a3e16d140fd8676d16a5d.jpg) 
+
 din来自Klebsiella aerogenes（PDB代码1FWJ）的含Ni尿素的Uclear Ni活性位点。 摘自Mulronone，S.B。，Hausinger，R.P.，2003。微生物的镍吸收和利用。 FEMS微生物。 Rev. 27，239261。版权所有2003。经Elsevier许可。
 
 # 图1.4
 
- ![](images/86979fc4927c77d8ff9cbbd301266ed40a6126e7023a2c210a536bdf870fcece.jpg) 
+
 
 Hum鸡蛋在受孕期间散发出火花。 来自R.Dicker，2016年。在受孕期间，人类鸡蛋发射Sparks，美国新闻，4月26日，$ 4.13 \，p.m $。
 
@@ -79,7 +79,7 @@ Hum鸡蛋在受孕期间散发出火花。 来自R.Dicker，2016年。在受孕�
 
 # 图1.6
 
- ![](images/780a53fe6664bc088831ef05c4b44269eef4a01e02a521374b508447d7d6ad80.jpg) 
+
 A b元素的生物学周期表，指示基本要素。 从Maret，W.，2016年复制。元素生物周期系统中的金属：概念和猜想。 int。 J. Mol。 科学。 17，PII：E66。 doi：10.3390/ijms17010066。 这是根据Creative Commons归因许可证（CC BY）分发的开放访问文章，只要适当地引用了原始工作，就可以在任何媒介中不受限制地使用，分发和复制。
 
 $ \ mathbf {b} \ mathbf {r}^{ - } $在动物中需要仅是最近才建立为形成硫胺交叉链接的辅助因子，这是一种在组织开发和建筑中必不可少的硫胺交叉链路，这是在组织中发现的。 地下膜的胶原蛋白IV支架（McCall等，2014）。
@@ -90,7 +90,7 @@ $ \ mathbf {b} \ mathbf {r}^{ - } $在动物中需要仅是最近才建立为形
 
 硼（B）作为植物的重要元素的作用首先描述了80多年前。 人们认为，硼的本质是源于其在含西羟基的分子之间形成二骨桥的能力，从而充当“分子接头”（Zangi and Filella，2012），交联果多糖Rhamnogalantarcalantarananian II（RG-II）（RG-II）（RG-II）（RG-II）（RG-II） ，这是植物细胞壁的关键组成部分。 此外，有证据表明硼对动物和人类至关重要。 b被广泛分布在地球的$（5 { - } 100 \; \ mathrm {mg} \ cdot \ cdot \ mathrm {kg}^{ -  1}）$中，主要发生在中性pH时，作为未充电的硼酸$ \ mathrm {[b（oh）_ {3}]} $，这使其成为乘水甘露糖蛋白运输的良好候选者，该候选者可以运输非极性底物，例如甘油，尿素，过氧化氢和氨，氨，二氧化碳和氮氧化物，如氨 以及金属素（Mukhopadhyay等，2014）。
 
- ![](images/18218172229a9994a0891bb426557999e8420b72b0b71ba965c8a5513772ce1c.jpg) 
+
 
 金属周期表。 下氧化状态金属物种（B（iii），Si（iv），$ \ mathrm {ge}（\ mathrm {iv}）$，AS（iii）和SB（iii））的羟基酸是Aquaglyceroporin（aqppporin（aqp）） ）细菌，原生动物，真菌，动植物中的通道。
 
@@ -126,7 +126,7 @@ An 表1.1列出了将功能适用性与10个必需金属离子的特性进行比
 
 $ z \ mathrm {n}^{2+} $具有配体结合常数$ {\ mathrm {mg}}}^{2+} $和$ \ mathrm {{ca}}} 其他五种基本过渡金属中的那些。 但是，锌实际上无法访问任何其他
 
- ![](images/3afc42184af03d586e39cfed8930092c7bcce285e70fb8d6822b1eeaf2b7ca18.jpg) 
+
 CYS2HIS2锌指图案的卡通表示，由$ \ upalpha $ -Helix和Antiparallear $ \ upbeta $ -Sheet组成。 锌离子（绿色）由两个半胱氨酸残基和两个组氨酸残基协调。
 
 来自维基百科。
@@ -151,9 +151,9 @@ How曾经，还有很多其他金属，它们没有生物学功能，但是由�
 
 铅毒性的基础涉及靶向自然结合钙和锌的蛋白质（图1.10），例如突触蛋白，在神经传递中充当钙传感器，以及Δ-氨基氨基驱动合酶（ALAD），第二种是Haeem Biosynthththththththththththeththethecy phocynthecy的蛋白质。 。 尽管大小，但铅（1.19a˚）仍可以用synaptotagmin和锌$（0.7 \ dot {4} \：\ mathring {\ mathrm {a}}）$代替钙（0.7 \ dot {4} \：
 
- ![](images/dee31ddc54cab19a3d0a5f9fa39fe892d9b4f2a5ab1d814ec52898b16b772b0f.jpg) 
 
- ![](images/dde3b35b16cfbd9b4ccb3e152812c4606b0c4681c87b3943b84771abfb5e6170.jpg) 
+
+
 铅靶标蛋白质自然结合钙和锌。 例子包括突触量，它充当神经传递中的钙传感器和δ-氨基烯驱虫合酶（ALAD），这是Haem Biosynthetic途径中的第二个酶。
 
 FroM Godwin，H.A.，2001年。铅的生物化学。 Curr。 意见。 化学 生物。 5，223 227。版权所有2001。经Elsevier许可。
@@ -162,12 +162,11 @@ FroM Godwin，H.A.，2001年。铅的生物化学。 Curr。 意见。 化学 �
 
 TecHnetium（TC）像SC一样，填补了Mendeleev的元素周期表的差距，并且他的许多特性在1937年发现之前就被他预测了。TC没有稳定的同位素所有同位素是放射性的。 几乎所有的TC都是人为生产的（在自然界中只有微小的数量），并且由于它是主要人工元素的第一个，因此给出了Technetium的名称（来自希腊语τεχνητoς人工）。 TC，Techetium- $ 99 \ Mathrm {M} $的短寿命同位素（Half-Life $ 52.5 \; \ Mathrm {min} $），使核医学中的宝贵服务是由Positron发射层次摄影的示踪剂。 基于RU的药物已被开发为抗癌剂。 osmium是最密集的天然元素，其四氧化物被广泛用于染色用于电子显微镜的生物组织。 pt，最初是$ \ mathrm {pt}（\ mathrm {nh} _ {3}）_ {2} \ mathrm {cl} _ {2} $的顺式异构 成功的
 
- ![](images/593958c8ca43cc74274744c6a7ec3dac75508c3cffa4a4a5222a0bccef443982.jpg) 
+
 MRI对比剂GD-DTPA（二乙烯三亚胺五乙酸）的结构。
 
 来自Wikipedia，www.lookfordiagnosis.com。
 
- ![](images/ccc7c7a81f990fe26d33ec21bd0d05e5bfea6ae0b67179724f06b7c34c28e81d.jpg) 
 
 The口服活跃的抗瘤性关节炎药物奥拉诺芬。 来自Wikipedia，Ben Mills自己的作品，公共领域，https://commons.wikimedia.org/w/index.php?curid55934319。
 

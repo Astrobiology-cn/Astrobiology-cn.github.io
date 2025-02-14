@@ -5,8 +5,6 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "": [
     "/DailyRoutine",
-    "/Fitness",
-    "/BioinorganicChemistry.zh",
     // 读书笔记架构更换到 docsify，不能使用相对链接
     { text: "读书笔记", icon: "fa6-brands:readme", link: "https://newzone.top/reading/" },
     // 指定显示页面

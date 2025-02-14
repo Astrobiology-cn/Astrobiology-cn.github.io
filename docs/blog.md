@@ -5,8 +5,8 @@ layout: BlogHome
 icon: fa6-solid:house-crack
 title: 互联网小白
 #heroImage: /logo.svg
-heroText: 互联网小白
-tagline: 盛年不重来，一日难再晨
+heroText: Etteuraug
+tagline: 行之苟有恒，久久自芬芳
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
 #projects:

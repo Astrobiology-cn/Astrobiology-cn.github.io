@@ -1,6 +1,6 @@
 ---
 article: false
-title: LearnData 开源笔记
+title: Astrobiology 天体生物学
 icon: fa6-solid:book-open-reader
 ---
 

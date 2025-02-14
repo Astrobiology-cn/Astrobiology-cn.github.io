@@ -1,6 +1,6 @@
 ---
 article: false
-title: 生物无机化学
+title: 生物无机化学demo
 icon: fa6-solid:check-to-slot
 ---
 

@@ -31,12 +31,19 @@ export default sidebar({
       ],
     },
     {
-      text: "🌐 页面开发",
+      text: "🏝 行星科学",
       icon: "",
-      prefix: "/web/",
+      prefix: "/PlansSci/",
       link: "",
       collapsible: true,
-      children: "structure",
+      children: [
+        {
+          text: "🪐 固体行星物理",
+          icon: "",
+          collapsible: true,
+          children: ["固体行星物理Chapter-1.md", "固体行星物理Chapter-2.md", "固体行星物理Chapter-3.md", "固体行星物理Chanpter-4.md"],
+        },
+      ],
     },
     {
       text: "🏗️ 网站部署",

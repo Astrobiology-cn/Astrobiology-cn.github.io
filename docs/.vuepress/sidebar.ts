@@ -4,32 +4,9 @@ import { sidebar } from "vuepress-theme-hope";
 // https://fontawesome.com/search?m=free&o=r
 export default sidebar({
   "": [
-    "/DailyRoutine",
-    "/Fitness",
-    "/BioinorganicChemistry.zh",
-    "/testdemo",
-    "/uploaddemo",
     // 读书笔记架构更换到 docsify，不能使用相对链接
-    { text: "读书笔记", icon: "fa6-brands:readme", link: "https://newzone.top/reading/" },
+    { text: "读书笔记", icon: "fa6-brands:readme", link: "https://github.com/Astrobiology-cn/Astrobiology-cn.github.io/reading/" },
     // 指定显示页面
-    {
-      text: "🧰 应用手册",
-      icon: "",
-      prefix: "/apps/",
-      link: "",
-      collapsible: true,
-      children: [
-        "Applist.md",
-        "toolbox.md",
-        "encrypt03.md",
-        {
-          text: "其他",
-          icon: "fa6-solid:code-compare",
-          collapsible: true,
-          children: ["design.md"],
-        },
-      ],
-    },
     {
       text: "🏝 行星科学",
       icon: "",
@@ -63,6 +40,24 @@ export default sidebar({
           icon: "",
           collapsible: true,
           children: [],
+        },
+      ],
+    },
+        {
+      text: "🧰 应用手册",
+      icon: "",
+      prefix: "/apps/",
+      link: "",
+      collapsible: true,
+      children: [
+        "Applist.md",
+        "toolbox.md",
+        "encrypt03.md",
+        {
+          text: "其他",
+          icon: "fa6-solid:code-compare",
+          collapsible: true,
+          children: ["design.md"],
         },
       ],
     },

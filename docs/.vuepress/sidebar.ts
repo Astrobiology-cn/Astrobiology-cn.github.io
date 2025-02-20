@@ -38,7 +38,7 @@ export default sidebar({
       collapsible: true,
       children: [
         {
-          text: "🪐 固体行星物理",
+          text: "🪐 固体行星物",
           icon: "",
           collapsible: true,
           children: ["固体行星物理Chapter-1.md", "固体行星物理Chapter-2.md", "固体行星物理Chapter-3.md", "固体行星物理Chanpter-4.md"],

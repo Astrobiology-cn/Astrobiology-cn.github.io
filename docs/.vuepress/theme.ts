@@ -12,7 +12,7 @@ export default hopeTheme(
     },
 
     favicon: "/favicon.ico",
-    logo: "/logo.svg",
+    logo: "",
 
     // 网站文章的版权声明
     license: "CC BY-NC-ND 4.0",
@@ -71,7 +71,7 @@ export default hopeTheme(
     blog: {
       articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
       name: "Etteuqirb Redraug",
-      avatar: "/avatar_self.webp",
+      avatar: "",
       description: "暂时不知道填什么",
       intro: "/intro.html",
       medias: {

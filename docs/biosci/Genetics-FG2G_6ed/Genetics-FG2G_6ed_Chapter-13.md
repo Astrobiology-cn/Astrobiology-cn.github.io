@@ -90,7 +90,7 @@
 
 ![](Genetics-FG2G_6ed_Chapter-13_images/Fig-13.8.jpg)  
 
-图B　14号染色体重链基因区域。胚系细胞（以及所有不产生抗体的细胞）的DNA包含超过100个 $\mathbf{V}_{\mathrm{H}}$ 片段，大约20个D片段，6个 $\mathbf{J}_{\mathrm{H}}$ 片段和9个 ${\mathcal{{C}}}_{\mathrm{H}}$ 片段（顶行）。每个 $\mathbf{\nabla}\mathbf{V}_{\mathrm{H}}\mathcal{\Bar{K}}|\mathbf{C}_{\mathrm{H}}$ 片段由两个或多个外显子组成，如第二行相同DNA的替代视图所示。在B细胞中，体细胞将随机的、独立的 $\mathbf{V}_{\mathrm{H}}$ 、D和 $\mathrm{J_{H}}$ 片段重组在一起。从新构建的重链基因得到的原始转录本随后被剪接成成熟的mRNA。通过在IgM抗体中发现的重链mRNA翻译形成μ重链。在B细胞发育后期，其他重组（图中未显示）连接相同的V-D-J变量区域的其他 $C_{\mathrm{H}}$ 片段，如 $C_{\delta}$ 等部分，以允许其他抗体类的合成。  
+图B　14号染色体重链基因区域。胚系细胞（以及所有不产生抗体的细胞）的DNA包含超过100个 $\mathbf{V}_{\mathrm{H}}$ 片段，大约20个D片段，6个 $\mathbf{J}_{\mathrm{H}}$ 片段和9个 ${\mathcal{{C}}}_{\mathrm{H}}$ 片段（顶行）。每个 $\mathbf{\nabla}\mathbf{V}_{\mathrm{H}}\mathcal{{K}}|\mathbf{C}_{\mathrm{H}}$ 片段由两个或多个外显子组成，如第二行相同DNA的替代视图所示。在B细胞中，体细胞将随机的、独立的 $\mathbf{V}_{\mathrm{H}}$ 、D和 $\mathrm{J_{H}}$ 片段重组在一起。从新构建的重链基因得到的原始转录本随后被剪接成成熟的mRNA。通过在IgM抗体中发现的重链mRNA翻译形成μ重链。在B细胞发育后期，其他重组（图中未显示）连接相同的V-D-J变量区域的其他 $C_{\mathrm{H}}$ 片段，如 $C_{\delta}$ 等部分，以允许其他抗体类的合成。  
 
 # 抗体基因重排的酶创造的错误可以导致肿瘤  
 
@@ -100,7 +100,7 @@ RagⅠ和RagⅡ是两个酶，它们与抗体基因中的DNA序列互作，帮�
 
 ![](Genetics-FG2G_6ed_Chapter-13_images/Fig-13.9.jpg)  
 
-图C　错误导向的易位会帮助导致伯基特淋巴瘤。一个特别的伯基特淋巴瘤患者的DNA中，一个易位使得 $c$ -myc基因的转录位于 ${\mathbf{\nabla}}\cdot{\mathbf{C}}_{\upmu}$ 旁边的增强子。结果，B细胞产生不正常的高水平c-myc蛋白。很明显，RagⅠ和RagⅡ酶错误地将一个 $\mathbf{\nabla}\cdot\mathbf{J}_{\mathrm{H}}\,$ 片段连接到8号染色体上的c-myc基因，而不是一个D片段。  
+图C　错误导向的易位会帮助导致伯基特淋巴瘤。一个特别的伯基特淋巴瘤患者的DNA中，一个易位使得 $c$ -myc基因的转录位于 ${\mathbf{\nabla}}\cdot{\mathbf{C}}_{\mu}$ 旁边的增强子。结果，B细胞产生不正常的高水平c-myc蛋白。很明显，RagⅠ和RagⅡ酶错误地将一个 $\mathbf{\nabla}\cdot\mathbf{J}_{\mathrm{H}}\,$ 片段连接到8号染色体上的c-myc基因，而不是一个D片段。  
 
 是多色条带，呈现了一个人染色体缺失的存在和类型。  
 

@@ -7,17 +7,6 @@
   "favicon": "https://newzone.top/favicon.ico",
   "items": [
     {
-      "title": "",
-      "url": "https://newzone.top/PlanetSci/PlanetSci.html",
-      "id": "https://newzone.top/PlanetSci/PlanetSci.html",
-      "summary": "创建这个文件的目的 这个文件只是为了创建文件夹",
-      "content_html": "<h2>创建这个文件的目的</h2>\n<p>这个文件只是为了创建文件夹</p>\n",
-      "date_published": "2025-02-14T13:19:48.000Z",
-      "date_modified": "2025-02-14T13:19:48.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "博客文章样例 2",
       "url": "https://newzone.top/posts/2024-03-02-blog_example2.html",
       "id": "https://newzone.top/posts/2024-03-02-blog_example2.html",

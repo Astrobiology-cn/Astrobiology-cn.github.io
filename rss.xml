@@ -6,23 +6,12 @@
     <link>https://newzone.top/</link>
     <description>测试一下这个描述在哪里</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Feb 2025 10:46:12 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Feb 2025 10:46:12 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Feb 2025 10:54:01 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Feb 2025 10:54:01 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
     <category>使用指南</category>
-    <item>
-      <title></title>
-      <link>https://newzone.top/PlanetSci/PlanetSci.html</link>
-      <guid>https://newzone.top/PlanetSci/PlanetSci.html</guid>
-      <source url="https://newzone.top/rss.xml"></source>
-      <description>创建这个文件的目的 这个文件只是为了创建文件夹</description>
-      <pubDate>Fri, 14 Feb 2025 13:19:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>创建这个文件的目的</h2>
-<p>这个文件只是为了创建文件夹</p>
-]]></content:encoded>
-    </item>
     <item>
       <title>博客文章样例 2</title>
       <link>https://newzone.top/posts/2024-03-02-blog_example2.html</link>

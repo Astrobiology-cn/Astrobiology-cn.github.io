@@ -4,25 +4,12 @@
   <title>Astrobiology 天体生物学</title>
   <subtitle>测试一下这个描述在哪里</subtitle>
   <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2025-02-22T10:46:12.137Z</updated>
+  <updated>2025-02-22T10:54:01.325Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
   <category term="工具"/>
   <category term="使用指南"/>
-  <entry>
-    <title type="text"></title>
-    <id>https://newzone.top/PlanetSci/PlanetSci.html</id>
-    <link href="https://newzone.top/PlanetSci/PlanetSci.html"/>
-    <updated>2025-02-14T13:19:48.000Z</updated>
-    <summary type="html"><![CDATA[<h2>创建这个文件的目的</h2>
-<p>这个文件只是为了创建文件夹</p>
-]]></summary>
-    <content type="html"><![CDATA[<h2>创建这个文件的目的</h2>
-<p>这个文件只是为了创建文件夹</p>
-]]></content>
-    <published>2025-02-14T13:19:48.000Z</published>
-  </entry>
   <entry>
     <title type="text">博客文章样例 2</title>
     <id>https://newzone.top/posts/2024-03-02-blog_example2.html</id>

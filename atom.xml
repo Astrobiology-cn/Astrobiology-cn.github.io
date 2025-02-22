@@ -4,7 +4,7 @@
   <title>Astrobiology 天体生物学</title>
   <subtitle>测试一下这个描述在哪里</subtitle>
   <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2025-02-22T10:54:49.431Z</updated>
+  <updated>2025-02-22T11:09:04.044Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
@@ -33,5 +33,18 @@
 ]]></content>
     <category term="使用指南"/>
     <published>2024-03-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <id>https://newzone.top/biosci/Intro2biosci.html</id>
+    <link href="https://newzone.top/biosci/Intro2biosci.html"/>
+    <updated>2025-02-22T11:07:42.000Z</updated>
+    <summary type="html"><![CDATA[<h2>简介</h2>
+<p>这一板块将会介绍一些生命科学领域相关的内容</p>
+]]></summary>
+    <content type="html"><![CDATA[<h2>简介</h2>
+<p>这一板块将会介绍一些生命科学领域相关的内容</p>
+]]></content>
+    <published>2025-02-22T11:07:42.000Z</published>
   </entry>
 </feed>

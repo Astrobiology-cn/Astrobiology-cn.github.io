@@ -14,6 +14,7 @@ export default sidebar({
       link: "",
       collapsible: true,
       children: [
+        "Intro2biosci.md",
         {
           text: "🪐 固体行星物",
           icon: "",

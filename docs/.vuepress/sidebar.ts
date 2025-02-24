@@ -30,11 +30,7 @@ export default sidebar({
       link: "",
       collapsible: true,
       children: [
-        {
-          text:"生命科学板块简介",
-          icon: "fa-solid fa-clipboard-check ",
-          collapsible: true,
-        },
+        "intro2biosci.md",
         {
           text: "🧬 遗传学",
           icon: "",

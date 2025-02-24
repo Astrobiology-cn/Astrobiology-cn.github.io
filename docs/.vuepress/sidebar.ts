@@ -25,7 +25,7 @@ export default sidebar({
           text: "🌌行星科学导论",
           icon: "",
           collapsible: true,
-          children: [
+          children: []
         {
           text: "🔥 火星",
           icon: "",

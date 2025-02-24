@@ -1,6 +1,7 @@
 ---
 article: false
 title: 生命科学简介
+icon: fa6-solid:list
 order: 1
 ---
 ## 简介

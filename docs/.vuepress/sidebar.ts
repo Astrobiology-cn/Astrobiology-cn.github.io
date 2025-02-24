@@ -30,7 +30,7 @@ export default sidebar({
       link: "",
       collapsible: true,
       children: [
-        "intro2biosci.md",
+        "Intro2biosci.md",
         {
           text: "🧬 遗传学",
           icon: "",

@@ -23,7 +23,7 @@ export default sidebar({
         },
         {
           text: " 行星科学导论",
-          icon: "",
+          icon: "twemoji:ringed-planet",
           collapsible: true,
           children: [],
         },
@@ -42,7 +42,7 @@ export default sidebar({
       link: "",
       collapsible: true,
       children: [
-        "Intro2biosci.md",
+        "intro2biosci.md",
         {
           text: "🧬 遗传学",
           icon: "",

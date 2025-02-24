@@ -16,20 +16,45 @@ export default sidebar({
       children: [
         "intro2planetsci.md",
         {
-          text: "行星科学基础",
-          icon: "fa-light fa-planet-ringed ",
+          text: "☀️行星科学基础",
+          icon: "",
           collapsible: true,
           children: [],
         },
         {
-          text: " 行星科学导论",
-          icon: "twemoji:ringed-planet",
+          text: "🌌行星科学导论",
+          icon: "",
           collapsible: true,
-          children: [],
+          children: [
+        {
+          text: "🔥 火星",
+          icon: "",
+          collapsible: true,
+          children: ["火星地质与气候演化历史.md"],
         },
         {
-          text: "固体行星物理",
-          icon: "fa-light fa-planet-ringed ",
+          text: "🌕 月球",
+          icon: "",
+          collapsible: true,
+          children: [""],
+        },
+        {
+          text: "☿ 水星",
+          icon: "",
+          collapsible: true,
+          children: [""],
+        },
+        {
+          text: "♃ 木星",
+          icon: "",
+          collapsible: true,
+          children: [""],
+        },
+          ],
+        },
+        {
+          text: "🪐固体行星物理",
+          icon: "",
           collapsible: true,
           children: ["固体行星物理Chapter-1.md", "固体行星物理Chapter-2.md", "固体行星物理Chapter-3.md", "固体行星物理Chanpter-4.md"],
         },

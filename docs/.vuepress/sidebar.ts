@@ -5,7 +5,7 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "": [
     // 读书笔记架构更换到 docsify，不能使用相对链接
-    { text: "读书笔记", icon: "fa6-brands:readme", link: "https://github.com/Astrobiology-cn/Astrobiology-cn.github.io/reading/" },
+    { text: "读书笔记", icon: "fa6-brands:readme", link:  },
     // 指定显示页面
     {
       text: "🏝 行星科学",
@@ -16,7 +16,19 @@ export default sidebar({
       children: [
         "intro2planetsci.md",
         {
-          text: "🪐 固体行星物",
+          text: "🌌 行星科学基础",
+          icon: "",
+          collapsible: true,
+          children: [],
+        },
+        {
+          text: " 行星科学导论",
+          icon: "",
+          collapsible: true,
+          children: [],
+        },
+        {
+          text: "🪐 固体行星物理",
           icon: "",
           collapsible: true,
           children: ["固体行星物理Chapter-1.md", "固体行星物理Chapter-2.md", "固体行星物理Chapter-3.md", "固体行星物理Chanpter-4.md"],

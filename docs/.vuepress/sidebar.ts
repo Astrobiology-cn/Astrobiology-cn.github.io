@@ -16,8 +16,8 @@ export default sidebar({
       children: [
         "intro2planetsci.md",
         {
-          text: "🌌 行星科学基础",
-          icon: "",
+          text: "行星科学基础",
+          icon: "fa-light fa-planet-ringed ",
           collapsible: true,
           children: [],
         },
@@ -28,8 +28,8 @@ export default sidebar({
           children: [],
         },
         {
-          text: "🪐 固体行星物理",
-          icon: "",
+          text: "固体行星物理",
+          icon: "fa-light fa-planet-ringed ",
           collapsible: true,
           children: ["固体行星物理Chapter-1.md", "固体行星物理Chapter-2.md", "固体行星物理Chapter-3.md", "固体行星物理Chanpter-4.md"],
         },
@@ -44,14 +44,14 @@ export default sidebar({
       children: [
         "intro2biosci.md",
         {
-          text: "🧬 遗传学",
-          icon: "",
+          text: "遗传学",
+          icon: "openmoji:dna",
           collapsible: true,
           children: ["Genetics-FG2G-6ed_Chapter-1.md", "Genetics-FG2G-6ed_Chapter-2.md", "Genetics-FG2G-6ed_Chapter-3.md", "Genetics-FG2G-6ed_Chapter-4.md", "Genetics-FG2G-6ed_Chapter-5.md", "Genetics-FG2G-6ed_Chapter-6.md", "Genetics-FG2G-6ed_Chapter-7.md", "Genetics-FG2G-6ed_Chapter-8.md", "Genetics-FG2G-6ed_Chapter-9.md", "Genetics-FG2G-6ed_Chapter-10.md", "Genetics-FG2G-6ed_Chapter-11.md", "Genetics-FG2G-6ed_Chapter-12.md", "Genetics-FG2G-6ed_Chapter-13.md", "Genetics-FG2G-6ed_Chapter-14.md", "Genetics-FG2G-6ed_Chapter-15.md", "Genetics-FG2G-6ed_Chapter-16.md", "Genetics-FG2G-6ed_Chapter-17.md", "Genetics-FG2G-6ed_Chapter-18.md", "Genetics-FG2G-6ed_Chapter-19.md", "Genetics-FG2G-6ed_Chapter-20.md", "Genetics-FG2G-6ed_Chapter-21.md", "Genetics-FG2G-6ed_Chapter-22.md"],
         },
         {
-          text: "🪰 发育生物学",
-          icon: "",
+          text: "发育生物学",
+          icon: "fluent-emoji:fly",
           collapsible: true,
           children: [],
         },

@@ -1,7 +1,7 @@
 ---
 article: false
 title: 生命科学简介
-icon：fa6-solid:clipboard-check 
+icon：fa-solid fa-clipboard-check 
 order: 1
 ---
 ## 简介

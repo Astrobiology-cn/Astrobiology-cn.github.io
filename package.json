@@ -28,6 +28,7 @@
     "cpx2": "^8.0.0",
     "dashjs": "^4.7.4",
     "hls.js": "^1.5.20",
+    "katex": "^0.16.21",
     "markdownlint-cli": "^0.42.0",
     "mathjax-full": "^3.2.2",
     "prettier": "^3.4.2",

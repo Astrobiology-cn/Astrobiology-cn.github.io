@@ -107,6 +107,7 @@ export default hopeTheme(
       alert: true, // 启用 GFM 警告
       math: {
         type: "katex", // 或 'mathjax'
+        cdn: "https://cdn.jsdelivr.net/npm/katex",
       },
     },
 

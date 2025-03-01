@@ -4,7 +4,7 @@
   <title>Astrobiology 天体生物学</title>
   <subtitle>测试一下这个描述在哪里</subtitle>
   <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2025-03-01T13:56:21.761Z</updated>
+  <updated>2025-03-01T14:11:30.999Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
@@ -36,9 +36,9 @@
   </entry>
   <entry>
     <title type="text">导言 21世纪的遗传学</title>
-    <id>https://newzone.top/biosci/Genetics-FG2G_6ed_Chapter-1.html</id>
-    <link href="https://newzone.top/biosci/Genetics-FG2G_6ed_Chapter-1.html"/>
-    <updated>2025-03-01T13:45:12.000Z</updated>
+    <id>https://newzone.top/biosci/genetics/Genetics-FG2G_6ed_Chapter-1.html</id>
+    <link href="https://newzone.top/biosci/genetics/Genetics-FG2G_6ed_Chapter-1.html"/>
+    <updated>2025-03-01T14:09:51.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>第 1 章 遗传学：生物信息的研究</h2>
 <figure><figcaption></figcaption></figure>

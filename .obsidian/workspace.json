@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/reading/README.md",
+                "file": "docs/reading/_sidebar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "_sidebar"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "3dc8f976ccf68e8a",
   "lastOpenFiles": [
+    "docs/reading/2_自然哲学/生命是什么.md",
     "docs/reading/_sidebar.md",
-    "docs/reading/README.md",
     "docs/reading/1_小说/茶花女.md",
+    "docs/reading/README.md",
     "docs/planetsci/火星地质与气候演化历史.md",
     "docs/reading/1_小说/novels_images/image-20250223152749-nxo2poe.png",
     "docs/reading/1_小说/novels_images/image-20250223151612-0qcqohy.png",
@@ -184,7 +185,6 @@
     "Pasted image 20250301210344.png",
     "docs/planetsci/intro2planetsci.md",
     "docs/reading/1_小说/人类灭绝.md",
-    "docs/reading/2_自然哲学/生命是什么.md",
     "docs/reading/3_人物传记/竺可桢传.md",
     "1_小说/人类灭绝.md",
     "1_小说",

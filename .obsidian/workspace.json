@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/reading/1_小说/茶花女.md",
+                "file": "docs/reading/_sidebar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "茶花女"
+              "title": "_sidebar"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "bb9ef579204bc0dc",
   "lastOpenFiles": [
-    "docs/planetsci/intro2planetsci.md",
     "docs/reading/1_小说/茶花女.md",
+    "docs/planetsci/intro2planetsci.md",
     "docs/reading/_sidebar.md",
     "docs/reading/1_小说/人类灭绝.md",
     "docs/reading/2_自然哲学/生命是什么.md",

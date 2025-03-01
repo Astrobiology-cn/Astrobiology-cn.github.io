@@ -5,7 +5,7 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "": [
     // 读书笔记架构更换到 docsify，不能使用相对链接
-    { text: "读书笔记", icon: "fa6-brands:readme", link:"https://astrobiology-cn.github.io/reading/" },
+    { text: "读书笔记", icon: "fa6-brands:readme", link:"https://astrobiology-cn.github.io/reading" },
     // 指定显示页面
     {
       text: "🏝 行星科学",

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/火星地质与气候演化历史.md",
+                "file": "docs/planetsci/intro2planetsci.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "火星地质与气候演化历史"
+              "title": "intro2planetsci"
+            }
+          },
+          {
+            "id": "bb9ef579204bc0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/reading/1_小说/茶花女.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "茶花女"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,9 +183,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "775a39ac92258a0e",
+  "active": "bb9ef579204bc0dc",
   "lastOpenFiles": [
     "docs/planetsci/intro2planetsci.md",
-    "docs/planetsci/火星地质与气候演化历史.md"
+    "docs/reading/1_小说/茶花女.md",
+    "docs/reading/_sidebar.md",
+    "docs/reading/1_小说/人类灭绝.md",
+    "docs/reading/2_自然哲学/生命是什么.md",
+    "docs/reading/3_人物传记/竺可桢传.md",
+    "1_小说/人类灭绝.md",
+    "1_小说",
+    "docs/reading/0_散文",
+    "docs/reading/新建文件夹",
+    "docs/reading/3_人物传记",
+    "docs/reading/2_自然哲学",
+    "docs/family/Coupon.md",
+    "docs/reading/2_",
+    "docs/reading/1_小说",
+    "docs/reading/_navbar.md",
+    "docs/blog.md",
+    "docs/reading/README.md",
+    "2_自然哲学/生命是什么.md",
+    "2_自然哲学",
+    "docs/planetsci/火星地质与气候演化历史.md",
+    "docs/deploy/Cloudflare.md",
+    "docs/biosci/intro2biosci.md"
   ]
 }

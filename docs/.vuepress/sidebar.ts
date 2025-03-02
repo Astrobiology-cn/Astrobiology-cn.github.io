@@ -74,7 +74,7 @@ export default sidebar({
                     prefix:"/biosci/genetics",
                     link:"",
                     collapsible: true,
-                    children: [],
+                    children: ["Genetics-FG2G_6ed_Chapter-1.md"],
                   },
                   {
                     text: "发育生物学",

@@ -104,7 +104,7 @@ export default sidebar({
                 ],
     },
     {
-      text: "🧰 应用手册",
+      text: "🔢 数学物理",
       icon: "",
       prefix: "/math/",
       link: "",

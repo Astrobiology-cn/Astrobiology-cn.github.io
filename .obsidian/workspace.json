@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/行星的属性.md",
+                "file": "docs/math/勒让德多项式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行星的属性"
+              "title": "勒让德多项式"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/planetsci/planetfundamental/行星的属性.md",
+                "file": "docs/math/勒让德多项式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "行星的属性 的大纲"
+              "title": "勒让德多项式 的大纲"
             }
           }
         ],
@@ -199,11 +199,11 @@
   },
   "active": "6c13c9141ed2cdbf",
   "lastOpenFiles": [
+    "docs/planetsci/planetfundamental/行星的属性.md",
     "docs/planetsci/planetfundamental/类地行星动力学.md",
     "docs/planetsci/planetfundamental/images/20250303-113119.png",
     "docs/planetsci/planetfundamental/images/20250303-103229.png",
     "docs/planetsci/planetfundamental/images/234b70d75fbb3e8a9f3af396175006b546abe65cbbfe90405a97e9994ed2a3e0.jpg",
-    "docs/planetsci/planetfundamental/行星的属性.md",
     "docs/math/梯度散度旋度.md",
     "docs/planetsci/planetfundamental/images/da2f5d46c11e27ba6ec06777e2362acf0349846123ee92d2e439c664712d92df.jpg",
     "docs/planetsci/planetfundamental/images",

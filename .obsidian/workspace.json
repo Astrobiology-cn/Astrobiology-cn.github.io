@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/mars/火星地质与气候演化历史.md",
+                "file": "docs/planetsci/planetfundamental/类地行星动力学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "火星地质与气候演化历史"
+              "title": "类地行星动力学"
+            }
+          },
+          {
+            "id": "6c13c9141ed2cdbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/planetsci/planetfundamental/行星的属性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "行星的属性"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/planetsci/mars/火星地质与气候演化历史.md",
+                "file": "docs/planetsci/planetfundamental/类地行星动力学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "火星地质与气候演化历史 的反向链接列表"
+              "title": "类地行星动力学 的反向链接列表"
             }
           },
           {
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/planetsci/mars/火星地质与气候演化历史.md",
+                "file": "docs/planetsci/planetfundamental/行星的属性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "火星地质与气候演化历史 的大纲"
+              "title": "行星的属性 的大纲"
             }
           }
         ],
@@ -183,20 +197,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8500fcefeb542f89",
+  "active": "6c13c9141ed2cdbf",
   "lastOpenFiles": [
     "docs/planetsci/planetfundamental/类地行星动力学.md",
+    "docs/planetsci/planetfundamental/images/20250303-113119.png",
+    "docs/planetsci/planetfundamental/images/20250303-103229.png",
+    "docs/planetsci/planetfundamental/images/234b70d75fbb3e8a9f3af396175006b546abe65cbbfe90405a97e9994ed2a3e0.jpg",
+    "docs/planetsci/planetfundamental/行星的属性.md",
+    "docs/math/梯度散度旋度.md",
+    "docs/planetsci/planetfundamental/images/da2f5d46c11e27ba6ec06777e2362acf0349846123ee92d2e439c664712d92df.jpg",
+    "docs/planetsci/planetfundamental/images",
+    "docs/math/勒让德多项式.md",
+    "docs/planetsci/planetfundamental/屏幕截图 2025-03-03 113119.png",
+    "docs/planetsci/mars/火星地质与气候演化历史.md",
     "docs/planetsci/intro2planetsci.md",
     "docs/planetsci/planetfundamental",
-    "docs/planetsci/mars/火星地质与气候演化历史.md",
     "docs/planetsci/mars",
-    "docs/math/勒让德多项式.md",
     "docs/reading/1_小说/茶花女.md",
     "屏幕截图.md",
-    "docs/planetsci/planetfundamental/20250303-103229.png",
     "docs/planetsci/屏幕截图 2025-03-03 103229.png",
     "docs/planetsci/planetarydynamics",
-    "docs/math/梯度散度旋度.md",
     "Pasted image 20250301210344.png",
     "docs/planetsci/mars",
     "Pasted image 20250301210416.png",
@@ -213,7 +233,6 @@
     "docs/reading/1_小说/人类灭绝.md",
     "docs/reading/3_人物传记/竺可桢传.md",
     "1_小说/人类灭绝.md",
-    "1_小说",
     "docs/family/Coupon.md",
     "docs/reading/_navbar.md",
     "docs/blog.md",

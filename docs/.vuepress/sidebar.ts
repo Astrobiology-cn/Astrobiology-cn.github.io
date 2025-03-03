@@ -21,7 +21,7 @@ export default sidebar({
                     prefix: "/planetsci/planetfundamental",
                     link: "",
                     collapsible: true,
-                    children: ["类地行星动力学.md"],
+                    children: ["类地行星动力学.md","行星的属性.md"],
                   },
                   {
                     text: "🌌行星科学导论",
@@ -103,7 +103,18 @@ export default sidebar({
                   },
                 ],
     },
-        {
+    {
+      text: "🧰 应用手册",
+      icon: "",
+      prefix: "/math/",
+      link: "",
+      collapsible: true,
+      children: [
+        "勒让德多项式",
+        "梯度散度旋度",
+      ],
+    },
+    {
       text: "🧰 应用手册",
       icon: "",
       prefix: "/apps/",

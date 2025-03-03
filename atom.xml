@@ -4,7 +4,7 @@
   <title>Astrobiology 天体生物学</title>
   <subtitle>测试一下这个描述在哪里</subtitle>
   <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2025-03-03T02:56:47.443Z</updated>
+  <updated>2025-03-03T03:08:24.413Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
@@ -416,10 +416,10 @@ l. 突变 12.  RNA中的四个碱基中唯一一个不在DNA中</p>
     <published>2025-03-01T13:45:12.000Z</published>
   </entry>
   <entry>
-    <title type="text"></title>
-    <id>https://newzone.top/planetsci/planetarydynamics/%E7%B1%BB%E5%9C%B0%E8%A1%8C%E6%98%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6.html</id>
-    <link href="https://newzone.top/planetsci/planetarydynamics/%E7%B1%BB%E5%9C%B0%E8%A1%8C%E6%98%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6.html"/>
-    <updated>2025-03-03T02:55:16.000Z</updated>
+    <title type="text">类地行星动力学</title>
+    <id>https://newzone.top/planetsci/planetfundamental/%E7%B1%BB%E5%9C%B0%E8%A1%8C%E6%98%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6.html</id>
+    <link href="https://newzone.top/planetsci/planetfundamental/%E7%B1%BB%E5%9C%B0%E8%A1%8C%E6%98%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6.html"/>
+    <updated>2025-03-03T03:06:51.000Z</updated>
     <summary type="html"><![CDATA[<h3>重力势</h3>
 <h4>1.行星重力势的一般形式</h4>
 <h5>引力势的定义</h5>

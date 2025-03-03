@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>测试一下这个描述在哪里</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 03 Mar 2025 02:56:47 GMT</pubDate>
-    <lastBuildDate>Mon, 03 Mar 2025 02:56:47 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Mar 2025 03:08:24 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Mar 2025 03:08:24 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -377,10 +377,10 @@ l. 突变 12.  RNA中的四个碱基中唯一一个不在DNA中</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title></title>
-      <link>https://newzone.top/planetsci/planetarydynamics/%E7%B1%BB%E5%9C%B0%E8%A1%8C%E6%98%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6.html</link>
-      <guid>https://newzone.top/planetsci/planetarydynamics/%E7%B1%BB%E5%9C%B0%E8%A1%8C%E6%98%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6.html</guid>
-      <source url="https://newzone.top/rss.xml"></source>
+      <title>类地行星动力学</title>
+      <link>https://newzone.top/planetsci/planetfundamental/%E7%B1%BB%E5%9C%B0%E8%A1%8C%E6%98%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6.html</link>
+      <guid>https://newzone.top/planetsci/planetfundamental/%E7%B1%BB%E5%9C%B0%E8%A1%8C%E6%98%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6.html</guid>
+      <source url="https://newzone.top/rss.xml">类地行星动力学</source>
       <description>重力势 1.行星重力势的一般形式 引力势的定义 引力势Φg​(r)定义为： Φg​(r)≡−∫∞r​mFg​(r′)​dr′ 引力加速度是引力势的梯度： dt2d2r​=−∇Φg​(r) 通常Φg​(r)满足泊松方程： ∇2Φg​=4πρG 真空中ρ等于0，因此满足拉普拉斯方程： ∇2Φg​=0 球体的引力势 image 定义距离球体球心r处收到球体r...</description>
       <pubDate>Mon, 03 Mar 2025 02:55:16 GMT</pubDate>
       <content:encoded><![CDATA[<h3>重力势</h3>

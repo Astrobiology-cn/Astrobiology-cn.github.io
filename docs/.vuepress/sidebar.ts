@@ -109,10 +109,7 @@ export default sidebar({
       prefix: "/math/",
       link: "",
       collapsible: true,
-      children: [
-        "勒让德多项式",
-        "梯度散度旋度",
-      ],
+      children: "structure",
     },
     {
       text: "🧰 应用手册",

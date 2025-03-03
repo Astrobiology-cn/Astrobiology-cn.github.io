@@ -1,3 +1,9 @@
+---
+article: 
+icon: 
+title: 导言 21世纪的遗传学
+---
+
 # 导言 21世纪的遗传学  
 
 ## 第 1 章 遗传学：生物信息的研究  
@@ -23,7 +29,6 @@ $\copyright$ James Strachan/Getty Images
 
 ![](Genetics-FG2G_6ed_Chapter-1_images/Fig-1.2.jpg)  
 图1.1 DNA中的生物信息产生了巨大的生物多样性。  
-（a）： $\copyright$ Kwangshin Kim/Science Source；（b）： $\copyright$ Frank & Joyce Burek/Getty Images RF；（c）： $\copyright$ Carl D. Walsh/Getty Images RF；（d）： $\copyright$ BrandX Pictures/PunchStock RF；（e）： $\copyright$ H. Wiesenhofer/PhotoLink/Getty Images RF；（f）： $\copyright$ Ingram Publishing RF；（g）：来源：Carey James Balboa.https://en.wikipedia.org/wiki/File:Red_eyed_tree_frog_edit2.jpg；（h）： $\copyright$ Digital Vision RF  
 
 ## 1.1 DNA：生命的基本信息分子  
 
@@ -99,19 +104,20 @@ $\copyright$ James Strachan/Getty Images
 
 尽管会发生DNA的突变并由此导致蛋白质序列的改变，但将一个生物体的基因植入另一个完全不同生物体的基因组中后，会发现它在新环境中能够正常工作。例如，帮助调节细胞分裂的人类基因可以取代酵母中的相关基因，使酵母细胞能够正常工作。  
 
-在观察眼睛发育的研究中，科学家发现了在这一生图1.6　不同物种基因产物的比较为生物体的亲缘关系提供了证据。这张图显示了6个物种中细胞色素c蛋白相同部分的氨基酸序列：酿酒酵母（酵母）、拟南芥（草本状开花植物）、秀丽隐杆线虫（线虫）、黑腹果蝇（果蝇）、小鼠（鼠）和智人（人类）。有关氨基酸名称的关键，请参阅图1.4（b）。  
+图1.6　不同物种基因产物的比较为生物体的亲缘关系提供了证据。这张图显示了6个物种中细胞色素c蛋白相同部分的氨基酸序列：酿酒酵母（酵母）、拟南芥（草本状开花植物）、秀丽隐杆线虫（线虫）、黑腹果蝇（果蝇）、小鼠（鼠）和智人（人类）。有关氨基酸名称的关键，请参阅图1.4（b）。  
 
 <html><body><table><tr><td>酿酒酵母 拟南芥 秀丽隐杆线虫 黑腹果蝇 小鼠</td><td>GPNLHGIFGRHSGQVKGYSYTDANINKNVKW GPELHGLFGRKTGSVAGYSYTDANKQKGIEW GPTLHGVIGRTSGTVSGFDYSAANKNKGVVW GPNLHGLIGRKTGQAAGFAYTDANKAKGITW GPNLHGLFGRKTGQAAGFSYTDANKNKGITW</td></tr><tr><td>智人 *米 *** * 米</td><td>GPNLHGLFGRKTGQAPGYSYTAANKNKGIIW * 米 米 *</td></tr><tr><td>酿酒酵母</td><td>DEDSMSEYLTNPKKYIPGTKMAFAGLKKEKDR</td></tr><tr><td>拟南芥</td><td>KDDTLFEYLENPKKYIPGTKMAFGGLKKPKDR TKETLFEYLLNPKKYIPGTKMVFAGLKKADER</td></tr><tr><td>秀丽隐杆线虫</td><td>NEDTLFEYLENPKKYIPGTKMIFAGLKKPNER</td></tr><tr><td>黑腹果蝇 小鼠</td><td>GEDTLMEYLENPKKYIPGTKMIFAGIKKKGER</td></tr><tr><td></td><td></td></tr><tr><td>智人</td><td>GEDTLMEYLENPKKYIPGTKMIFVGIKKKEER **米 米*米****米**米 米 * 米</td></tr></table></body></html>
 
 \*       .  
 
-物信息水平上最显著的关联实例之一。昆虫和脊椎动物（包括人类）都有眼睛，但它们是完全不同的类型（图1.7）。生物学家长期以来一直认为眼睛的进化是独立发生的，在许多进化论教科书中，眼睛被作为趋同进化的一个例子，在这种进化中，由于自然选择的结果，不同物种中出现了结构上不相关但功能上类似的器官。直到科学家后来对一种名为Pax6的基因进行研究后才颠覆了这一观点。  
+在观察眼睛发育的研究中，科学家发现了在这一生物信息水平上最显著的关联实例之一。昆虫和脊椎动物（包括人类）都有眼睛，但它们是完全不同的类型（图1.7）。生物学家长期以来一直认为眼睛的进化是独立发生的，在许多进化论教科书中，眼睛被作为趋同进化的一个例子，在这种进化中，由于自然选择的结果，不同物种中出现了结构上不相关但功能上类似的器官。直到科学家后来对一种名为Pax6的基因进行研究后才颠覆了这一观点。  
 
-Pax6基因的突变导致人类和小鼠眼睛的发育失败，分子研究表明，Pax6可能在所有脊椎动物眼睛发育的启动过程中发挥核心作用。值得注意的是，当人类Pax6基因在果蝇身体表面的细胞中表达时，会诱导大量的小眼睛在那里发育。结果表明，果蝇也有一种特殊的蛋白基因，其氨基酸序列与人类Pax6所指定的蛋白质序列虽然图1.7　昆虫的眼睛与人类有着共同的祖先。（a）蝇类眼睛；（b）人类眼睛。  
+Pax6基因的突变导致人类和小鼠眼睛的发育失败，分子研究表明，Pax6可能在所有脊椎动物眼睛发育的启动过程中发挥核心作用。值得注意的是，当人类Pax6基因在果蝇身体表面的细胞中表达时，会诱导大量的小眼睛在那里发育。结果表明，果蝇也有一种特殊的蛋白基因，其氨基酸序列与人类Pax6所指定的蛋白质序列虽然距离较远，但明显相关；此外，果蝇基因的某些突变会导致动物失明。综上所述，这些结果表明，在6亿年的进化过程中，一个祖先基因作为启动眼睛发育的主要控制开关，虽然Pax6基因在人类和果蝇的谱系中积累了不同的突变，但在这两个不同的物种中仍然发挥着相同的功能。  
 
 ![](Genetics-FG2G_6ed_Chapter-1_images/Fig-1.7.jpg)  
 
-（a）： $\copyright$ Science Source；（b）： $\copyright$ Nick Koudis/Getty Images RF距离较远，但明显相关；此外，果蝇基因的某些突变会导致动物失明。综上所述，这些结果表明，在6亿年的进化过程中，一个祖先基因作为启动眼睛发育的主要控制开关，虽然Pax6基因在人类和果蝇的谱系中积累了不同的突变，但在这两个不同的物种中仍然发挥着相同的功能。  
+图1.7　昆虫的眼睛与人类有着共同的祖先。（a）蝇类眼睛；（b）人类眼睛。  （a）： $\copyright$ Science Source；（b）： $\copyright$ Nick Koudis/Getty Images \RF
+
 
 从生物信息学的不同角度来讲，亲缘性和统一性的作用怎么强调也不过分。这意味着，在许多情况下，对被称为模式生物体的生物实验研究同样可以揭示人类的基因功能。也就是说，如果类似于人类基因功能的基因在果蝇或细菌等简单的模式生物中发挥作用，科学家就可以通过对这些可实验操作的生物模型的研究来揭示此基因在人体中发挥作用的过程。  
 

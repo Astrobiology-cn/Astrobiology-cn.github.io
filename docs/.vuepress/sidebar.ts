@@ -18,8 +18,10 @@ export default sidebar({
                   {
                     text: "☀️行星科学基础",
                     icon: "",
+                    prefix: "/planetsci/planetfundamental",
+                    link: "",
                     collapsible: true,
-                    children: [],
+                    children: ["类地行星动力学.md"],
                   },
                   {
                     text: "🌌行星科学导论",
@@ -29,6 +31,8 @@ export default sidebar({
                                 {
                                   text: "火星",
                                   icon: "",
+                                  prefix: "/planetsci/mars/",
+                                  link: "",
                                   collapsible: true,
                                   children: ["火星地质与气候演化历史.md"],
                                 },

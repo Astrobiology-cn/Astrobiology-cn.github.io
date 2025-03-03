@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetarydynamics/类地行星动力学.md",
+                "file": "docs/planetsci/mars/火星地质与气候演化历史.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "类地行星动力学"
+              "title": "火星地质与气候演化历史"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/planetsci/planetarydynamics/类地行星动力学.md",
+                "file": "docs/planetsci/mars/火星地质与气候演化历史.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "类地行星动力学 的反向链接列表"
+              "title": "火星地质与气候演化历史 的反向链接列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/planetsci/planetarydynamics/类地行星动力学.md",
+                "file": "docs/planetsci/mars/火星地质与气候演化历史.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "类地行星动力学 的大纲"
+              "title": "火星地质与气候演化历史 的大纲"
             }
           }
         ],
@@ -185,16 +185,18 @@
   },
   "active": "8500fcefeb542f89",
   "lastOpenFiles": [
-    "docs/math/勒让德多项式.md",
-    "docs/planetsci/planetarydynamics/类地行星动力学.md",
+    "docs/planetsci/planetfundamental/类地行星动力学.md",
     "docs/planetsci/intro2planetsci.md",
+    "docs/planetsci/planetfundamental",
+    "docs/planetsci/mars/火星地质与气候演化历史.md",
+    "docs/planetsci/mars",
+    "docs/math/勒让德多项式.md",
     "docs/reading/1_小说/茶花女.md",
     "屏幕截图.md",
-    "docs/planetsci/planetarydynamics/20250303-103229.png",
+    "docs/planetsci/planetfundamental/20250303-103229.png",
     "docs/planetsci/屏幕截图 2025-03-03 103229.png",
     "docs/planetsci/planetarydynamics",
     "docs/math/梯度散度旋度.md",
-    "docs/planetsci/mars/火星地质与气候演化历史.md",
     "Pasted image 20250301210344.png",
     "docs/planetsci/mars",
     "Pasted image 20250301210416.png",
@@ -212,8 +214,6 @@
     "docs/reading/3_人物传记/竺可桢传.md",
     "1_小说/人类灭绝.md",
     "1_小说",
-    "docs/reading/0_散文",
-    "docs/reading/新建文件夹",
     "docs/family/Coupon.md",
     "docs/reading/_navbar.md",
     "docs/blog.md",

@@ -106,8 +106,8 @@ export default hopeTheme(
       hint: true, // 启用提示容器，默认启用
       alert: true, // 启用 GFM 警告
       math: {
-        type: "katex", // 或 'mathjax'
-        cdn: "https://cdn.jsdelivr.net/npm/katex",
+        type: "mathjax", // 或 'katex'
+        //cdn: "https://cdn.jsdelivr.net/npm/katex",
       },
     },
 

@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>测试一下这个描述在哪里</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 03 Mar 2025 16:30:30 GMT</pubDate>
-    <lastBuildDate>Mon, 03 Mar 2025 16:30:30 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Mar 2025 16:40:27 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Mar 2025 16:40:27 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -47,7 +47,7 @@
 他的主要贡献在统计学、数论、抽象代数与数学分析，他是椭圆积分的莫基人之一。勒让德星(26950 Legendre)以他的名字命名。</p>
 <h2>勒让德方程</h2>
 <p>勒让德方程为：</p>
-<p>我们仅在区间&nbsp;x∈[−1,1]&nbsp;上考虑&nbsp;l&nbsp;为非负整数的情况。方程的解&nbsp;&nbsp;是关于&nbsp;&nbsp;的&nbsp;阶多项式</p>
+<p>我们仅在区间&nbsp;x∈[−1,1]&nbsp;上考虑&nbsp;l&nbsp;为非负整数的情况方程的解&nbsp;&nbsp;是关于&nbsp;的阶多项式</p>
 <p>其中&nbsp;&nbsp;是向下取整函数。当&nbsp;&nbsp;是整数，，当&nbsp;是非整数，&nbsp;是小于&nbsp;&nbsp;的最大整数。
 勒让德不等式的前几项如下：</p>
 <figure><img src="https://wuli.wiki/online/f8158805e1817880.svg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>

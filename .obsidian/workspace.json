@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/勒让德多项式.md",
+                "file": "docs/biosci/devebio/发育调控的普适原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "勒让德多项式"
+              "title": "发育调控的普适原理"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/勒让德多项式.md",
+                "file": "docs/math/梯度散度旋度.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "勒让德多项式"
+              "title": "梯度散度旋度"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/math/勒让德多项式.md",
+                "file": "docs/math/梯度散度旋度.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "勒让德多项式 的大纲"
+              "title": "梯度散度旋度 的大纲"
             }
           }
         ],
@@ -182,10 +183,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8500fcefeb542f89",
+  "active": "cea0289d21f0b67d",
   "lastOpenFiles": [
-    "docs/planetsci/planetfundamental/类地行星动力学.md",
     "docs/math/勒让德多项式.md",
+    "docs/biosci/devebio/发育调控的普适原理.md",
+    "docs/biosci/devebio/devebioimages/20250304-103815.png",
+    "docs/biosci/devebio/devebioimages/屏幕截图 2025-03-04 103815.png",
+    "docs/biosci/devebio/devebioimages/20250304-102925.png",
+    "docs/biosci/devebio/devebioimages/屏幕截图 2025-03-04 102925.png",
+    "docs/biosci/devebio/devebioimages",
+    "docs/biosci/devebio/新建文件夹",
+    "docs/planetsci/planetfundamental/行星的属性.md",
+    "docs/biosci/devebio",
+    "docs/planetsci/planetfundamental/类地行星动力学.md",
     "docs/reading/1_小说/茶花女.md",
     "docs/reading/1_小说/人类灭绝.md",
     "docs/reading/3_人物传记/竺可桢传.md",
@@ -195,7 +205,6 @@
     "docs/math/高等数学导航.md",
     "docs/math/数学物理版块介绍.md",
     "docs/math/梯度散度旋度.md",
-    "docs/planetsci/planetfundamental/行星的属性.md",
     "docs/biosci/genetics/Genetics-FG2G_6ed_Chapter-1.md",
     "docs/family/Coupon.md",
     "docs/family/Diet.md",
@@ -213,22 +222,13 @@
     "屏幕截图.md",
     "docs/planetsci/屏幕截图 2025-03-03 103229.png",
     "docs/planetsci/planetarydynamics",
-    "Pasted image 20250301210344.png",
     "docs/planetsci/mars",
-    "Pasted image 20250301210416.png",
     "docs/math",
     "docs/reading/_sidebar.md",
     "docs/reading/README.md",
-    "docs/reading/1_小说/novels_images/image-20250223152749-nxo2poe.png",
-    "docs/reading/1_小说/novels_images/image-20250223151612-0qcqohy.png",
     "docs/reading/1_小说/novels_images",
-    "docs/reading/1_小说/novels_images/20250301210416",
-    "docs/reading/1_小说/novels_images/20250301210344",
-    "docs/reading/1_小说/新建文件夹",
     "1_小说/人类灭绝.md",
     "docs/blog.md",
-    "2_自然哲学/生命是什么.md",
-    "docs/deploy/Cloudflare.md",
-    "docs/biosci/intro2biosci.md"
+    "2_自然哲学/生命是什么.md"
   ]
 }

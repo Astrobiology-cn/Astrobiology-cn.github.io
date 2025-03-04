@@ -83,8 +83,10 @@ export default sidebar({
                   {
                     text: "发育生物学",
                     icon: "fluent-emoji:fly",
+                    prefix:"/biosci/devebio",
+                    link:"",
                     collapsible: true,
-                    children: [],
+                    children: ["发育调控的普适原理.md"],
                   },
                 ],
     },

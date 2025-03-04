@@ -35,8 +35,7 @@
               "title": "梯度散度旋度"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/math/梯度散度旋度.md",
+                "file": "docs/biosci/devebio/发育调控的普适原理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "梯度散度旋度 的大纲"
+              "title": "发育调控的普适原理 的大纲"
             }
           }
         ],
@@ -183,8 +182,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cea0289d21f0b67d",
+  "active": "8500fcefeb542f89",
   "lastOpenFiles": [
+    "docs/math/梯度散度旋度.md",
     "docs/math/勒让德多项式.md",
     "docs/biosci/devebio/发育调控的普适原理.md",
     "docs/biosci/devebio/devebioimages/20250304-103815.png",
@@ -204,7 +204,6 @@
     "docs/math/普通物理导航.md",
     "docs/math/高等数学导航.md",
     "docs/math/数学物理版块介绍.md",
-    "docs/math/梯度散度旋度.md",
     "docs/biosci/genetics/Genetics-FG2G_6ed_Chapter-1.md",
     "docs/family/Coupon.md",
     "docs/family/Diet.md",

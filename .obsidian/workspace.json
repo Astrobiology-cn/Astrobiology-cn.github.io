@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/biosci/devebio/发育调控的普适原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "发育调控的普适原理"
-            }
-          },
-          {
-            "id": "cea0289d21f0b67d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/math/梯度散度旋度.md",
                 "mode": "source",
                 "source": false
@@ -34,8 +20,23 @@
               "icon": "lucide-file",
               "title": "梯度散度旋度"
             }
+          },
+          {
+            "id": "000a83ffcb7b3558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_posts/2025-03-04-blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-04-blog"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:空间站，载荷",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f50509859d857dda",
@@ -156,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/biosci/devebio/发育调控的普适原理.md",
+                "file": "docs/_posts/2025-03-04-blog.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "发育调控的普适原理 的大纲"
+              "title": "2025-03-04-blog 的大纲"
             }
           }
         ],
@@ -182,52 +184,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8500fcefeb542f89",
+  "active": "000a83ffcb7b3558",
   "lastOpenFiles": [
+    "docs/_posts/images/4edf10274f90e12777077c7687f16ebd4739ea80ae0d9c429b3e9ad446db683e.jpg",
+    "docs/_posts/images/7bd94ab1617f197e2e19fdb6ad95a725670f07f2fa6b4d9efef774b65445c036.jpg",
+    "docs/_posts/images/774b52146342e3ba30179c20b1eb2db5a4d5840004cef6a9bc535345f7522f6a.jpg",
+    "docs/_posts/images/fffb26d4631762c1696551b2d9e9acf003b6b607bcbdc2429598ca98123bf515.jpg",
+    "docs/_posts/images/fdce70fd2a9664bb9aba1b5122b9f597e18328c947e70cc99fe34471923f930d.jpg",
+    "docs/_posts/images/f4aca63d3836f545d8fd917a93e7475a2d91a9d5cd81fdffc5d3e4a9c152872b.jpg",
+    "docs/_posts/images/e83e3d6ccd8fa6da2a401a0ccd0c1945a9c67c07d51092fb59c169ebefc25e08.jpg",
+    "docs/_posts/images/dd4c82bac5200fee66333c396851a491204cce0b10962ddfc2ea611cafcc23fb.jpg",
+    "docs/_posts/images/c526a45922cb324750e971830a6ca85ace37148d5b13c664bdc824493d6906a9.jpg",
+    "docs/_posts/images/c44dfe65d5ab744768d9e27386d7eee17d59a2af6ceab7f2d232ba44b6495719.jpg",
+    "docs/_posts/images/b8cdd05970a459c29a5287154ae32655672cfe4dab12b00d6163f4dda3b3d24d.jpg",
+    "docs/_posts/images",
     "docs/math/梯度散度旋度.md",
+    "docs/_posts/2025-03-04-blog.md",
+    "docs/planetsci/planetfundamental/行星的属性.md",
+    "docs/planetsci/planetfundamental/类地行星动力学.md",
+    "docs/planetsci/mars/火星地质与气候演化历史.md",
+    "docs/math/数学物理版块介绍.md",
+    "docs/math/普通物理导航.md",
     "docs/math/勒让德多项式.md",
+    "docs/math/高等数学导航.md",
     "docs/biosci/devebio/发育调控的普适原理.md",
-    "docs/biosci/devebio/devebioimages/20250304-103815.png",
-    "docs/biosci/devebio/devebioimages/屏幕截图 2025-03-04 103815.png",
-    "docs/biosci/devebio/devebioimages/20250304-102925.png",
-    "docs/biosci/devebio/devebioimages/屏幕截图 2025-03-04 102925.png",
+    "docs/biosci/devebio/发育生物学学科的建立.md",
+    "docs/_posts/2024-03-02-blog_example2.md",
+    "docs/_posts/2024-03-01-blog_example.md",
+    "docs/blog.md",
+    "docs/Fitness.md",
+    "docs/README.md",
+    "docs/intro.md",
     "docs/biosci/devebio/devebioimages",
     "docs/biosci/devebio/新建文件夹",
-    "docs/planetsci/planetfundamental/行星的属性.md",
     "docs/biosci/devebio",
-    "docs/planetsci/planetfundamental/类地行星动力学.md",
     "docs/reading/1_小说/茶花女.md",
     "docs/reading/1_小说/人类灭绝.md",
     "docs/reading/3_人物传记/竺可桢传.md",
     "docs/reading/_navbar.md",
     "docs/reading/2_自然哲学/生命是什么.md",
-    "docs/math/普通物理导航.md",
-    "docs/math/高等数学导航.md",
-    "docs/math/数学物理版块介绍.md",
     "docs/biosci/genetics/Genetics-FG2G_6ed_Chapter-1.md",
     "docs/family/Coupon.md",
     "docs/family/Diet.md",
-    "docs/family/Life.md",
-    "docs/planetsci/planetfundamental/images/20250303-113119.png",
-    "docs/planetsci/planetfundamental/images/20250303-103229.png",
-    "docs/planetsci/planetfundamental/images/234b70d75fbb3e8a9f3af396175006b546abe65cbbfe90405a97e9994ed2a3e0.jpg",
-    "docs/planetsci/planetfundamental/images/da2f5d46c11e27ba6ec06777e2362acf0349846123ee92d2e439c664712d92df.jpg",
     "docs/planetsci/planetfundamental/images",
-    "docs/planetsci/planetfundamental/屏幕截图 2025-03-03 113119.png",
-    "docs/planetsci/mars/火星地质与气候演化历史.md",
-    "docs/planetsci/intro2planetsci.md",
     "docs/planetsci/planetfundamental",
     "docs/planetsci/mars",
-    "屏幕截图.md",
-    "docs/planetsci/屏幕截图 2025-03-03 103229.png",
     "docs/planetsci/planetarydynamics",
     "docs/planetsci/mars",
-    "docs/math",
-    "docs/reading/_sidebar.md",
-    "docs/reading/README.md",
-    "docs/reading/1_小说/novels_images",
-    "1_小说/人类灭绝.md",
-    "docs/blog.md",
-    "2_自然哲学/生命是什么.md"
+    "docs/math"
   ]
 }

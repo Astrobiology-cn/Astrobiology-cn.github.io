@@ -55,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -184,6 +184,12 @@
   },
   "active": "77d54df5320a0538",
   "lastOpenFiles": [
+    "docs/biosci/devebio/devebio-2.md",
+    "docs/biosci/devebio/devebio-0.md",
+    "docs/biosci/devebio/devebio-1.md",
+    "devebio/devebio-1.md",
+    "devebio",
+    "devebio-1.md",
     "docs/deploy/VPS.md",
     "docs/deploy/Static.md",
     "docs/deploy/MySQL.md",
@@ -197,9 +203,6 @@
     "docs/code/Javascript.md",
     "docs/code/HTML.md",
     "docs/biosci/devebio/devebio-3.md",
-    "docs/biosci/devebio/devebio-2.md",
-    "docs/biosci/devebio/devebio-1.md",
-    "docs/biosci/devebio/devebio-0.md",
     "docs/math/gdc.md",
     "docs/math/advanced_math.md",
     "docs/math/general_Physics.md",
@@ -210,7 +213,6 @@
     "docs/_temp",
     "samplepage.md",
     "Pasted image 20250304125231.png",
-    "docs/planetsci/planetfundamental/planet_properties.md",
     "docs/planetsci/planetfundamental/images/fb5b7d66c746b672063e2940951d5f6e631d69eb25c75b6c0d860540fbd3b1b8.jpg",
     "docs/planetsci/planetfundamental/images/ccd01fe4512eb6e3fdd05828bd48f1b3e4a63124b962582e4c1849f19b3bfa8d.jpg",
     "docs/planetsci/planetfundamental/images/c3c44a3488af250a9b77a484d4aa1442456db97c66b55af800e5e8f36b114e9f.jpg",
@@ -220,7 +222,6 @@
     "docs/planetsci/planetfundamental/images/566d4b867901417fe8eb4b91e2dda1db6994dcc6d2bb92e261ba802da8c174dc.jpg",
     "docs/planetsci/planetfundamental/images/62b9699500e1bff1b6730bc4eea790d3b2a6543bc9d79a8e8fece17e4de265c1.jpg",
     "docs/planetsci/planetfundamental/images/15c5eb1c2847f5c32a2c9da4956088cea199129f89a8960bb6f275a24ae4d41b.jpg",
-    "docs/planetsci/planetfundamental/未命名.md",
     "docs/_posts/images",
     "docs/biosci/devebio/devebioimages",
     "docs/biosci/devebio/新建文件夹",
@@ -228,7 +229,6 @@
     "docs/planetsci/planetfundamental/images",
     "docs/planetsci/planetfundamental",
     "docs/planetsci/mars",
-    "docs/planetsci/planetarydynamics",
-    "docs/planetsci/mars"
+    "docs/planetsci/planetarydynamics"
   ]
 }

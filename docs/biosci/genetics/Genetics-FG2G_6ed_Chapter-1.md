@@ -1,5 +1,5 @@
 ---
-article: 
+article: false
 icon: 
 title: 导言 21世纪的遗传学
 ---

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/biosci/devebio/devebio-2.md",
+                "file": "docs/biosci/devebio/devebio-0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "devebio-2"
+              "title": "devebio-0"
+            }
+          },
+          {
+            "id": "a4cfcf969b6c8d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/math/gdc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gdc"
             }
           }
         ]
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/biosci/devebio/devebio-2.md",
+                "file": "docs/biosci/devebio/devebio-0.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "devebio-2 的大纲"
+              "title": "devebio-0 的大纲"
             }
           }
         ],
@@ -168,53 +182,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cbd175200e1351a1",
+  "active": "77d54df5320a0538",
   "lastOpenFiles": [
-    "docs/biosci/devebio/devebio-0.md",
+    "docs/deploy/VPS.md",
+    "docs/deploy/Static.md",
+    "docs/deploy/MySQL.md",
+    "docs/deploy/GitHub.md",
+    "docs/deploy/DNS.md",
+    "docs/deploy/Cloudflare.md",
+    "docs/code/Vue.md",
+    "docs/code/Regex.md",
+    "docs/code/Python.md",
+    "docs/code/Markdown.md",
+    "docs/code/Javascript.md",
+    "docs/code/HTML.md",
     "docs/biosci/devebio/devebio-3.md",
     "docs/biosci/devebio/devebio-2.md",
     "docs/biosci/devebio/devebio-1.md",
-    "docs/biosci/devebio/devebioimages/image-20250220092548-gvbsy0z.png",
-    "docs/planetsci/planetfundamental/未命名.md",
-    "docs/planetsci/planetfundamental/planet_dynamics.md",
-    "docs/planetsci/planetfundamental/planet_properties.md",
-    "docs/math/advanced_math.md",
+    "docs/biosci/devebio/devebio-0.md",
     "docs/math/gdc.md",
+    "docs/math/advanced_math.md",
     "docs/math/general_Physics.md",
-    "docs/math/Legendre.md",
-    "docs/math/math_intro.md",
-    "docs/_posts/2025-03-04-blog.md",
-    "docs/reading/1_小说/茶花女.md",
-    "docs/blog.md",
-    "docs/_posts/2024-03-01-blog_example.md",
-    "docs/encrypt/encrypt02.md",
-    "docs/encrypt/encrypt01.md",
-    "docs/biosci/genetics/Genetics-FG2G_6ed_Chapter-1.md",
-    "docs/_posts/images/4edf10274f90e12777077c7687f16ebd4739ea80ae0d9c429b3e9ad446db683e.jpg",
-    "docs/_posts/images/7bd94ab1617f197e2e19fdb6ad95a725670f07f2fa6b4d9efef774b65445c036.jpg",
-    "docs/_posts/images/774b52146342e3ba30179c20b1eb2db5a4d5840004cef6a9bc535345f7522f6a.jpg",
-    "docs/_posts/images/fffb26d4631762c1696551b2d9e9acf003b6b607bcbdc2429598ca98123bf515.jpg",
-    "docs/_posts/images/fdce70fd2a9664bb9aba1b5122b9f597e18328c947e70cc99fe34471923f930d.jpg",
-    "docs/_posts/images/f4aca63d3836f545d8fd917a93e7475a2d91a9d5cd81fdffc5d3e4a9c152872b.jpg",
-    "docs/_posts/images/e83e3d6ccd8fa6da2a401a0ccd0c1945a9c67c07d51092fb59c169ebefc25e08.jpg",
-    "docs/_posts/images/dd4c82bac5200fee66333c396851a491204cce0b10962ddfc2ea611cafcc23fb.jpg",
-    "docs/_posts/images/c526a45922cb324750e971830a6ca85ace37148d5b13c664bdc824493d6906a9.jpg",
+    "docs/planetsci/planetfundamental/planet_heat-transport.md",
+    "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/code/README.md",
+    "node_modules/@algolia/autocomplete-core/README.md",
+    "docs/_temp",
+    "samplepage.md",
+    "Pasted image 20250304125231.png",
+    "docs/planetsci/planetfundamental/planet_properties.md",
+    "docs/planetsci/planetfundamental/images/fb5b7d66c746b672063e2940951d5f6e631d69eb25c75b6c0d860540fbd3b1b8.jpg",
+    "docs/planetsci/planetfundamental/images/ccd01fe4512eb6e3fdd05828bd48f1b3e4a63124b962582e4c1849f19b3bfa8d.jpg",
+    "docs/planetsci/planetfundamental/images/c3c44a3488af250a9b77a484d4aa1442456db97c66b55af800e5e8f36b114e9f.jpg",
+    "docs/planetsci/planetfundamental/images/bfa8ea9989e1cf0d852760d0bc46f2164b34cf019c55b3f1f6eb29e57ce5e4bd.jpg",
+    "docs/planetsci/planetfundamental/images/bda13c2767b80698dc16fb82c94557b529a0b84dfbd82a0a1c5ebd7030f94179.jpg",
+    "docs/planetsci/planetfundamental/images/039589ebfe3327cc8c086ea86e0cdecdef1ed4d100068b050c18ee0e87b0c0b8.jpg",
+    "docs/planetsci/planetfundamental/images/566d4b867901417fe8eb4b91e2dda1db6994dcc6d2bb92e261ba802da8c174dc.jpg",
+    "docs/planetsci/planetfundamental/images/62b9699500e1bff1b6730bc4eea790d3b2a6543bc9d79a8e8fece17e4de265c1.jpg",
+    "docs/planetsci/planetfundamental/images/15c5eb1c2847f5c32a2c9da4956088cea199129f89a8960bb6f275a24ae4d41b.jpg",
+    "docs/planetsci/planetfundamental/未命名.md",
     "docs/_posts/images",
-    "docs/planetsci/mars/火星地质与气候演化历史.md",
-    "docs/_posts/2024-03-02-blog_example2.md",
-    "docs/Fitness.md",
-    "docs/README.md",
-    "docs/intro.md",
     "docs/biosci/devebio/devebioimages",
     "docs/biosci/devebio/新建文件夹",
     "docs/biosci/devebio",
-    "docs/reading/1_小说/人类灭绝.md",
-    "docs/reading/3_人物传记/竺可桢传.md",
     "docs/planetsci/planetfundamental/images",
     "docs/planetsci/planetfundamental",
     "docs/planetsci/mars",
     "docs/planetsci/planetarydynamics",
-    "docs/planetsci/mars",
-    "docs/math"
+    "docs/planetsci/mars"
   ]
 }

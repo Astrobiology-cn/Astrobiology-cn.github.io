@@ -38,7 +38,7 @@ $$
 $$
 \Phi(r,\phi,\theta)=-G\int_0^\infty\int_0^\pi\int_0^{2\pi}\frac{r^{\prime2}\rho(r^{\prime},\theta^{\prime})\sin\theta^{\prime}}{|\mathbf{r}-\mathbf{r}^{\prime}|}d\phi^{\prime}d\theta^{\prime}dr^{\prime}.
 $$
-因为$\Phi_\mathrm{g}(r)$在自由空间中满足拉普拉斯方程,行星外部的引力场可以展开成勒让德多项式的级数,而不是适用于任意形状的完全球谐函数展开。（详情请见[[勒让德多项式]]）
+因为$\Phi_\mathrm{g}(r)$在自由空间中满足拉普拉斯方程,行星外部的引力场可以展开成勒让德多项式的级数,而不是适用于任意形状的完全球谐函数展开。（详情请见[[Legendre]]）
 $$
 \Phi(r,\phi,\theta)=\sum_{n=0,\infty}\Phi_{n}(r)P_{n}(\cos\theta).\tag{1}
 $$

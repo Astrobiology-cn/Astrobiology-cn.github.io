@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9f5dbfd7f18778bd",
+        "id": "78105a135f2e2f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "c989755c797b7a53",
+            "id": "77d54df5320a0538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/梯度散度旋度.md",
+                "file": "docs/biosci/devebio/devebio-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "梯度散度旋度"
+              "title": "devebio-2"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/math/梯度散度旋度.md",
+                "file": "docs/biosci/devebio/devebio-2.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "梯度散度旋度 的大纲"
+              "title": "devebio-2 的大纲"
             }
           }
         ],
@@ -168,21 +168,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c989755c797b7a53",
+  "active": "cbd175200e1351a1",
   "lastOpenFiles": [
+    "docs/biosci/devebio/devebio-0.md",
+    "docs/biosci/devebio/devebio-3.md",
+    "docs/biosci/devebio/devebio-2.md",
+    "docs/biosci/devebio/devebio-1.md",
+    "docs/biosci/devebio/devebioimages/image-20250220092548-gvbsy0z.png",
+    "docs/planetsci/planetfundamental/未命名.md",
+    "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/planetsci/planetfundamental/planet_properties.md",
+    "docs/math/advanced_math.md",
+    "docs/math/gdc.md",
+    "docs/math/general_Physics.md",
+    "docs/math/Legendre.md",
+    "docs/math/math_intro.md",
     "docs/_posts/2025-03-04-blog.md",
-    "docs/math/数学物理版块介绍.md",
-    "docs/math/梯度散度旋度.md",
-    "docs/math/普通物理导航.md",
-    "docs/math/高等数学导航.md",
     "docs/reading/1_小说/茶花女.md",
     "docs/blog.md",
     "docs/_posts/2024-03-01-blog_example.md",
     "docs/encrypt/encrypt02.md",
     "docs/encrypt/encrypt01.md",
     "docs/biosci/genetics/Genetics-FG2G_6ed_Chapter-1.md",
-    "docs/biosci/devebio/发育生物学学科的建立.md",
-    "docs/biosci/devebio/发育调控的普适原理.md",
     "docs/_posts/images/4edf10274f90e12777077c7687f16ebd4739ea80ae0d9c429b3e9ad446db683e.jpg",
     "docs/_posts/images/7bd94ab1617f197e2e19fdb6ad95a725670f07f2fa6b4d9efef774b65445c036.jpg",
     "docs/_posts/images/774b52146342e3ba30179c20b1eb2db5a4d5840004cef6a9bc535345f7522f6a.jpg",
@@ -192,12 +199,8 @@
     "docs/_posts/images/e83e3d6ccd8fa6da2a401a0ccd0c1945a9c67c07d51092fb59c169ebefc25e08.jpg",
     "docs/_posts/images/dd4c82bac5200fee66333c396851a491204cce0b10962ddfc2ea611cafcc23fb.jpg",
     "docs/_posts/images/c526a45922cb324750e971830a6ca85ace37148d5b13c664bdc824493d6906a9.jpg",
-    "docs/_posts/images/c44dfe65d5ab744768d9e27386d7eee17d59a2af6ceab7f2d232ba44b6495719.jpg",
     "docs/_posts/images",
-    "docs/planetsci/planetfundamental/行星的属性.md",
-    "docs/planetsci/planetfundamental/类地行星动力学.md",
     "docs/planetsci/mars/火星地质与气候演化历史.md",
-    "docs/math/勒让德多项式.md",
     "docs/_posts/2024-03-02-blog_example2.md",
     "docs/Fitness.md",
     "docs/README.md",
@@ -207,9 +210,6 @@
     "docs/biosci/devebio",
     "docs/reading/1_小说/人类灭绝.md",
     "docs/reading/3_人物传记/竺可桢传.md",
-    "docs/reading/_navbar.md",
-    "docs/reading/2_自然哲学/生命是什么.md",
-    "docs/family/Coupon.md",
     "docs/planetsci/planetfundamental/images",
     "docs/planetsci/planetfundamental",
     "docs/planetsci/mars",

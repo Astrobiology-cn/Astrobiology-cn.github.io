@@ -21,43 +21,28 @@ export default sidebar({
                     prefix: "/planetsci/planetfundamental",
                     link: "",
                     collapsible: true,
-                    children: ["类地行星动力学.md","行星的属性.md"],
+                    children: ["planet_dynamics.md","planet_properties.md"],
                   },
                   {
                     text: "🌌行星科学导论",
                     icon: "",
                     collapsible: true,
-                    children: [
-                                {
-                                  text: "火星",
-                                  icon: "",
-                                  prefix: "/planetsci/mars/",
-                                  link: "",
-                                  collapsible: true,
-                                  children: ["火星地质与气候演化历史.md"],
-                                },
-                                {
-                                  text: "月球",
-                                  icon: "",
-                                  collapsible: true,
-                                  children: [""],
-                                },
-                                {
-                                  text: "水星",
-                                  icon: "",
-                                  collapsible: true,
-                                  children: [""],
-                                },
-                                {
-                                  text: "木星",
-                                  icon: "",
-                                  collapsible: true,
-                                  children: [""],
-                                },
-                              ],
+                    children: [],
                   },
                   {
                     text: "🔮行星物质科学",
+                    icon: "",
+                    collapsible: true,
+                    children: [],
+                  },
+                  {
+                    text: "🏔️行星表面过程",
+                    icon: "",
+                    collapsible: true,
+                    children: [],
+                  },
+                  {
+                    text: "🌋行星内部结构",
                     icon: "",
                     collapsible: true,
                     children: [],
@@ -86,7 +71,7 @@ export default sidebar({
                     prefix:"/biosci/devebio",
                     link:"",
                     collapsible: true,
-                    children: ["发育调控的普适原理.md"],
+                    children: ["devebio-0.md"],
                   },
                 ],
     },
@@ -196,6 +181,10 @@ export default sidebar({
   // 专题区（独立侧边栏）
   "/apps/topic/": "structure",
   "/biosci/genetics/":"structure",
+  "/biosci/devebio/":"structure",
+
+
+
   // 如果你不想使用默认侧边栏，可以按照路径自行设置。但需要去掉下方配置中的注释，以避免博客和时间轴出现异常。_posts 目录可以不存在。
   /*"/_posts/": [
     {

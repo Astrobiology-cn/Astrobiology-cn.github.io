@@ -1,7 +1,7 @@
 ---
 article: false
 icon: fa-solid fa-hashtag
-title: 行星的属性
+title: 行星的基本性质
 order: 1
 ---
 

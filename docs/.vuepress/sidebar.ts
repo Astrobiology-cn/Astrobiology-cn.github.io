@@ -86,7 +86,13 @@ export default sidebar({
                     text: "天体生物学导论",
                     icon: "",
                     collapsible: true,
-                    children: [],
+                    children: ["astrobio-i0.md"],
+                  },
+                  {
+                    text: "天体生物学课程",
+                    icon: "",
+                    collapsible: true,
+                    children: ["astrobio-c0.md"],
                   },
                 ],
     },
@@ -94,6 +100,14 @@ export default sidebar({
       text: "🔢 数学物理",
       icon: "",
       prefix: "/math/",
+      link: "",
+      collapsible: true,
+      children: "structure",
+    },
+    {
+      text: "📚 通识教育",
+      icon: "",
+      prefix: "/general/",
       link: "",
       collapsible: true,
       children: "structure",
@@ -175,6 +189,9 @@ export default sidebar({
   "/apps/topic/": "structure",
   "/biosci/genetics/":"structure",
   "/biosci/devebio/":"structure",
+  "/astrobio/astrobio-cource":"structure",
+  "/astrobio/astrobio-introduction":"structure",
+  "/general/Japeco/":"structure",
 
 
 

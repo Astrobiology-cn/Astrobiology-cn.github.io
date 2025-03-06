@@ -190,7 +190,6 @@ export default sidebar({
   "/biosci/genetics/":"structure",
   "/biosci/devebio/":"structure",
   "/astrobio/astrobio-cource":"structure",
-  "/astrobio/astrobio-introduction":"structure",
   "/general/Japeco/":"structure",
 
 

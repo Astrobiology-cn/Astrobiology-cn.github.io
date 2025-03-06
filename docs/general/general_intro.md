@@ -1,6 +1,6 @@
 ---
 article: false
-title: 
+title: 通识教育简介
 icon: 
 order: 0
 ---

@@ -1,6 +1,6 @@
 ---
 article: false
-title: 
+title: 日本经济简介
 icon: 
 order: 0
 ---

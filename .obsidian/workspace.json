@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "astrobio-c2"
             }
-          },
-          {
-            "id": "54f7da587d9eda5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/planetsci/planetfundamental/planet_heat-transport.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "planet_heat-transport"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,15 +169,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "54f7da587d9eda5b",
+  "active": "cbd175200e1351a1",
   "lastOpenFiles": [
+    "docs/astrobio/astrobio-introduction/astrobio-i0.md",
+    "docs/astrobio/astrobio-introduction/astrobio-i.md",
+    "docs/planetsci/planetfundamental/planet_heat-transport.md",
     "docs/general/general_intro.md",
     "docs/general/Japeco/Japeco-0.md",
     "docs/template/课程笔记模板.md",
     "docs/_posts/2025-03-04-blog.md",
     "docs/astrobio/astrobio-introduction/astrobio-i1.md",
-    "docs/astrobio/astrobio-introduction/astrobio-i0.md",
-    "docs/astrobio/astrobio-introduction/astrobio-i.md",
     "docs/astrobio/astrobio-introduction/images/image-20241128170118-s5uqv7e.png",
     "docs/astrobio/astrobio-introduction/images/image-20241129091945-zc6ck16.png",
     "docs/astrobio/astrobio-introduction/images/image-20241129091927-kgwjnom.png",
@@ -200,7 +186,6 @@
     "docs/astrobio/astrobio-introduction/images/image-20241129091053-kwb454t.png",
     "docs/astrobio/astrobio-introduction/images/image-20241129091003-r7plmh5.png",
     "docs/astrobio/astrobio-introduction/images/image-20241129090924-ccjhb2s.png",
-    "docs/planetsci/planetfundamental/planet_heat-transport.md",
     "docs/astrobio/astrobio-cource/astrobio-c0.md",
     "docs/astrobio/astrobio-cource/astrobio-c2.md",
     "docs/general/Japeco/Japeco-3.md",

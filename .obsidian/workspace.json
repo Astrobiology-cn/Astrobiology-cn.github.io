@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/astrobio/astrobio-cource/astrobio-c0.md",
+                "file": "docs/astrobio/astrobio-course/astrobio-c0.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,10 +169,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ad7cd4be01b8d74a",
+  "active": "cbd175200e1351a1",
   "lastOpenFiles": [
-    "docs/astrobio/astrobio-cource/astrobio-c2.md",
-    "docs/astrobio/astrobio-cource/astrobio-c0.md",
+    "docs/astrobio/astrobio-course/astrobio-c2.md",
+    "docs/astrobio/astrobio-course/astrobio-c0.md",
     "docs/astrobio/astrobio-introduction/astrobio-i1.md",
     "docs/astrobio/astrobio-introduction/astrobio-i0.md",
     "docs/astrobio/astrobio-introduction/astrobio-i.md",
@@ -206,7 +206,7 @@
     "docs/astrobio/astrobio-introduction/images",
     "docs/planetsci/planetfundamental/planet_dynamics.md",
     "docs/astrobio/astrobio-introduction",
-    "docs/astrobio/astrobio-cource",
+    "docs/astrobio/astrobio-course",
     "Vue3与PPTXjs实现在线PPT预览 - 小蓝博客.md",
     "docs/astrobio",
     "docs/biosci/genetics/Genetics-FG2G_6ed_Chapter-1_images/未命名.md",

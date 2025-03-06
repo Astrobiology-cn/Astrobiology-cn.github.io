@@ -6,4 +6,4 @@ order: 0
 ---
 ## 简介
 ## 目录
-[行星早期演化](astrobio-c2)
+[行星早期演化](astrobio-c2.md)

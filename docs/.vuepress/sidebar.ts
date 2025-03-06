@@ -85,12 +85,16 @@ export default sidebar({
                   {
                     text: "天体生物学导论",
                     icon: "",
+                    prefix: "/astrobiosci/astrobio-introduction",
+                    link: "",
                     collapsible: true,
                     children: ["astrobio-i0.md"],
                   },
                   {
                     text: "天体生物学课程",
                     icon: "",
+                    prefix: "/astrobiosci/astrobio-course",
+                    link: "",
                     collapsible: true,
                     children: ["astrobio-c0.md"],
                   },

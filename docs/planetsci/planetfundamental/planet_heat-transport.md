@@ -55,7 +55,7 @@ $$
 1）瑞利-金斯定律（Rayleigh-Jeans law)：当 $h\nu\ll k T$ 时（例如行星本体的典型温度和射电波长)  
 $$
 \begin{align}
-&B_{\nu}\left(T\right)\!
+& B_{\nu}\left(T\right)\!
 \approx\!\frac{2h\nu^{3}}{c^{2}}\,\frac{1}{\frac{h\nu}{k T}}
 \approx{\frac{2\nu^{2}}{c^{2}}}k T \tag{2}\\
 & 因为 \; (\mathrm{e}^{h\nu/k T}-1\approx\frac{h\nu}{k T})
@@ -85,96 +85,88 @@ $$
 将式子(1)导数取为0，可得到在亮度 $B_{\upsilon}\left(T\right)$ 出现峰值的频率 $\nu_{\text{max}}$ ,从而得到维恩位移定律： 
 $$
 \begin{align}
-\frac{\partial B_{\nu}}{\partial \nu} = \\
-\nu_{\textrm{max}}\,{=}\,5.\,88\times10^{10}\,T
+\frac{\partial B_{\nu}}{\partial \nu} 
+& = \frac{2 h}{c^{2}}\cdot 3\nu^{2}\cdot\frac{1}{\mathrm{e}^{h\nu/kT}-1}+\frac{2h\nu^{3}}{c^{2}}\cdot\left(-\frac{1}{(\mathrm{e}^{h\nu/kT}-1)^{2}}\cdot\frac{h}{kT}\mathrm{e}^{h\nu/kT}\right) \\
+& = \frac{6h\nu^2}{c^2}\cdot\frac{1}{\mathrm{e}^{h\nu/kT}-1}-\frac{2h^2\nu^3}{c^2kT}\cdot\frac{\mathrm{e}^{h\nu/kT}}{(\mathrm{e}^{h\nu/kT}-1)^2} \\
+& = 0 \\
 \end{align}
-$$  
+$$
 
-$\nu_{\textrm{m a x}}$ 单位为 $\mathrm{Hz}$ 。  
-
+化简得:
+$$
+3 = \frac{h \nu^{2}}{kT} \cdot \frac{\mathrm{e}^{h\nu/kT}}{\mathrm{e}^{h\nu/kT}-1} 
+$$
+但是这是一个超越方程，不能直接解出来，但是可以近似得：
+$$
+\nu_{\textrm{max}}\,{=}\,5.\,88\times10^{10}\,T \quad  单位为\mathrm{Hz}
+$$
+将维恩位移定律得频率形式转换成波长形式
 $$
 B_{\lambda}=\overline{{B}}_{\nu}\left|\frac{\mathrm{d}\nu}{\mathrm{d}\lambda}\right|
-$$  
-
-令 $\partial B_{\lambda}/\partial\lambda=0$ ，黑体频谱峰值的波长为  
-
+$$令 $\partial B_{\lambda}/\partial\lambda=0$ ，黑体频谱峰值的波长为  
 $$
 \lambda_{\mathrm{\max}}=\frac{0.\ 29}{T}
-$$  
+$$
+$\lambda_{\mathrm{\max}}$ 的单位为cm。注意： $\lambda_{\textrm{max}}\!=\!0.\;57c/\nu_{\textrm{max}}$ ，由于实际上 $\boldsymbol{B}_{\lambda}\ne\boldsymbol{B}_{\nu}$ ，以波长表达的测量亮度峰值较以频率表达的亮度峰值更靠向蓝色。  
 
-$\lambda_{\mathrm{\max}}$ 的单位为cm（习题3.1)。注意： $\lambda_{\textrm{m a x}}\!=\!0.\;57c/\nu_{\textrm{m a x}}$ ，由于实际上 $\boldsymbol{B}_{\lambda}\ne\boldsymbol{B}_{\nu}$ ，以波长表达的测量亮度峰值较以频率表达的亮度峰值更靠向蓝色。  
-
-天体辐射的通量密度 $\mathcal{F}_{\nu}$ [erg/ $\mathrm{~\'~}\mathrm{cm}^{2}\;\circ\;\mathrm{s}\;\circ\;\mathrm{Hz})$ 或 $\mathrm{Jy}\mathrm{]}^{\mathrm{(D)}}$ 如下(3.2.3.1节)  
-
+#### 能流密度
+天体辐射的通量密度 $\mathcal{F}_{\nu}$  $\left[erg/ (\mathrm{cm}^{2}\cdot\mathrm{s}\cdot\mathrm{Hz}) 或 \mathrm{Jy}\right]$如下  
 $$
 \mathcal{F}_{\nu}=\Omega_{\mathrm{{s}}}B_{\nu}\left(T\right)
-$$  
-
-式中， $\Omega_{s}$ 为天体朝向的立体角。在一个具有均匀亮度 $B_{v}$ 的球体表面（例如，位于其中心的黑体辐射点源所引起的），通量密度为(习题3.2)  
-
+$$
+式中， $\Omega_{s}$ 为天体朝向的立体角。在一个具有均匀亮度 $B_{v}$ 的球体表面（例如，位于其中心的黑体辐射点源所引起的），通量密度为  
 $$
 \mathcal{F}_{\nu}=\pi B_{\nu}\left(T\right)
-$$  
-
-通量 $\mathcal{F}$ [erg/ $\mathrm{~\underline{{~cm}}~}^{2}\,\cdot\,\mathrm{s})$ 」定义为将全部频率的通量密度进行积分  
-
+$$
+通量 $\mathcal{F}$ $\left[ erg/ \mathrm{cm}^{2}\cdot\mathrm{s})\right]$ 定义为将全部频率的通量密度进行积分  
 $$
 \mathcal{F}\equiv\int_{0}^{\infty}\,\mathcal{F},\mathrm{d}\nu=\pi\int_{0}^{\infty}B_{\nu}\left(T\right)\mathrm{d}\nu=\sigma T^{4}
-$$  
-
+$$
 $\sigma$ 为斯特藩-玻尔兹曼常数?（Stefan-Boltzmannconstant）。这种关系称为斯特藩-玻尔兹曼定律。需要注意的是，通量在某些文献中被定义为频率的函数，即通量密度（例如，Chamberlain and Hunten1987， Chandrasekhar 1960)。  
 
 ### 温度  
 
-通过测量某个天体一小段辐射（普朗克）曲线，可以确定这个黑体的温度。但这种方式通常不适用，因为大部分天体不是完美的黑体，其所展示出的频谱特性使得温度测量变得复杂。通常将观测到的通量密度 $\mathcal{F}_{\nu}$ 与亮温 $T_{\mathrm{~b~}}$ 联系起来，亮温 $T_{\mathrm{b}}$ 是在这个特定频率下具有相同亮度的黑体的温度［即用 $T_{\mathrm{b}}$ 代替式（3-3）中的 $T\]$ 。相反地，如果可以确定一个天体的所有频率上积分的总通量，则与发射出相同能量或通量 $\mathcal{F}$ 的黑体所对应的温度称为有效温度 $T$  
+通过测量某个天体一小段辐射（普朗克）曲线，可以确定这个黑体的温度。但这种方式通常不适用，因为大部分天体不是完美的黑体，其所展示出的频谱特性使得温度测量变得复杂。
 
+通常将观测到的通量密度 $\mathcal{F}_{\nu}$ 与亮温 $T_{\mathrm{~b~}}$ 联系起来，亮温 $T_{\mathrm{b}}$ 是在这个特定频率下具有相同亮度的黑体的温度［即用 $T_{\mathrm{b}}$ 代替式(1)中的 $T$] 。相反地，如果可以确定一个天体的所有频率上积分的总通量，则与发射出相同能量或通量 $\mathcal{F}$ 的黑体所对应的温度称为有效温度 $T$  
 $$
 T_{\mathrm{e}}\equiv\big(\frac{\mathcal{F}}{\sigma}\big)^{1/4}
-$$  
+$$
 
-天体所发射出的大部分辐射的频率范围可以通过维恩位移定律[式（3－6）］来估计。对于温度为 $150\!\sim\!300\,\mathrm{~K~}$ （内太阳系）的天体，通常是中红外波长（ $10\!\sim\!20\ensuremath{~\mu\mathrm{m}})$ )，对于外太阳系 $40\!\sim\!50\,\mathrm{~K~}$ 的天体，通常是远红外波长（ $60\!\sim\!70~\mu\mathrm{m})$  
+天体所发射出的大部分辐射的频率范围可以通过维恩位移定律来估计。对于温度为 $150\!\sim\!300\,\mathrm{~K~}$（内太阳系）的天体，通常是中红外波长（$10\!\sim\!20{~\mu\mathrm{m}}$) ，对于外太阳系 $40\!\sim\!50\,\mathrm{~K~}$ 的天体，通常是远红外波长($60\!\sim\!70~\mu\mathrm{m}$)  
 
 #### 反照率和发射率  
 
 当天体被太阳照亮时，它会将一部分能量反射回太空（这使得天体可见），同时剩余的能量被吸收。原则上，可以确定在每个频率上有多少人射辐射被反射到太空；入射能量与反射、散射能量之和的比率称为单色反照率 $A_{\nu}$ （monochromatic albedo）。通过频率积分，天体反射或散射的总辐射与来自太阳的总人射光之比称为球面反照率 $A_{\textrm{b}}$ (Bondalbedo）。天体吸收的能量或通量决定了其温度，在3.1.2.2节将对其进行讨论。关于反照率，重要的是要考虑单位表面单元如何散射光。太阳光从行星上被散射出去，被望远镜所接收。四个相关的角： $i$ 为人射光与行星表面法线的夹角； $\theta$ 为望远镜接收到的反射光线（即沿视线的光线）与表面法线的夹角（图3-3）； $\phi$ 为从天体上看的相位角或反射角（图3-4)；散射角 $\phi_{\mathrm{\,sc}}$ ，定义为光子在散射时的方向变化。散射角和相位角相互关联  
-
 $$
 \phi\equiv180^{\circ}-\phi_{\mathrm{\,sc}}
-$$  
-
+$$ 
 相位积分 $q_{\mathrm{ph}}$ 包含散射角的相位相关性  
-
 $$
 q_{\mathrm{\,ph}}\equiv2\int_{\mathrm{~0~}}^{\pi}\frac{\mathcal{F}(\phi\,)}{\mathcal{F}(\phi=0^{\circ})}\mathrm{sin}\phi\,\mathrm{d}\phi
-$$  
-
+$$
 对于日心距小于1AU的行星（水星、金星）和月球，可以从地球上对相位积分进行测量，因为反射角 $\phi$ 在 $0^{\circ}$ 到 $180^{\circ}$ 之间变化。从地球上观测到的外行星相位角接近于 $0^{\circ}$ 。利用观测到的从天体中心到边缘的变化数据可以在地球上恢复有关相位积分的附加信息，但只有借助于探测器数据才能确定完整的相位积分。  
 
 ![](images/039589ebfe3327cc8c086ea86e0cdecdef1ed4d100068b050c18ee0e87b0c0b8.jpg)  
 图3-3面元dA的几何示意图：是面法线， $\hat{\mathbf{s}}$ 是沿视线光线， $\theta$ 是光线与面法线的夹角  
 
 定义球面反照率  
-
 $$
 A_{\textrm{b}}\!=\!A_{\textrm{0}}q_{\textrm{p h}}
-$$  
-
+$$
 $A_{0}$ 表示几何反照率或正面反射率  
 
-![](images/bda13c2767b80698dc16fb82c94557b529a0b84dfbd82a0a1c5ebd7030f94179.jpg)  
+![|500](images/bda13c2767b80698dc16fb82c94557b529a0b84dfbd82a0a1c5ebd7030f94179.jpg)  
 
-图3－4被太阳照射的天体对光的散射，以及地球接收到的辐射。对于纯后向散射辐射，相位角 $\phi\!=\!0^{\circ}$ 而对于纯前向散射光，相位角 $\phi\!=\!180^{\circ}$ 。散射角 $\phi_{\mathrm{{sc}}}=180^{\circ}-\phi$ 。有两颗行星：一颗在地球轨道内，相位角为 $\phi_{1}$ ；另一颗在地球轨道外，相位角为 $\phi_{2}$  
-
+图4被太阳照射的天体对光的散射，以及地球接收到的辐射。对于纯后向散射辐射，相位角 $\phi\!=\!0^{\circ}$ 而对于纯前向散射光，相位角 $\phi\!=\!180^{\circ}$ 。散射角 $\phi_{\mathrm{{sc}}}=180^{\circ}-\phi$ 。有两颗行星：一颗在地球轨道内，相位角为 $\phi_{1}$ ；另一颗在地球轨道外，相位角为 $\phi_{2}$  
 $$
 A_{0}=\frac{r_{\odot\mathrm{AU}}^{2}\,\mathcal{F}(\phi=0^{\circ})}{\mathcal{F}_{\odot}}
-$$  
-
+$$
 式中， $\mathcal{F}(\phi=0^{\circ})$ 是相位角 $\phi\!=\!0^{\circ}$ 时从天体反射的通量。日心距 $r_{\odot\mathrm{\AU}}$ 用AU表示，太阳常数$\mathcal{F}_{\odot}$ 定义为 $r_{\odot\mathrm{\,AU}}\,{=}1$ 时的太阳通量  
 
 $$
 \mathcal{F}_{\odot}=\frac{\mathcal{L}_{\odot}}{4\pi r_{\odot}^{2}}\,{=}1.\,37\times10^{6}\,{\mathrm{erg}}/({\mathrm{cm}}^{2}\,\cdot\,{\mathrm{s}})
-$$  
-
+$$
 式中， $r_{\odot}$ 为日心距（ $\;\;\mathbf{cm}\;,$ ， $\mathcal{L}_{\odot}$ 为太阳光度。 $\mathcal{F}\odot/r_{\odot\mathrm{\,AU}}^{2}$ 等于以 AU表示的日心距 $r_{\odot\mathrm{\AU}}$ 处的人射太阳通量。  
 
 几何反照率可以被认为是天体反射的辐射量与平坦的朗伯?表面（Lambertiansurface）反射的辐射量之比，而平坦的朗伯表面是对全部波长漫反射的完美反射体。通常，从行星观测中确定一个称为 $I/\mathcal{F}$ 的量，其中 $I$ 是频率为 $\nu$ 的反射强度， $\pi\,{\mathcal{F}}$ 是频率为 $\nu$ 时的人射太阳通量密度。根据这个定义，当在垂直人射下观察时，平坦朗伯表面的 $I/\mathcal{F}=$ 1，因此当在相位角 $\phi\!=\!0^{\circ}$ 时观察， $I/\mathcal{F}$ 等于频率 $\nu$ 下的几何反照率。  

@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77d54df5320a0538",
+            "id": "ad7cd4be01b8d74a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/biosci/devebio/devebio-0.md",
+                "file": "docs/astrobio/astrobio-cource/astrobio-c2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "devebio-0"
+              "title": "astrobio-c2"
             }
           },
           {
-            "id": "a4cfcf969b6c8d34",
+            "id": "54f7da587d9eda5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/gdc.md",
+                "file": "docs/astrobio/astrobio-introduction/astrobio-i1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gdc"
+              "title": "astrobio-i1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -108,9 +109,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/planetsci/planetfundamental/类地行星动力学.md",
-                "collapseAll": true,
-                "extraContext": false,
+                "file": "docs/general/Japeco/Japeco-3.md",
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "类地行星动力学 的反向链接列表"
+              "title": "Japeco-3 的反向链接列表"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/planetsci/火星地质与气候演化历史.md",
+                "file": "docs/general/Japeco/Japeco-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "火星地质与气候演化历史 的出链列表"
+              "title": "Japeco-3 的出链列表"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/biosci/devebio/devebio-0.md",
+                "file": "docs/general/Japeco/Japeco-3.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "devebio-0 的大纲"
+              "title": "Japeco-3 的大纲"
             }
           }
         ],
@@ -170,65 +171,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "77d54df5320a0538",
+  "active": "54f7da587d9eda5b",
   "lastOpenFiles": [
+    "docs/astrobio/astrobio-introduction/astrobio-i0.md",
+    "docs/astrobio/astrobio-cource/astrobio-c2.md",
     "docs/biosci/devebio/devebio-2.md",
-    "docs/biosci/devebio/devebio-0.md",
-    "docs/biosci/devebio/devebio-1.md",
-    "devebio/devebio-1.md",
-    "devebio",
-    "devebio-1.md",
-    "docs/deploy/VPS.md",
-    "docs/deploy/Static.md",
-    "docs/deploy/MySQL.md",
-    "docs/deploy/GitHub.md",
-    "docs/deploy/DNS.md",
-    "docs/deploy/Cloudflare.md",
-    "docs/code/Vue.md",
-    "docs/code/Regex.md",
-    "docs/code/Python.md",
-    "docs/code/Markdown.md",
-    "docs/code/Javascript.md",
-    "docs/code/HTML.md",
+    "docs/astrobio/astrobioimages/image-20241129091003-r7plmh5.png",
+    "docs/planetsci/intro2planetsci.md",
+    "docs/astrobio/astrobio-introduction/astrobio-i1.md",
+    "docs/astrobio/astrobioimages/image-20241129090924-ccjhb2s.png",
+    "docs/astrobio/astrobioimages/image-20241129091053-kwb454t.png",
+    "docs/biosci/devebio/devebioimages/20250304-102925.png",
+    "docs/astrobio/astrobioimages/image-20241129092333-auhrua4.png",
+    "docs/astrobio/astrobioimages/image-20241129091945-zc6ck16.png",
+    "docs/astrobio/astrobioimages/image-20241129091927-kgwjnom.png",
+    "docs/astrobio/astrobioimages/image-20241129091117-xfc7cbt.png",
+    "docs/astrobio/astrobioimages/image-20241128170224-6ecf05b.png",
+    "docs/astrobio/images/image-20241128170224-6ecf05b.png",
+    "docs/astrobio/images",
     "docs/biosci/devebio/devebio-3.md",
-    "docs/math/gdc.md",
-    "docs/math/advanced_math.md",
-    "docs/math/general_Physics.md",
-    "docs/planetsci/planetfundamental/planet_heat-transport.md",
+    "docs/biosci/devebio/devebio-4.md",
+    "docs/biosci/devebio/devebio-1.md",
+    "docs/biosci/devebio/devebio-0.md",
+    "docs/astrobio/astrobioimages",
     "docs/planetsci/planetfundamental/planet_dynamics.md",
-    "docs/code/README.md",
-    "node_modules/@algolia/autocomplete-core/README.md",
-    "docs/_temp",
-    "samplepage.md",
-    "Pasted image 20250304125231.png",
-    "docs/planetsci/planetfundamental/images/fb5b7d66c746b672063e2940951d5f6e631d69eb25c75b6c0d860540fbd3b1b8.jpg",
-    "docs/planetsci/planetfundamental/images/ccd01fe4512eb6e3fdd05828bd48f1b3e4a63124b962582e4c1849f19b3bfa8d.jpg",
-    "docs/planetsci/planetfundamental/images/c3c44a3488af250a9b77a484d4aa1442456db97c66b55af800e5e8f36b114e9f.jpg",
-    "docs/planetsci/planetfundamental/images/bfa8ea9989e1cf0d852760d0bc46f2164b34cf019c55b3f1f6eb29e57ce5e4bd.jpg",
-    "docs/planetsci/planetfundamental/images/bda13c2767b80698dc16fb82c94557b529a0b84dfbd82a0a1c5ebd7030f94179.jpg",
-    "docs/planetsci/planetfundamental/images/039589ebfe3327cc8c086ea86e0cdecdef1ed4d100068b050c18ee0e87b0c0b8.jpg",
-    "docs/planetsci/planetfundamental/images/566d4b867901417fe8eb4b91e2dda1db6994dcc6d2bb92e261ba802da8c174dc.jpg",
-    "docs/planetsci/planetfundamental/images/62b9699500e1bff1b6730bc4eea790d3b2a6543bc9d79a8e8fece17e4de265c1.jpg",
-    "docs/planetsci/planetfundamental/images/15c5eb1c2847f5c32a2c9da4956088cea199129f89a8960bb6f275a24ae4d41b.jpg",
-    "docs/_posts/images",
-    "docs/biosci/devebio/devebioimages",
-    "docs/biosci/devebio/新建文件夹",
-    "docs/biosci/devebio",
-    "docs/planetsci/planetfundamental/images",
-    "docs/planetsci/planetfundamental",
-    "docs/planetsci/mars",
-    "docs/planetsci/planetarydynamics"
+    "docs/astrobio/astrobio-introduction",
+    "docs/astrobio/astrobio-cource",
+    "Vue3与PPTXjs实现在线PPT预览 - 小蓝博客.md",
+    "docs/astrobio",
+    "docs/biosci/genetics/genetics-2.md",
+    "docs/biosci/genetics/genetics-1.md",
+    "docs/biosci/genetics/Genetics-FG2G_6ed_Chapter-1_images/未命名.md",
+    "docs/biosci/genetics/genetics-3.md",
+    "docs/template/课程笔记模板.md",
+    "docs/biosci/genetics/genetics-0.md",
+    "docs/template",
+    "模板/课程笔记模板.md",
+    "模板",
+    "docs/general/Japeco/Japeco-3.md",
+    "docs/general/Japeco/Japeco-0.md",
+    "2025-03-05.md",
+    "docs/planetsci/planetfundamental/planet_heat-transport.md",
+    "docs/general/general_intro.md",
+    "docs/math/gdc.md",
+    "docs/general/Japeco",
+    "docs/general",
+    "devebio/devebio-1.md",
+    "devebio"
   ]
 }

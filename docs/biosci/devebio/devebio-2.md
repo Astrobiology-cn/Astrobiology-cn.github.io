@@ -1,8 +1,8 @@
 ---
 article: false
+title: 2 发育生物学概述
 icon: 
-title: 发育生物学概述
-order: 2
+order: 0.2
 ---
 ## 一、发育生物学研究的意义
 

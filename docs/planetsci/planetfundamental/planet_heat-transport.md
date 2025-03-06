@@ -162,12 +162,12 @@ $A_{0}$ 表示几何反照率或正面反射率
 $$
 A_{0}=\frac{r_{\odot\mathrm{AU}}^{2}\,\mathcal{F}(\phi=0^{\circ})}{\mathcal{F}_{\odot}}
 $$
-式中， $\mathcal{F}(\phi=0^{\circ})$ 是相位角 $\phi\!=\!0^{\circ}$ 时从天体反射的通量。日心距 $r_{\odot\mathrm{\AU}}$ 用AU表示，太阳常数$\mathcal{F}_{\odot}$ 定义为 $r_{\odot\mathrm{\,AU}}\,{=}1$ 时的太阳通量  
+式中， $\mathcal{F}(\phi=0^{\circ})$ 是相位角 $\phi\!=\!0^{\circ}$ 时从天体反射的通量。日心距 $r_{\odot\mathrm{AU}}$ 用AU表示，太阳常数$\mathcal{F}_{\odot}$ 定义为 $r_{\odot\mathrm{\,AU}}\,{=}1$ 时的太阳通量  
 
 $$
 \mathcal{F}_{\odot}=\frac{\mathcal{L}_{\odot}}{4\pi r_{\odot}^{2}}\,{=}1.\,37\times10^{6}\,{\mathrm{erg}}/({\mathrm{cm}}^{2}\,\cdot\,{\mathrm{s}})
 $$
-式中， $r_{\odot}$ 为日心距（ $\;\;\mathbf{cm}\;,$ ， $\mathcal{L}_{\odot}$ 为太阳光度。 $\mathcal{F}\odot/r_{\odot\mathrm{\,AU}}^{2}$ 等于以 AU表示的日心距 $r_{\odot\mathrm{\AU}}$ 处的人射太阳通量。  
+式中， $r_{\odot}$ 为日心距（ $\;\;\mathbf{cm}\;,$ ， $\mathcal{L}_{\odot}$ 为太阳光度。 $\mathcal{F}\odot/r_{\odot\mathrm{\,AU}}^{2}$ 等于以 AU表示的日心距 $r_{\odot\mathrm{AU}}$ 处的人射太阳通量。  
 
 几何反照率可以被认为是天体反射的辐射量与平坦的朗伯?表面（Lambertiansurface）反射的辐射量之比，而平坦的朗伯表面是对全部波长漫反射的完美反射体。通常，从行星观测中确定一个称为 $I/\mathcal{F}$ 的量，其中 $I$ 是频率为 $\nu$ 的反射强度， $\pi\,{\mathcal{F}}$ 是频率为 $\nu$ 时的人射太阳通量密度。根据这个定义，当在垂直人射下观察时，平坦朗伯表面的 $I/\mathcal{F}=$ 1，因此当在相位角 $\phi\!=\!0^{\circ}$ 时观察， $I/\mathcal{F}$ 等于频率 $\nu$ 下的几何反照率。  
 
@@ -229,7 +229,7 @@ $$
 
 传导，即主要通过分子间的碰撞来传输能量的过程，在固体中相当重要，在稀薄的大气上部（热层上部）也很重要。在后一种情况下，平均自由程很长，原子交换位置的速度很快，因此热导率很大。这种高热导率往往会平衡这部分大气的温度。  
 
-太阳光在白天加热行星的表面，热量主要通过传导从表面向下传输。热流的流动速度，即热通量 $Q$ [erg/ $\mathrm{{\small~\left(cm^{2}~\cdot~s\right)~}}]$ ，由温度梯度 $\nabla T$ 和热导率 $K_{\mathrm{~T~}}$ 决定  
+太阳光在白天加热行星的表面，热量主要通过传导从表面向下传输。热流的流动速度，即热通量 $Q$  ，由温度梯度 $\nabla T$ 和热导率 $K_{\mathrm{~T~}}$ 决定  
 
 $$
 {\boldsymbol{Q}}=-K_{\textrm{T}}{\boldsymbol{\nabla}}{\boldsymbol{T}}
@@ -279,7 +279,7 @@ $$
 L_{\mathrm{T}}\equiv\sqrt{\frac{2K_{\mathrm{T}}}{\omega_{\mathrm{\scriptsize~rot}}\rho c_{\mathrm{\tiny~P}}}}
 $$  
 
-式中， $\omega_{\textrm{r o t}}$ 为天体自转角速度。昼夜温度变化幅度最大值发生在地表，次表层昼夜温度变化幅度呈指数衰减。热趋肤深度为变化幅度衰减到地表 $1/e$ 所对应的深度。此外，由于热量向下传递需要时间，次表层的日加热模式存在相位滞后。地表的温度在中午或之后不久达到峰值，而次表层则在下午晚些时候达到峰值温度。在夜间，表面冷却，变得比次表层更冷。然后热量从底层向上传输。然而，由于传导率是温度的函数[式 $(6\mathrm{~-~}33)\,\sim\,(6\mathrm{~-~}$ 36）]，因此表面在夜间起到了隔热材料的作用，防止次表层过于迅速地冷却。图3－5说明了这种影响，它显示了水星上温度随深度和当地时间的变化。图3－6显示了在围绕太阳日心距为0.4AU的圆形轨道上，一个假想的大型岩石天体的表面温度随当地时间的变化。图中给出了从2小时到 $10^{6}$ 年不同自转周期下的温度曲线。这张图清楚地表明，峰值温度主要由日心距决定，而夜间半球的温度取决于行星的自转速率（和热惯量）。注意$P_{\mathrm{rot}}\,{=}\,2~\mathrm{h}$ 时，峰值温度从当地中午开始的时间延迟。这种延迟是由快速的自转速率和相对  
+式中， $\omega_{\textrm{r o t}}$ 为天体自转角速度。昼夜温度变化幅度最大值发生在地表，次表层昼夜温度变化幅度呈指数衰减。热趋肤深度为变化幅度衰减到地表 $1/e$ 所对应的深度。此外，由于热量向下传递需要时间，次表层的日加热模式存在相位滞后。地表的温度在中午或之后不久达到峰值，而次表层则在下午晚些时候达到峰值温度。在夜间，表面冷却，变得比次表层更冷。然后热量从底层向上传输。然而，由于传导率是温度的函数 这里有一个错误 ，因此表面在夜间起到了隔热材料的作用，防止次表层过于迅速地冷却。图3－5说明了这种影响，它显示了水星上温度随深度和当地时间的变化。图3－6显示了在围绕太阳日心距为0.4AU的圆形轨道上，一个假想的大型岩石天体的表面温度随当地时间的变化。图中给出了从2小时到 $10^{6}$ 年不同自转周期下的温度曲线。这张图清楚地表明，峰值温度主要由日心距决定，而夜间半球的温度取决于行星的自转速率（和热惯量）。注意$P_{\mathrm{rot}}\,{=}\,2~\mathrm{h}$ 时，峰值温度从当地中午开始的时间延迟。这种延迟是由快速的自转速率和相对  
 
 较高的热惯量共同作用的结果。  
 
@@ -287,9 +287,9 @@ $$
 图3－5（a）水星的赤道温度结构是当地正午后不同深度的日下点经度（即“热”经度）的函数；（b)同一地区一天中四个不同时间的垂直温度剖面：a）中午；b）黄昏；c）午夜；d）黎明。在不同的射电波长下探测不同的深度，如图底部的箭头所示（波长单位为 $\mathrm{cm}$ )。(Mitchell1993)  
 
 ![](images/c3c44a3488af250a9b77a484d4aa1442456db97c66b55af800e5e8f36b114e9f.jpg)  
-图3-6以日心距0.4AU、倾角 $0^{\circ}$ 的圆形轨道绕太阳运行的固态连贯岩石天体的表面温度。曲线显示的是自转周期为2小时、1天、30天、10年和 $10^{6}$ 年的天体。假设以下参数进行计算： $A_{\mathrm{b}}\,=\,0.\,1$ $\epsilon_{\mathrm{ir}}=$ 0.9, $\rho=2.8~\mathrm{g/cm^{3}}$ ， $\gamma_{\mathrm{r}}=36.\;9~\mathrm{mcal}/(\mathrm{cm}^{2}\bullet\mathrm{K}\bullet\mathrm{s}^{1/2})$ ， $\epsilon_{\mathrm{r}}=6.5$ ，且 $\tan\!\Delta=0.\,02$ 。 $\epsilon_{\mathrm{r}}$ 和tan $\Delta$ 在3.4节定义。[图片来源：大卫·L.米切尔（DavidL.Mitchell）］  
+图3-6以日心距0.4AU、倾角 $0^{\circ}$ 的圆形轨道绕太阳运行的固态连贯岩石天体的表面温度。曲线显示的是自转周期为2小时、1天、30天、10年和 $10^{6}$ 年的天体。假设以下参数进行计算： $A_{\mathrm{b}}\,=\,0.\,1$ $\epsilon_{\mathrm{ir}}=$ 0.9, $\rho=2.8~\mathrm{g/cm^{3}}$ ， $\gamma_{\mathrm{r}}=36.\;9~\mathrm{mcal}/(\mathrm{cm}^{2}\bullet\mathrm{K}\bullet\mathrm{s}^{1/2})$ ， $\epsilon_{\mathrm{r}}=6.5$ ，且 $\tan\!\Delta=0.\,02$ 。 $\epsilon_{\mathrm{r}}$ 和tan $\Delta$ 在3.4节定义。 这里有一个错误
 
-注意，热惯量（3－30）取决于 $K_{\mathrm{~T~}}c_{\mathrm{~P~}}$ 的乘积，热趋肤深度（3－31）取决于 $K_{\mathrm{~T~}}/c_{\mathrm{~P~}}$ 的比率以及天体的旋转角速度 $\omega_{\mathrm{\rot}}$ 。火星和月球上的典型热趋肤深度约为 $4~\mathrm{cm}$ ，水星上约为$15~\mathrm{{cm}}$ 。当热导率较低时，温度波动的振幅较大，但不会深人穿透地壳。如果热导率较高，则表面附近的温度变化较小，但会穿透次表层到更深处。尽管次表层的昼夜变化幅度可能很小，但对于具有明显自转轴倾角的行星，如地球和火星，季节性影响仍然很大。在水星日间加热具有重要作用的深度以下，温度随着经度具有一个有趣的变化。由于水星自转和公转轨道之间的 $3:2$ 共振，以及水星较大的轨道偏心率，日均太阳常数随经度变化显著（同样也随纬度变化）。沿水星赤道靠近经度 $\lambda={0}^{\circ}$ 和 $180^{\circ}$ 的区域（当水星位于近日点时的日下点经度）接收到的阳光平均约为经度 ${90}^{\circ}$ 和 ${270}^{\circ}$ 区域的2.5倍。夜间地表温度约为$100\,\mathrm{~K~}$ ，与经度无关，但水星赤道附近的峰值（中午）地表温度在 $\lambda={0}^{\circ}$ 和 $180^{\circ}$ 时为$700\,\mathrm{~K~}$ ，渐变至 $\lambda\!=\!90^{\circ}$ 和 $270^{\circ}$ 时的 $570\,\mathrm{~K~}$ 。这种不均匀的加热模式产生了次表层温度的纵向变化，在温度的昼夜变化可以忽略的深度下，在经度 $0^{\circ}$ 和 $180^{\circ}$ ( $T$ 大约 $470\,\mathrm{~K~}$ ）处的温度要高于 ${90}^{\circ}$ 和 $270^{\circ}$ 处（ $T$ 大约 $350\,\mathrm{~K~})$ 。这种效应能够在射电波长约 $3\,\mathrm{\cm}$ 处观察得最为充分，此处日间加热循环的波动最小（图5－50）。  
+注意，热惯量（3－30）取决于 $K_{\mathrm{~T~}}c_{\mathrm{~P~}}$ 的乘积，热趋肤深度（3－31）取决于 $K_{\mathrm{~T~}}/c_{\mathrm{~P~}}$ 的比率以及天体的旋转角速度 $\omega_{\mathrm{\rot}}$ 。火星和月球上的典型热趋肤深度约为 $4~\mathrm{cm}$ ，水星上约为$15~\mathrm{{cm}}$ 。当热导率较低时，温度波动的振幅较大，但不会深人穿透地壳。如果热导率较高，则表面附近的温度变化较小，但会穿透次表层到更深处。尽管次表层的昼夜变化幅度可能很小，但对于具有明显自转轴倾角的行星，如地球和火星，季节性影响仍然很大。在水星日间加热具有重要作用的深度以下，温度随着经度具有一个有趣的变化。由于水星自转和公转轨道之间的 $3:2$ 共振，以及水星较大的轨道偏心率，日均太阳常数随经度变化显著（同样也随纬度变化）。沿水星赤道靠近经度 $\lambda={0}^{\circ}$ 和 $180^{\circ}$ 的区域（当水星位于近日点时的日下点经度）接收到的阳光平均约为经度 ${90}^{\circ}$ 和 ${270}^{\circ}$ 区域的2.5倍。夜间地表温度约为$100\,\mathrm{~K~}$ ，与经度无关，但水星赤道附近的峰值（中午）地表温度在 $\lambda={0}^{\circ}$ 和 $180^{\circ}$ 时为$700\,\mathrm{~K~}$ ，渐变至 $\lambda\!=\!90^{\circ}$ 和 $270^{\circ}$ 时的 $570\,\mathrm{~K~}$ 。这种不均匀的加热模式产生了次表层温度的纵向变化，在温度的昼夜变化可以忽略的深度下，在经度 $0^{\circ}$ 和 $180^{\circ}$ ( $T$ 大约 $470\,\mathrm{~K~}$ ）处的温度要高于 ${90}^{\circ}$ 和 $270^{\circ}$ 处（ $T$ 大约 $350\,\mathrm{~K~})$ 。这种效应能够在射电波长约 $3\mathrm{cm}$ 处观察得最为充分，此处日间加热循环的波动最小（图5－50）。  
 
 ### 对流  
 
@@ -314,7 +314,7 @@ $$
 行星大气中温度、压强和密度（状态方程）之间的关系通常用理想气体定律（也可称为完美气体定律）来近似  
 
 $$
-P=N k T={\frac{\rho R_{\mathrm{\gas}}\,T}{\mu_{\mathrm{\ga}}}}={\frac{\rho k\,T}{\mu_{\mathrm{\ga}}m_{\mathrm{\gmu}}}}
+P=N k T={\frac{\rho R_{\mathrm{gas}}\,T}{\mu_{\mathrm{gas}}}}={\frac{\rho k\,T}{\mu_{\mathrm{gas}}m_{\mathrm{gmu}}}}
 $$  
 
 式中， $N$ 是粒子数密度（ $\mathrm{cm}^{-3}$ )， $R_{\mathrm{\it{gas}}}$ 是理想气体常数 $(R_{\mathrm{gas}}=N_{\mathrm{A}}k$ ， $N_{\mathrm{A}}$ 为阿伏加德罗数）， $\mu$ a是平均分子质量（以原子质量单位表示）， $m_{\mathrm{{amu}}}\approx1.~67\times10^{-24}\,\mathrm{{g}}$ 是一个原子质量单位的质量，略小于一个氢原子的质量。  
@@ -346,7 +346,7 @@ $$
 在理想气体中，两个热容［erg／（ $\bmod{\cdot}\mathrm{~K~}$ 」或比热 $\left[\mathbf{erg}/\mathbf{\epsilon}\left(\mathbf{g}\cdot\mathbf{K}\right)\right.$ ］之差由下式给出  
 
 $$
-C_{\mathrm{P}}-C_{\mathrm{v}}\,{=}\,R_{\mathrm{\gas}}
+C_{\mathrm{P}}-C_{\mathrm{v}}\,{=}\,R_{\mathrm{gas}}
 $$  
 
 $$
@@ -376,7 +376,7 @@ $$
 对于对流稍微不稳定的大气，我们可以利用上面的热力学关系和流体静力平衡方程（3－32）、（3－33）来获得其温度结构，或干绝热递减率（dryadiabaticlapserate，习题3.16)  
 
 $$
-\frac{\mathrm{d}T}{\mathrm{d}z}\,{=}\,-\frac{g_{\mathrm{\scriptsize{\scriptsize{\p}}}}}{c_{\mathrm{\scriptsize{{p}}}}}\,{=}\,-\frac{\gamma\,-1}{\gamma}\,\frac{g_{\mathrm{\scriptsize{\scriptsize{p}}}}\mu_{\mathrm{\scriptsize{\scriptsize{a}}}}m_{\mathrm{\scriptsize{amu}}}}{k}
+\frac{\mathrm{d}T}{\mathrm{d}z}\,{=}\,-\frac{g_{\mathrm{\scriptsize{\scriptsize{p}}}}}{c_{\mathrm{\scriptsize{{p}}}}}\,{=}\,-\frac{\gamma\,-1}{\gamma}\,\frac{g_{\mathrm{\scriptsize{\scriptsize{p}}}}\mu_{\mathrm{\scriptsize{\scriptsize{a}}}}m_{\mathrm{\scriptsize{amu}}}}{k}
 $$  
 
 地球上的干绝热递减率大约为 $10~\mathrm{K/km}$ 。4.4.1节表明，凝结潜热的作用降低了潮湿大气成云区的绝热梯度。  
@@ -483,7 +483,7 @@ $$
 E_{n}=-{\frac{Z q^{2}}{r}}+{\frac{Z q^{2}}{2r}}\!=\!-{\frac{Z q^{2}}{2r}}\!\approx\!-{\frac{\mathcal{R}Z^{2}}{n^{2}}}
 $$  
 
-式中，氢原子的里德伯①常数（Rydberg constant) $\mathcal{R}\equiv\mu_{\mathrm{~r~}}e^{4}/h^{2}$ 。约化质量 $\mu$ ：在式（2-8）中定义，其中对应的 $m_{1}$ 和 $m_{2}$ 分别表示电子和原子核的质量。各种跃迁的频率可使用式（3－46)、（3－47）和（3－60）计算。图3－7给出了氢原子能级的例子。基态和更高能级之间的跃迁称为莱曼?系，其中莱曼 $\alpha$ 是1级和2级之间的跃迁，莱曼 $\beta$ 是1级和3级之间的跃迁，以此类推。巴耳末③系、帕申系和布拉克特系分别表示2级、3级和4级与更高级别之间的跃迁。如果电子没有束缚，原子会被电离。对于基态的氢，光子的能量 $\geq\!13.6\,\mathrm{~eV}$ 或波长小于 $91,\,2\,\mathrm{\nm}$ （莱曼极限，Lyman limit）可能使原子发生光致电离(photoionize，习题3.17）。  
+式中，氢原子的里德伯①常数（Rydberg constant) $\mathcal{R}\equiv\mu_{\mathrm{~r~}}e^{4}/h^{2}$ 。约化质量 $\mu$ ：在式（2-8）中定义，其中对应的 $m_{1}$ 和 $m_{2}$ 分别表示电子和原子核的质量。各种跃迁的频率可使用式（3－46)、（3－47）和（3－60）计算。图3－7给出了氢原子能级的例子。基态和更高能级之间的跃迁称为莱曼?系，其中莱曼 $\alpha$ 是1级和2级之间的跃迁，莱曼 $\beta$ 是1级和3级之间的跃迁，以此类推。巴耳末③系、帕申系和布拉克特系分别表示2级、3级和4级与更高级别之间的跃迁。如果电子没有束缚，原子会被电离。对于基态的氢，光子的能量 $\geq\!13.6\,\mathrm{~eV}$ 或波长小于 $91,\,2\,\mathrm{nm}$ （莱曼极限，Lyman limit）可能使原子发生光致电离(photoionize，习题3.17）。  
 
 泡利@不相容原理（Pauli's exclusion principle）指出，每个电子轨道由一组唯一的量子数指定，因此能级 $n$ 的子能级总数，即 $n$ 能级的统计权重或简并度，由下式给出  
 
@@ -556,7 +556,7 @@ $$
 
 与式（3-62)、（3-63)、（3-64）和式（3-65)、（3-66)、（3-67）相比，爱因斯坦关系不依赖于温度，因此无论介质是否处于热力学平衡，爱因斯坦关系均为有效。  
 
-质量吸收和发射系数 $\kappa_{\nu}$ 和 $j$ [单位为erg/ $(\mathbf{g}\bullet\textrm{s}\bullet\textrm{s r}\bullet\textrm{H}\mathbf{z})$ ］变成  
+质量吸收和发射系数 $\kappa_{\nu}$ 和 $j$  这里有一个错误
 
 $$
 \kappa_{\nu}\rho=\frac{\Delta E_{u l}}{4\pi}(N_{l}B_{l u}-N_{u}B_{u l})\,\Phi,
@@ -682,13 +682,13 @@ $$
 
 射主要为前向散射。  
 
-·亨耶-格林斯坦 $\textcircled{1}$ 相函数  
+·亨耶-格林斯坦  这里有一个错误 相函数  
 
 $$
 \mathcal{P}(\cos\phi_{\mathrm{\,sc}})\!=\!\frac{\varpi\nu\left(1-g_{\mathrm{\,hg}}^{2}\right)}{\left(1+g_{\mathrm{\,hg}}^{2}-2g_{\mathrm{\,hg}}\cos\phi_{\mathrm{\,sc}}\right)^{\,2/3}}
 $$  
 
-式中，不对称参数 $\ensuremath{g_{\mathrm{\scriptsize~hg}}}$ 表示 $\cos\phi_{\mathrm{\,sc}}$ 的期望值： $g_{\mathrm{\tiny~hg}}\equiv<\mathrm{cos}\phi_{\mathrm{\tiny~sc}}>.$ 。对于各向同性散射，$g_{\mathrm{hg}}=0$ ；对于前向（后向）散射， $g_{\mathrm{\tiny~hg}}>0(<0)$ 。这种单参数相函数对非球形小粒子的散射具有很好的经验拟合，在行星科学中有着广泛的应用。米氏散射是从麦克斯韦?方程组（见VandeHulst1957）中导出的球形粒子散射的解析理论，也经常被使用。  
+式中，不对称参数 ${g_{\mathrm{\scriptsize~hg}}}$ 表示 $\cos\phi_{\mathrm{\,sc}}$ 的期望值： $g_{\mathrm{\tiny~hg}}\equiv<\mathrm{cos}\phi_{\mathrm{\tiny~sc}}>.$ 。对于各向同性散射，$g_{\mathrm{hg}}=0$ ；对于前向（后向）散射， $g_{\mathrm{\tiny~hg}}>0(<0)$ 。这种单参数相函数对非球形小粒子的散射具有很好的经验拟合，在行星科学中有着广泛的应用。米氏散射是从麦克斯韦?方程组（见VandeHulst1957）中导出的球形粒子散射的解析理论，也经常被使用。  
 
 4）在局部热力学平衡和各向同性散射情况下，源函数 $S_{\nu}$ 变成（习题3.20）  
 
@@ -867,7 +867,7 @@ $$
 
 电趋肤深度通常为10个波长的数量级。因此，在红外波段可以探测到表层，而在射电波段可以探测到地壳下几米深。因此，射电观测可以对温度昼夜变化的全部区域进行采样，通过对太阳加热和向外辐射进行模拟，然后利用模拟数据与射电数据的比较，可以限定地壳上部几米处的热学和电学特性。例如，通过这些方法，人们注意到水星的表面基本没有玄武岩（5.5.2节）。  
 
-在3.2.1节讨论了当热量通过传导向下穿过地壳时，行星的次表层如何在白天被加热。次表层的辐射向上传输，并通过地表传输到太空中。如果 $\theta_{\mathrm{i}}$ 是相对于表面法线的角度，在该角度处，来自表面下方的辐射撞击到表面上（图3－9），可以使用斯涅尔 $\textcircled{1}$ 折射定律（Snell'slawofrefraction）来关联 $\theta_{\mathrm{i}}$ 和透射角或发射角（朝向观察者） $\theta_{\mathrm{t}}$ ，以及反射图3-9折射率 $n_{\mathrm{2}}<n_{\mathrm{1}}$ 的两种介质界面辐射的折射和反射几何关系。相对于表面法线测量， $\theta_{\mathrm{i}}$ 和 $\theta_{r}$ 分别为人射角和反射角； $\theta_{r}$ ：是光线通过介质传输（折射）的角度  
+在3.2.1节讨论了当热量通过传导向下穿过地壳时，行星的次表层如何在白天被加热。次表层的辐射向上传输，并通过地表传输到太空中。如果 $\theta_{\mathrm{i}}$ 是相对于表面法线的角度，在该角度处，来自表面下方的辐射撞击到表面上（图3－9），可以使用斯涅尔 ${1}$ 折射定律（Snell'slawofrefraction）来关联 $\theta_{\mathrm{i}}$ 和透射角或发射角（朝向观察者） $\theta_{\mathrm{t}}$ ，以及反射图3-9折射率 $n_{\mathrm{2}}<n_{\mathrm{1}}$ 的两种介质界面辐射的折射和反射几何关系。相对于表面法线测量， $\theta_{\mathrm{i}}$ 和 $\theta_{r}$ 分别为人射角和反射角； $\theta_{r}$ ：是光线通过介质传输（折射）的角度  
 
 ![](images/fb5b7d66c746b672063e2940951d5f6e631d69eb25c75b6c0d860540fbd3b1b8.jpg)  
 
@@ -883,7 +883,7 @@ $$
 
 $n_{1}$ 和 $n_{2}$ 是折射率， $\epsilon_{r1}$ 和 $\epsilon_{\mathrm{r2}}$ 分别为两种介质的介电常数的实部。对于从行星表面以下进人太空的辐射 $(n_{2}=1)$ ，有 $n\!=\!n_{1}\!=\!\sqrt{\epsilon_{r}}$ ，且 $\sin\theta_{\mathrm{r}}>\sin\theta_{\mathrm{i}}$ 。通过地表向太空传输的地下辐射等于 $1-R_{0}$ ， $_{p}(\theta_{\mathrm{t}})$ ，其中，地壳-真空界面处的菲涅耳反射系数 $R_{0}$ $_\rho(\theta_{\mathrm{t}})$ ，它是频率$\nu$ 下反射波与人射波能量之比。  
 
-假设表面完全光滑，则发出热辐射的每个偏振的极化方向的菲涅耳反射系数如下 $\textcircled{1}$  
+假设表面完全光滑，则发出热辐射的每个偏振的极化方向的菲涅耳反射系数如下 ${1}$  
 
 $$
 R_{\mathrm{~\parallel~}}\!=\!\frac{\tan^{2}{(\theta_{\mathrm{i}}-\theta_{\mathrm{t}})}}{\tan^{2}{(\theta_{\mathrm{i}}+\theta_{\mathrm{t}})}}
@@ -893,7 +893,7 @@ $$
 R_{\perp}\!\!=\!\frac{\sin^{2}\left(\theta_{\mathrm{i}}-\theta_{\mathrm{t}}\right)}{\sin^{2}\left(\theta_{\mathrm{i}}+\theta_{\mathrm{t}}\right)}
 $$  
 
-式中， $R_{\mathrm{~\rightmoon~}}$ 和 $R_{\perp}$ 分别表示在人射面内和垂直于人射面的方向的线极化。假设次表面辐射是非极化的，则频率 $\nu$ 处的发射率 $\epsilon_{\nu}\left(\theta_{\mathfrak{t}}\right)$ 为  
+式中， 这里有一个错误  和 $R_{\perp}$ 分别表示在人射面内和垂直于人射面的方向的线极化。假设次表面辐射是非极化的，则频率 $\nu$ 处的发射率 $\epsilon_{\nu}\left(\theta_{\mathfrak{t}}\right)$ 为  
 
 $$
 \epsilon_{\nu}\left(\theta_{\mathfrak{t}}\right)=1-\frac{1}{2}R_{\perp}\,\mathrm{~}(\theta_{\mathfrak{t}})-\frac{1}{2}R_{\parallel}\,\left(\theta_{\mathfrak{t}}\right)
@@ -919,7 +919,7 @@ $$
 R_{\mathrm{0}}=\biggl(\frac{1-\sqrt{\epsilon_{\mathrm{r}}}}{1+\sqrt{\epsilon_{\mathrm{r}}}}\biggr)^{2}
 $$  
 
-自由空间中的反射波在布儒斯特 $\textcircled{1}$ 入射角（Brewster angle of incidence） $(R_{\parallel}=0)$ 处，垂直于人射面的平面内呈线极化，即  
+自由空间中的反射波在布儒斯特  入射角（Brewster angle of incidence） $(R_{\parallel}=0)$ 处，垂直于人射面的平面内呈线极化，即  
 
 $$
 \tan\!\theta_{\mathrm{i}}=n=\sqrt{\epsilon_{\mathrm{r}}}

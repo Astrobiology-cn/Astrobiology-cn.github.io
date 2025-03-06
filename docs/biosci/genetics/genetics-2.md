@@ -3,7 +3,6 @@ article: false
 title: 遗传的染色体学说
 icon: 
 order: 0.2
-date:
 ---
 ## 萨顿假说
 ## 染色体

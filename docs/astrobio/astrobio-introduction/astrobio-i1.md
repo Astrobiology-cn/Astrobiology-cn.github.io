@@ -2,8 +2,7 @@
 article: false
 title: 天体生物学导论-第一章 生命是什么？
 icon: 
-order: 
-date:
+order:
 ---
 ## 第一章 生命是什么？
 

@@ -1,8 +1,7 @@
 ---
 article: false
 title: 第三讲
-icon: 
-date: 2025-03-05
+icon:
 ---
 ## 导论（一）：观察后进国家经济发展的两个角度
 

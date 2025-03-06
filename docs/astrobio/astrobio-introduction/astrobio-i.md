@@ -2,8 +2,7 @@
 article: false
 title: 天体生物学导论介绍
 icon: 
-order: 
-date:
+order:
 ---
 ## 介绍
 这是一本天体生物学导论的书

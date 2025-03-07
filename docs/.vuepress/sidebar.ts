@@ -132,7 +132,9 @@ export default sidebar({
                     children: ["statistics-0.md"],
                   }, 
                   "gdc.md",
-                  "Legendre.md"],
+                  "Legendre.md",
+                  "spherical-triangle.md",
+                ],
     },
     {
       text: "📚 通识教育",

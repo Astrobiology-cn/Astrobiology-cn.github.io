@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/statistics/statistics-1.md",
+                "file": "docs/math/advanced_math/advanced_math-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "statistics-1"
+              "title": "advanced_math-1"
+            }
+          },
+          {
+            "id": "2a598c18187ebc98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/math/spherical-triangle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spherical-triangle"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 255.5
   },
   "right": {
     "id": "f50509859d857dda",
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/math/statistics/statistics-1.md",
+                "file": "docs/math/spherical-triangle.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "statistics-1 的大纲"
+              "title": "spherical-triangle 的大纲"
             }
           }
         ],
@@ -156,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,27 +183,34 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "1022c278a5768178",
+  "active": "cbd175200e1351a1",
   "lastOpenFiles": [
+    "docs/math/advanced_math/advanced_math-1.md",
+    "docs/math/advanced_math/advanced_math-11.md",
+    "docs/math/advanced_math/advanced_math-10.md",
+    "docs/math/advanced_math/advanced_math-9.md",
+    "docs/math/advanced_math/advanced_math-8.md",
+    "docs/math/advanced_math/advanced_math-7.md",
+    "docs/math/advanced_math/advanced_math-6.md",
+    "docs/math/advanced_math/advanced_math-5.md",
+    "docs/math/advanced_math/advanced_math-4.md",
+    "docs/math/advanced_math/advanced_math-3.md",
+    "docs/math/advanced_math/advanced_math-2.md",
+    "docs/math/advanced_math/advanced_math-0.md",
+    "docs/math/statistics/statistics-0.md",
+    "docs/math/spherical-triangle.md",
+    "docs/_temp/球面三角.md",
+    "docs/math/statistics/statistics-2.md",
+    "docs/_temp/Statistics.md",
+    "docs/math/statistics/statistics-1.md",
     "docs/math/general-physics/general_physics-0.md",
     "docs/math/gdc.md",
     "docs/math/Legendre.md",
     "docs/math/math_intro.md",
-    "docs/math/advanced_math/advanced_math-0.md",
-    "docs/_temp/球面三角.md",
     "docs/astrobio/astrobio-course/astrobio-c0.md",
     "docs/biosci/devebio/devebio-0.md",
     "docs/biosci/devebio/devebio-1.md",
     "docs/biosci/devebio/devebio-2.md",
-    "docs/biosci/devebio/devebio-3.md",
-    "docs/biosci/devebio/devebio-4.md",
-    "docs/astrobio/astrobio-course/astrobio-c1.md",
-    "docs/astrobio/astrobio-course/astrobio-c2.md",
-    "docs/astrobio/astrobio-i.md",
-    "docs/_temp/spherical-triangle.md",
-    "docs/_temp/Statistics.md",
-    "docs/math/statistics/statistics-1.md",
-    "docs/math/statistics/statistics-0.md",
     "docs/planetsci/planetfundamental/images/62b9699500e1bff1b6730bc4eea790d3b2a6543bc9d79a8e8fece17e4de265c1.jpg",
     "docs/planetsci/planetfundamental/images/15c5eb1c2847f5c32a2c9da4956088cea199129f89a8960bb6f275a24ae4d41b.jpg",
     "docs/math/statistics/images/readme/mss1.jpg",
@@ -200,8 +222,6 @@
     "docs/math/statistics/images/ch5",
     "docs/math/general-physics",
     "docs/math/advanced_math",
-    "docs/_temp/planet_heat-transport.md",
-    "docs/planetsci/planetfundamental/planet_dynamics.md",
     "docs/math/statistics",
     "docs/math/statistics/images/ch4/skewness.png",
     "docs/math/statistics/images/ch4/leave.jpg",
@@ -211,11 +231,6 @@
     "docs/math/statistics/images/ch2",
     "docs/math/statistics/images/ch1",
     "docs/math/statistics/images",
-    "未命名.canvas",
-    "docs/astrobio/astrobio-introduction/astrobio-i1.md",
-    "docs/astrobio/astrobio-introduction/astrobio-i0.md",
-    "docs/astrobio/astrobio-introduction/astrobio-i.md",
-    "docs/planetsci/planetfundamental/planet_heat-transport.md",
-    "docs/general/general_intro.md"
+    "未命名.canvas"
   ]
 }

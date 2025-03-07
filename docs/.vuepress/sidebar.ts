@@ -106,7 +106,7 @@ export default sidebar({
       prefix: "/math/",
       link: "",
       collapsible: true,
-      children: ["math_intro.md","statistics-0.md","advanced_math-0.md","gdc.md","Legendre.md"],
+      children: ["math_intro.md","./statistics/statistics-0.md","/advanced_math/advanced_math-0.md","gdc.md","Legendre.md"],
     },
     {
       text: "📚 通识教育",

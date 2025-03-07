@@ -106,7 +106,7 @@ export default sidebar({
       prefix: "/math/",
       link: "",
       collapsible: true,
-      children: "structure",
+      children: ["math_intro.md","statistics-0.md","advanced_math-0.md","gdc.md","Legendre.md"],
     },
     {
       text: "📚 通识教育",
@@ -191,9 +191,11 @@ export default sidebar({
   ],
   // 专题区（独立侧边栏）
   "/apps/topic/": "structure",
+  "/astrobio/astrobio-cource":"structure",
   "/biosci/genetics/":"structure",
   "/biosci/devebio/":"structure",
-  "/astrobio/astrobio-cource":"structure",
+  "/math/advanced_math/":"structure",
+  "/math/statistics/":"structure",
   "/general/Japeco/":"structure",
 
 

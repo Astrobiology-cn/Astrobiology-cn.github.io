@@ -19,15 +19,15 @@ order:
 ## 1.2 事件的运算
 
 1. **子事件$A\subset B$：** 事件$A$发生蕴含时间$B$一定发生，则时间$A$成为事件$B$的子事件。若$A\subset B$，且$B\subset A$，则称时间$A$与事件$B$相等，记为$A=B$
-![image|100%](./images/ch1/AsubsetB.png)
+ ![image|100%](./images/ch1/AsubsetB.png)
 2. **事件的和（$A\cup B$）：** 事件$A$和事件$B$中至少有一个发生称为事件$A$和事件$B$的和。
-![image|100%](./images/ch1/AcapB.png)
+ ![image|100%](./images/ch1/AcapB.png)
 3. **事件的积（$A\cap B$）：** 事件$A$和事件$B$同时发生称为$A$和事件$B$的积。如果$A\cap B=\phi$，则称$A$和$B$不相容，即事件$A$和$B$不能同时发生。
-![image|100%](./images/ch1/AcupB.png)
+ ![image|100%](./images/ch1/AcupB.png)
 4. **对立事件$A^c$（或$\overline{A}$）：**$A$不发生这一事件称为事件$A$的对立事件（或余事件）。
-![image|100%](./images/ch1/notA.png)
+ ![image|100%](./images/ch1/notA.png)
 5. **事件$A$和事件$B$的差（$A-B$）：**事件$A$发生而事件$B$不发生这一事件称为事件$A$和事件$B$的差，或等价于$AB^c$.
-![image|100%](./images/ch1/AminusB.png)
+ ![image|100%](./images/ch1/AminusB.png)
 6. ***De Morgan*対偶法则及其推广**
 $$
 \overline{A\cup B}=\overline{A}\cap \overline{B},
@@ -98,7 +98,7 @@ $$
 P(A|B)=\frac{P(AB)}{P(B)}
 $$
 为事件$B$发生条件下事件$A$发生的条件概率，可用图形表示：
-![image|300](./images/ch1/con_prob.png)
+![image|150](./images/ch1/con_prob.png)
 > **注：**事实上，我们所考虑的概率都是在一定条件下计算的，因为随机试验就是在一定条件下进行的。
 
 ### 1.5.1 条件概率性质
@@ -131,7 +131,7 @@ $$
 
   设$\{B_1,B_2,...B_n\}$是样本空间$\Omega$的一个分割，$A$为$\Omega$的一个事件，则$P(A)=\sum_{i=1}^{n}P(A|B_i)P(B_i)$
 
-![image|300](./images/ch1/full_prob.png)
+![image|150](./images/ch1/full_prob.png)
 推导：
 $$
 

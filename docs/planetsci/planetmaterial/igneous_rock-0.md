@@ -2,7 +2,7 @@
 article: false
 title: 火成岩
 icon: 
-order:
+order: 3
 ---
 ## 简介
 

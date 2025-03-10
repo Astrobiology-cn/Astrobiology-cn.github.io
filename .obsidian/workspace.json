@@ -11,10 +11,14 @@
             "id": "32b8c699b192770c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/general/Japeco/Japeco-3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Japeco-3"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/general/Japeco/Japeco-3.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Japeco-3 的大纲"
             }
           }
         ],
@@ -165,11 +170,18 @@
   },
   "active": "32b8c699b192770c",
   "lastOpenFiles": [
+    "docs/general/Japeco-0.md",
+    "docs/general/general_intro.md",
+    "docs/general/Japeco/Japeco-3.md",
     "docs/astrobio/astrobio-course/astrobio-c1.md",
-    "docs/astrobio/astrobio-c0.md",
+    "docs/astrobio/astrobio-course/astrobio-c2.md",
     "docs/astrobio/astrobio-i0.md",
-    "docs/planetsci/planetmaterial/igneous_rock-1.md",
+    "docs/astrobio/astrobio-c0.md",
+    "docs/encrypt/encrypt02.md",
+    "docs/encrypt/encrypt01.md",
+    "docs/encrypt/README.md",
     "docs/planetsci/planetmaterial/igneous_rock-0.md",
+    "docs/planetsci/planetmaterial/igneous_rock-1.md",
     "planetmaterial/igenous_rock-1.md",
     "planetmaterial",
     "docs/planetsci/intro2planetsci.md",
@@ -196,13 +208,6 @@
     "docs/planetsci/planetfundamental/planet_properties.md",
     "docs/math/spherical-triangle.md",
     "docs/math/advanced_math/advanced_math-11.md",
-    "docs/math/advanced_math/advanced_math-10.md",
-    "docs/math/advanced_math/advanced_math-9.md",
-    "docs/math/advanced_math/advanced_math-8.md",
-    "docs/math/advanced_math/advanced_math-7.md",
-    "docs/math/advanced_math/advanced_math-6.md",
-    "docs/math/advanced_math/advanced_math-5.md",
-    "docs/math/advanced_math/advanced_math-4.md",
     "docs/planetsci/planetfundamental/images/62b9699500e1bff1b6730bc4eea790d3b2a6543bc9d79a8e8fece17e4de265c1.jpg",
     "docs/planetsci/planetfundamental/images/15c5eb1c2847f5c32a2c9da4956088cea199129f89a8960bb6f275a24ae4d41b.jpg",
     "docs/math/statistics/images/readme/mss1.jpg",

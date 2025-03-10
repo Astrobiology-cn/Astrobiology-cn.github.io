@@ -130,7 +130,10 @@ export default sidebar({
       prefix: "/general/",
       link: "",
       collapsible: true,
-      children: "structure",
+      children: [
+        "general_intro.md",
+        "Japeco-0.md"
+      ],
     },
     {
       text: "🧰 应用手册",

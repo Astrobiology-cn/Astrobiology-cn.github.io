@@ -80,7 +80,7 @@ export default sidebar({
     {
       text: "🛸 天体生物学",
       icon: "",
-      prefix: "/astrobiosci/",
+      prefix: "/astrobio/",
       link: "",
       collapsible: true,
       children: [

@@ -32,8 +32,10 @@ export default sidebar({
                   {
                     text: "🔮行星物质科学",
                     icon: "",
+                    prefix: "/planetsci/planetmaterial",
+                    link: "",
                     collapsible: true,
-                    children: [],
+                    children: ["igneous_rock-0.md","igneous_rock-1.md"],
                   },
                   {
                     text: "🏔️行星表面过程",

@@ -4,54 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dc59574fd46e1b66",
+        "id": "3a1c630bcb8d6989",
         "type": "tabs",
         "children": [
           {
-            "id": "2a598c18187ebc98",
+            "id": "8be934cc73273da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/oribital_elements.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "oribital_elements"
-            }
-          },
-          {
-            "id": "e60995481b235872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/planetsci/planetfundamental/planet_dynamics.md",
+                "file": "docs/planetsci/planetmaterial/igneous_rock-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "planet_dynamics"
-            }
-          },
-          {
-            "id": "cd43ce3cd8549f8c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://sat.huijiwiki.com/wiki/%E8%BD%A8%E9%81%93%E5%85%AD%E6%A0%B9%E6%95%B0",
-                "title": "轨道六根数 - 卫星百科，很认真的中文航天百科 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "轨道六根数 - 卫星百科，很认真的中文航天百科 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司"
+              "title": "igneous_rock-1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/planetsci/planetfundamental/planet_dynamics.md",
+                "file": "docs/planetsci/planetmaterial/igneous_rock-1.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "planet_dynamics 的大纲"
+              "title": "igneous_rock-1 的大纲"
             }
           }
         ],
@@ -198,14 +168,30 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "e60995481b235872",
+  "active": "8be934cc73273da3",
   "lastOpenFiles": [
+    "docs/planetsci/planetmaterial/igneous_rock-0.md",
+    "docs/planetsci/planetmaterial/igneous_rock-1.md",
+    "planetmaterial/igenous_rock-1.md",
+    "planetmaterial",
+    "docs/planetsci/intro2planetsci.md",
+    "docs/planetsci/planetmaterial/igneous_rock_images/e15a7ea2c467ab16bb69508cba945f84424f8432a552533c3fac9338cf3decd7.jpg",
+    "docs/planetsci/planetmaterial/igneous_rock_images/b9bc5fbeca3920c4c0181bf75bf55932d9a347322fd1d8052fd7f2187d393478.jpg",
+    "docs/planetsci/planetmaterial/igneous_rock_images/4fb6586256179cb1ee3f6f97afefb7ed1477c01ed975a60150c99071e13e836e.jpg",
+    "docs/planetsci/planetmaterial/igneous_rock_images/b17a7d99d0f1d0971463b073d89bda1b41dc41ee5ea92a40c7eedc1567bc95ed.jpg",
+    "docs/planetsci/planetmaterial/igneous_rock_images/41747f3c2671169ace38c7e0f3b226d1c82f8d1ffba467bfa9033c7fabecca8f.jpg",
+    "docs/planetsci/planetmaterial/igneous_rock_images/2e910c41147eac8b7e3a7b15477038fe152b43a25dbb8fdce6bf4c2198c2fe1e.jpg",
+    "docs/planetsci/planetmaterial/igneous_rock_images",
+    "docs/planetsci/planetmaterial",
+    "docs/planetsci/新建文件夹",
+    "docs/planetsci/igneous_rock_intro.md",
     "docs/planetsci/planetfundamental/oribital_elements.md",
+    "docs/_temp/planet_heat-transport.md",
+    "docs/_temp/克罗内克δ函数.md",
     "docs/planetsci/planetfundamental/planet_dynamics.md",
     "docs/planetsci/planetfundamental/planet_oribit.md",
     "node_modules/serve-index/node_modules/setprototypeof/README.md",
     "docs/_temp/Homework/Plt_dynamics.md",
-    "docs/_temp/planet_heat-transport.md",
     "docs/math/advanced_math/advanced_math-1.md",
     "docs/_temp/Homework",
     "未命名.canvas",
@@ -222,30 +208,14 @@
     "docs/math/advanced_math/advanced_math-3.md",
     "docs/math/advanced_math/advanced_math-2.md",
     "docs/math/advanced_math/advanced_math-0.md",
-    "docs/math/statistics/statistics-0.md",
-    "docs/_temp/球面三角.md",
-    "docs/math/statistics/statistics-2.md",
-    "docs/_temp/Statistics.md",
-    "docs/math/statistics/statistics-1.md",
-    "docs/math/general-physics/general_physics-0.md",
     "docs/planetsci/planetfundamental/images/62b9699500e1bff1b6730bc4eea790d3b2a6543bc9d79a8e8fece17e4de265c1.jpg",
     "docs/planetsci/planetfundamental/images/15c5eb1c2847f5c32a2c9da4956088cea199129f89a8960bb6f275a24ae4d41b.jpg",
     "docs/math/statistics/images/readme/mss1.jpg",
     "docs/math/statistics/images/readme/mss2.jpg",
-    "docs/math/statistics/images/readme/prob.jpg",
-    "docs/math/statistics/images/readme/cxr.jpg",
     "docs/math/statistics/images/readme",
-    "docs/math/statistics/images/ch5/confidence_interval.gif",
     "docs/math/statistics/images/ch5",
     "docs/math/general-physics",
     "docs/math/advanced_math",
-    "docs/math/statistics",
-    "docs/math/statistics/images/ch4/skewness.png",
-    "docs/math/statistics/images/ch4/leave.jpg",
-    "docs/math/statistics/images/ch4/hist.png",
-    "docs/math/statistics/images/ch4",
-    "docs/math/statistics/images/ch3",
-    "docs/math/statistics/images/ch2",
-    "docs/math/statistics/images/ch1"
+    "docs/math/statistics"
   ]
 }

@@ -13,41 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/planet_oribit.md",
+                "file": "docs/planetsci/planetfundamental/oribital_elements.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "planet_oribit"
+              "title": "oribital_elements"
             }
           },
           {
-            "id": "b1b2576d55cf5aa1",
+            "id": "e60995481b235872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/planet_oribit.md",
+                "file": "docs/planetsci/planetfundamental/planet_dynamics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "planet_oribit"
-            }
-          },
-          {
-            "id": "04ba8381aa32bc42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "orbital elements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "orbital elements"
+              "title": "planet_dynamics"
             }
           },
           {
@@ -64,7 +50,8 @@
               "title": "轨道六根数 - 卫星百科，很认真的中文航天百科 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/planetsci/planetfundamental/planet_oribit.md",
+                "file": "docs/planetsci/planetfundamental/planet_dynamics.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "planet_oribit 的大纲"
+              "title": "planet_dynamics 的大纲"
             }
           }
         ],
@@ -211,12 +198,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "2a598c18187ebc98",
+  "active": "e60995481b235872",
   "lastOpenFiles": [
+    "docs/planetsci/planetfundamental/oribital_elements.md",
     "docs/planetsci/planetfundamental/planet_dynamics.md",
-    "orbital elements.md",
-    "node_modules/serve-index/node_modules/setprototypeof/README.md",
     "docs/planetsci/planetfundamental/planet_oribit.md",
+    "node_modules/serve-index/node_modules/setprototypeof/README.md",
     "docs/_temp/Homework/Plt_dynamics.md",
     "docs/_temp/planet_heat-transport.md",
     "docs/math/advanced_math/advanced_math-1.md",

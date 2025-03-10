@@ -188,16 +188,14 @@ $$
 3. ​**开普勒定律**：
    - **第一定律（椭圆轨道）**：
 	微分方程（1）有一个通解，即
-	$$
-	 r(\theta)=\frac{r_c}{1+e\cos\theta},
-	 $$
+	$$r(\theta)=\frac{r_c}{1+e\cos\theta}$$
 	 其中半通径$r_c=\frac{h^2}{GM}=a(1-e^2)$(有时$r_c$记作$p$) , $e$是离心率。
 	 
 	 如果考虑椭圆轨道的朝向，则
     $$r(\theta) = \frac{r_c}{1+e\cos(\theta-\omega)}$$
     其中$\omega$ 为近地点幅角 , 当$\theta = \omega$时，卫星处于近地点。可以将$\theta-\omega$记作真近点角$\nu$(从近地点起算的角度。
 	 
-	 如果想更好地描述椭圆轨道，可以引入更多的参量，参考[轨道六根数](./planet_oribit)
+	 如果想更好地描述椭圆轨道，可以引入更多的参量，参考[轨道六根数](./oribital_elements)
    - **第二定律（面积定律）**：
     $$\frac{dA}{dt} = \frac{1}{2}r^2\dot{\theta} = \frac{h}{2} = \text{常量}$$
     因为$h = r^2\dot{\theta}=0$，所以$h$是常数
@@ -226,16 +224,18 @@ $$
    $$Q^{-1} = \frac{1}{2\pi E_{\text{tide}}}\oint \dot{E} dt$$
 
 #### 3.月球几何天平动和物理天平动(libration)
-**几何天平动**：
-经度天平动： $$\Delta\lambda \approx \pm6^\circ\ \text{（由轨道偏心率引起）}$$纬度天平动：$$\Delta\beta \approx \pm7^\circ\ \text{（由轨道倾角引起）}$$
-**物理天平动**：
+
+**3.1经度天平动**： 
+$$\Delta\lambda \approx \pm6^\circ\ \text{（由轨道偏心率引起）}$$**3.2纬度天平动**：
+$$\Delta\beta \approx \pm7^\circ\ \text{（由轨道倾角引起）}$$
+**3.3物理天平动**：
 $$\ddot{\theta} + \frac{3GM}{r^3}\frac{(C-A)}{C}\theta = 0$$
 其中 $C$ 为极转动惯量，$A$ 为赤道转动惯量
 
-**章动方程**：
+**3.4章动方程**：
 $$\frac{d\mathbf{L}}{dt} = \mathbf{\Gamma}_{\text{tide}} + \mathbf{\Gamma}_{\text{spin}}$$
 
-#### 4.4 月球的长期轨道—长期扰动理论（secular perturbation）
+#### 4. 月球的长期轨道—长期扰动理论（secular perturbation）
 
 1. ​**拉格朗日行星方程**：
    $$\begin{aligned}

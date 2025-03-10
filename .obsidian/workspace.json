@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planet_oribit.md",
+                "file": "docs/planetsci/planetfundamental/planet_oribit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/planet_dynamics.md",
+                "file": "docs/planetsci/planetfundamental/planet_oribit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "planet_dynamics"
+              "title": "planet_oribit"
             }
           },
           {
@@ -64,8 +64,7 @@
               "title": "轨道六根数 - 卫星百科，很认真的中文航天百科 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "f50509859d857dda",
@@ -187,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "orbital elements.md",
+                "file": "docs/planetsci/planetfundamental/planet_oribit.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "orbital elements 的大纲"
+              "title": "planet_oribit 的大纲"
             }
           }
         ],
@@ -213,12 +211,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "04ba8381aa32bc42",
+  "active": "2a598c18187ebc98",
   "lastOpenFiles": [
-    "orbital elements.md",
     "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "orbital elements.md",
     "node_modules/serve-index/node_modules/setprototypeof/README.md",
-    "docs/planetsci/planet_oribit.md",
+    "docs/planetsci/planetfundamental/planet_oribit.md",
     "docs/_temp/Homework/Plt_dynamics.md",
     "docs/_temp/planet_heat-transport.md",
     "docs/math/advanced_math/advanced_math-1.md",

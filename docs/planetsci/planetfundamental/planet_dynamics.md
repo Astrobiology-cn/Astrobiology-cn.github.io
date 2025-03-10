@@ -104,6 +104,16 @@ $$
 
 
 ### 转动惯量和分层模型
+一旦我们从J2的测量得到转动惯量C(或者平均值I),我们可 以用2层模型来估计核幔边界
+$$
+\begin{align}
+I\equiv\frac{C+A+B}{3}
+&=\frac{1}{3}\int dV^{\prime}\rho(r^{\prime})(x^2+y^2+x^2+z^2+y^2+z^2) \\
+&=\frac{1}{3}\int dV^{\prime}\rho(r^{\prime})2r^{\prime2} \\
+&=\frac{1}{3}\int_0^R4\pi r^{\prime2}dr^{\prime}\rho(r^{\prime})2r^{\prime2} \\
+&=\frac{2}{3}\int_0^R4\pi r^{\prime4}dr^{\prime}\rho(r^{\prime})
+\end{align}
+$$
 
 
 ## 潮汐作用
@@ -143,3 +153,107 @@ $$
 
 ### 4.潮汐加热
 
+## 二体问题
+### 月球的轨道
+
+#### 1.地-月二体框架下的月球轨道（开普勒轨道）
+对一个只有2个行星（卫星）的系统，它们的相对运动 轨迹只用牛顿引力和初始相对运动就可以描述。
+$$
+\mathbf{f}=-\frac{GMm}{r^{3}}\mathbf{r}.\quad\quad
+$$
+
+在二体问题框架下，月球轨道满足：
+1. **角动量守恒**：
+   $$\mathbf{h} = \mathbf{r} \times \mathbf{v} = \text{常矢量}$$
+   分解为极坐标形式：
+   $$h = r^2\dot{\theta}$$
+
+2. ​**运动方程分解**：
+   -  速度$\mathbf{v}$和加速度$\mathbf{a}$:（注意$\vec{r}=r(t)\vec{e_r}\;,\;\vec{\theta}=\theta(t)\vec{e_{\theta}}$）
+    $$
+     \begin{align}
+     \mathbf{v}
+     &=\frac{d\mathbf{r}}{dt}=\dot r\mathbf{e}_{r}+r \dot{\mathbf{e}}_{r}\\
+     &=\dot{r}\mathbf{e}_{r}+r\dot{\theta}\mathbf{e}_{\theta}.\\
+     \mathbf{a}
+     &=\frac{d\mathbf{v}}{dt}=\frac{d^{2}\mathbf{r}}{dt^{2}}=\ddot{r}\mathbf{e}_{r}+\dot{r}\dot{\mathbf{e}}_{r}+(\dot{r}\dot{\theta}+r\ddot{\theta})\mathbf{e}_{\theta}+r\dot{\theta}\dot{\mathbf{e}}_{\theta}.\\
+     &=(\ddot{r}-r\dot{\theta}^{2})\mathbf{e}_{r}+(r\ddot{\theta}+2\dot{r}\dot{\theta})\mathbf{e}_{\theta}=-\frac{GM}{r^{2}}\mathbf{e}_{r}.
+     \end{align}
+     $$
+   -  径向分量：
+     $$\ddot{r} - r\dot{\theta}^2 = -\frac{GM}{r^2}\tag{1}$$
+   - 横向分量：
+     $$\frac{1}{r}\frac{d}{dt}(r^2\dot{\theta}) = 0\tag{2}$$
+
+3. ​**开普勒定律**：
+   - **第一定律（椭圆轨道）**：
+	微分方程（1）有一个通解，即
+	$$
+	 r(\theta)=\frac{r_c}{1+e\cos\theta},
+	 $$
+	 其中半通径$r_c=\frac{h^2}{GM}=a(1-e^2)$(有时$r_c$记作$p$) , $e$是离心率。
+	 
+	 如果考虑椭圆轨道的朝向，则
+    $$r(\theta) = \frac{r_c}{1+e\cos(\theta-\omega)}$$
+    其中$\omega$ 为近地点幅角 , 当$\theta = \omega$时，卫星处于近地点。可以将$\theta-\omega$记作真近点角$\nu$(从近地点起算的角度。
+	 
+	 如果想更好地描述椭圆轨道，可以引入更多的参量，参考
+   - **第二定律（面积定律）**：
+    $$\frac{dA}{dt} = \frac{1}{2}r^2\dot{\theta} = \frac{h}{2} = \text{常量}$$
+    因为$h = r^2\dot{\theta}=0$，所以$h$是常数
+   - **第三定律**：
+    $$
+    \begin{align}
+    T= &\frac{A}{dA/dt}=\frac{\pi ab}{h/2}=\frac{2\pi a^{2}(1-e^{2})^{1/2}}{h}=\frac{2\pi a^{3/2}r_{c}^{1/2}}{h} \\
+    \end{align}
+    $$
+    代入后化简得：
+	 $$T^2 = \frac{4\pi^2}{G(M+m)}a^3$$
+
+#### 2. 在一个轨道周期内的潮汐耗散
+
+任何应力和应变有相差的变形都会有能量耗散。潮汐耗散的能量计算：
+1. ​**能量耗散率**：
+   $$\dot{E} = \frac{1}{2}\int_V \sigma_{ij}\dot{\epsilon}_{ij} dV$$
+   其中 $\sigma$ 为应力张量，$\epsilon$ 为应变张量
+
+2. ​**相位延迟模型**：
+   $$\sigma = \mu\epsilon e^{i\delta},\quad \delta = \arctan(1/Q)$$
+   单周期能量耗散：
+   $$\Delta E = \frac{21}{2}\frac{k_2 R^5}{Q}\left(\frac{GM'}{a^3}\right)^2$$
+
+3. ​**潮汐耗散系数**：
+   $$Q^{-1} = \frac{1}{2\pi E_{\text{tide}}}\oint \dot{E} dt$$
+
+#### 3.月球几何天平动和物理天平动(libration)
+**几何天平动**：
+经度天平动： $$\Delta\lambda \approx \pm6^\circ\ \text{（由轨道偏心率引起）}$$纬度天平动：$$\Delta\beta \approx \pm7^\circ\ \text{（由轨道倾角引起）}$$
+**物理天平动**：
+$$\ddot{\theta} + \frac{3GM}{r^3}\frac{(C-A)}{C}\theta = 0$$
+其中 $C$ 为极转动惯量，$A$ 为赤道转动惯量
+
+**章动方程**：
+$$\frac{d\mathbf{L}}{dt} = \mathbf{\Gamma}_{\text{tide}} + \mathbf{\Gamma}_{\text{spin}}$$
+
+#### 4.4 月球的长期轨道—长期扰动理论（secular perturbation）
+
+1. ​**拉格朗日行星方程**：
+   $$\begin{aligned}
+   \frac{da}{dt} &= \frac{2}{n\sqrt{1-e^2}}\left(R_e\sin f + R_h\frac{1+e\cos f}{e}\right) \\
+   \frac{de}{dt} &= \frac{\sqrt{1-e^2}}{na}\left[R_e\sin f + R_h\left(\cos f + \frac{e+\cos f}{1+e\cos f}\right)\right]
+   \end{aligned}$$
+   其中 $R_e$ 和 $R_h$ 为扰动加速度分量
+
+2. ​**轨道参数演化**：
+   - 半长轴变化：
+     $$\frac{da}{dt} = -\frac{21}{2}k_2\frac{GM'^2R^5}{Qa^{11/2}}$$
+   - 偏心率演化：
+     $$\frac{de}{dt} = \frac{57}{8}k_2\frac{GM'^2R^5}{Qa^{13/2}}e$$
+
+3. ​**共振效应**：
+   当满足条件：
+   $$\frac{n'}{n} = \frac{p}{q} \quad (p,q\in\mathbb{Z})$$
+   会导致轨道参数的剧烈变化（如evection共振）
+
+4. ​**长期演化方程**：
+   $$\frac{d\omega}{dt} = \frac{3n}{4(1-e^2)^2}\left[\frac{J_2R^2}{a^2} + \frac{5}{2}\frac{M'}{M}\left(\frac{a}{a'}\right)^3\right]$$

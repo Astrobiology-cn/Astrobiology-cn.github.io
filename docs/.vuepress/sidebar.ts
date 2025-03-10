@@ -35,7 +35,7 @@ export default sidebar({
                     prefix: "/planetsci/planetmaterial",
                     link: "",
                     collapsible: true,
-                    children: ["igneous_rock-0.md","igneous_rock-1.md"],
+                    children: ["igneous_rock-0.md"],
                   },
                   {
                     text: "🏔️行星表面过程",
@@ -84,22 +84,8 @@ export default sidebar({
       link: "",
       collapsible: true,
       children: [
-                  {
-                    text: "天体生物学导论",
-                    icon: "",
-                    prefix: "/astrobio/astrobio-introduction",
-                    link: "",
-                    collapsible: true,
-                    children: ["astrobio-i0.md"],
-                  },
-                  {
-                    text: "天体生物学课程",
-                    icon: "",
-                    prefix: "/astrobio/astrobio-course",
-                    link: "",
-                    collapsible: true,
-                    children: ["astrobio-c0.md"],
-                  },
+                  "astrobio-i0.md",
+                  "astrobio-c0.md"
                 ],
     },
     {
@@ -227,6 +213,7 @@ export default sidebar({
   "/math/advanced_math/":"structure",
   "/math/statistics/":"structure",
   "/general/Japeco/":"structure",
+  "/planetsci/planetmaterial":"structure",
 
 
 

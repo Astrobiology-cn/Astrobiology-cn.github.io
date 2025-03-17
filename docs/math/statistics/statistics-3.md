@@ -2,7 +2,7 @@
 article: false
 title: 三 随机变量的数字特征
 icon: 
-order:
+order: 0.3
 ---
 ## 3.1 数学期望（均值）与中位数
 ### 1. **数学期望**
@@ -28,14 +28,16 @@ $$
 $$
 E(X_1X_2...X_n)=E(X_1)E(X_2)...E(X_n).
 $$
-* 设随机变量$X$为离散型，有分布$P(X=a_i)=p_i(i=1,2,...)$；或者为连续型，有概率密度函数$f(x)$.则
-
+* 若$c$为常数，则$E(cX)=cE(X)$.
+#### 随机变量函数的期望公式
+* 设随机变量$X$为离散型，有分布$P(X=a_i)=p_i(i=1,2,...)$；或者随机变量为连续型，有概率密度函数$f(x)$.则
 $$
-E(g(x))=\sum_ig(a_i)p_i\quad (当\sum_i|g(a_i)|p_i<\infty时) \\
+\begin{align}
+E(g(x))=\sum_ig(a_i)p_i\quad (当\sum_i|g(a_i)|p_i<\infty时) 
 或\\
 E(g(x))=\int_{-\infty}^\infty g(x)f(x)dx \quad (当\int_{-\infty}^{\infty}|g(x)|f(x)dx<\infty时)
+\end{align}
 $$
-* 若$c$为常数，则$E(cX)=cE(X)$.
 
 ### 2. **条件数学期望**
    

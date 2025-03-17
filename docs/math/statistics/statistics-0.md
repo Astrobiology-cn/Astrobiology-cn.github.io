@@ -2,7 +2,7 @@
 article: false
 title: 概率统计简介
 icon: 
-order:
+order: 0
 ---
 ## 简介
 这是概率统计的笔记

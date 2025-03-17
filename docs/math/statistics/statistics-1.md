@@ -2,7 +2,7 @@
 article: false
 title: 一 随机事件与概率
 icon: 
-order:
+order: 0.1
 ---
 ## 1.1 随机试验和随机事件
 

@@ -8,59 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32b8c699b192770c",
+            "id": "d8ad7c13d8db5827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_temp/Homework/Sea_dynamics.md",
+                "file": "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sea_dynamics"
+              "title": "planet_tectonics_motion"
             }
           },
           {
-            "id": "c6c0724bbd43e04d",
+            "id": "639d67e9cda87a8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/statistics/statistics-0.md",
+                "file": "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "statistics-0"
+              "title": "planet_tectonics_motion"
             }
           },
           {
-            "id": "6c35b71295c4955f",
+            "id": "3986a11bbf0fb63a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "docs/math/statistics/statistics-2.md",
-                "mode": "source",
-                "source": false
+                "url": "https://zhuanlan.zhihu.com/p/128434290",
+                "title": "第二章 球体上的构造：板块构造的几何学——2.2 平坦的地球 - 知乎",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "statistics-2"
+              "icon": "globe-2",
+              "title": "第二章 球体上的构造：板块构造的几何学——2.2 平坦的地球 - 知乎"
             }
           },
           {
-            "id": "08bb3a8120615f06",
+            "id": "34062aa6444a54a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "docs/_temp/Statistics.md",
-                "mode": "source",
-                "source": false
+                "url": "https://zhuanlan.zhihu.com/p/126738627",
+                "title": "固体地球：全球地球物理学导论（第二版）——目录 - 知乎",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Statistics"
+              "icon": "globe-2",
+              "title": "固体地球：全球地球物理学导论（第二版）——目录 - 知乎"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 317.5
   },
   "right": {
     "id": "f50509859d857dda",
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/math/statistics/statistics-0.md",
+                "file": "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "statistics-0 的大纲"
+              "title": "planet_tectonics_motion 的大纲"
             }
           }
         ],
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,39 +212,40 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c6c0724bbd43e04d",
+  "active": "639d67e9cda87a8f",
   "lastOpenFiles": [
-    "docs/_temp/Homework/Sea_dynamics.md",
-    "docs/math/statistics/statistics-3.md",
-    "docs/math/statistics/statistics-1.md",
-    "docs/math/statistics/statistics-0.md",
-    "docs/math/statistics/statistics-2.md",
-    "docs/_temp/Statistics.md",
-    "docs/math/statistics/images/ch3/correlation.png",
     "docs/planetsci/planetfundamental/planet_dynamics.md",
-    "docs/_temp/克罗内克δ函数.md",
+    "docs/_temp/Homework/Sea_dynamics.md",
+    "docs/_temp/第二章 球体上的构造：板块构造的几何学——2.2 平坦的地球.md",
     "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
+    "docs/math/spherical-triangle.md",
+    "docs/_temp/克罗内克δ函数.md",
+    "docs/_temp/Statistics.md",
+    "docs/_temp/planet_geomagnetic.md",
+    "docs/_temp/planet_heat-transport.md",
+    "docs/_temp/Spherical Harmonics.md",
+    "samplepage.md",
+    "README.md",
     "Pasted image 20250314003413.png",
-    "Pasted image 20250314003322.png",
     "Pasted image 20250314000012.png",
     "Pasted image 20250313235053.png",
+    "docs/planetsci/planetfundamental/planet_magneticfield.md",
+    "docs/math/gdc.md",
+    "CHANGELOG.md",
+    "docs/planetsci/planetfundamental/planet_properties.md",
+    "docs/planetsci/planetfundamental/planet_oribit.md",
+    "docs/math/statistics/statistics-3.md",
+    "docs/math/statistics/statistics-2.md",
+    "docs/math/statistics/statistics-table.md",
+    "docs/math/statistics/statistics-1.md",
+    "docs/math/statistics/statistics-0.md",
+    "docs/math/statistics/images/ch3/correlation.png",
+    "Pasted image 20250314003322.png",
     "Pasted image 20250314003337.png",
     "docs/general/Japeco-0.md",
     "docs/general/general_intro.md",
     "docs/general/Japeco/Japeco-4.md",
     "docs/general/Japeco/Japeco-3.md",
-    "docs/planetsci/planetfundamental/planet_properties.md",
-    "docs/planetsci/planetfundamental/planet_oribit.md",
-    "docs/planetsci/planetfundamental/oribital_elements.md",
-    "docs/planetsci/未命名.md",
-    "docs/deploy/CloudServices.md",
-    "docs/deploy/DNS.md",
-    "docs/deploy/GitHub.md",
-    "docs/deploy/Cloudflare.md",
-    "docs/deploy/MySQL.md",
-    "docs/code/Javascript.md",
-    "docs/code/Markdown.md",
-    "docs/code/README.md",
     "planetmaterial",
     "docs/planetsci/planetmaterial/igneous_rock_images/e15a7ea2c467ab16bb69508cba945f84424f8432a552533c3fac9338cf3decd7.jpg",
     "docs/planetsci/planetmaterial/igneous_rock_images/b9bc5fbeca3920c4c0181bf75bf55932d9a347322fd1d8052fd7f2187d393478.jpg",

@@ -86,6 +86,14 @@ export default sidebar({
       children: [
                   "astrobio-i0.md",
                   "astrobio-c0.md"
+                  {
+                    text: "天体生物学课程",
+                    icon: "",
+                    prefix: "/astrobio/astrobio-cource",
+                    link: "",
+                    collapsible: true,
+                    children: ["astrobio-c0.md"],
+                  }, 
                 ],
     },
     {

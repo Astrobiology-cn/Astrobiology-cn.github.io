@@ -2,7 +2,7 @@
 article: false
 title: 第四讲 长期交易（一）：金融市场之中的交易
 icon: 
-order:
+order: 1.4
 ---
 ## 导论（一）：金融系统的功能与经济发展
 

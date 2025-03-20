@@ -51,5 +51,25 @@
       ],
       "key": "Y"
     }
+  ],
+  "editor:toggle-checklist-status": [],
+  "workspace:new-tab": [],
+  "workspace:undo-close-pane": [],
+  "obsidian-plugin-toc:create-toc": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-plugin-toc:create-toc-next-level": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

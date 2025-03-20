@@ -85,7 +85,6 @@ export default sidebar({
       collapsible: true,
       children: [
                   "astrobio-i0.md",
-                  "astrobio-c0.md"
                   {
                     text: "天体生物学课程",
                     icon: "",

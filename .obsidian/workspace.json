@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/astrobio/astrobio-course/astrobio-c5.md",
+                "file": "docs/astrobio/astrobio-c0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "astrobio-c5"
+              "title": "astrobio-c0"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/astrobio/astrobio-course/astrobio-c5.md",
+                "file": "docs/astrobio/astrobio-c0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "astrobio-c5 的大纲"
+              "title": "astrobio-c0 的大纲"
             }
           }
         ],
@@ -200,11 +200,15 @@
   },
   "active": "01ebc321ac97504c",
   "lastOpenFiles": [
+    "docs/astrobio/astrobio-course/astrobio-c5.md",
+    "docs/astrobio/astrobio-c0.md",
+    "docs/astrobio/astrobio-i0.md",
+    "docs/astrobio/astrobio-course/astrobio-c4.md",
+    "docs/astrobio/astrobio-course/astrobio-c3.md",
+    "docs/astrobio/astrobio-course/astrobio-c1.md",
     "docs/astrobio/astrobio-course/images/image-20250320183558.png",
     "docs/astrobio/astrobio-course/images/image-20250320113906.png",
     "docs/astrobio/astrobio-course/images/image-20250320183433.png",
-    "docs/astrobio/astrobio-course/astrobio-c5.md",
-    "docs/astrobio/astrobio-course/astrobio-c4.md",
     "docs/astrobio/astrobio-course/images/image-20250320113703.png",
     "docs/astrobio/astrobio-course/images/image-20250320112207.png",
     "docs/math/Legendre.md",
@@ -220,7 +224,6 @@
     "docs/astrobio/images/image-20240602194232-naval61.png",
     "docs/astrobio/images/image-20240602194554-jqyzzfh.png",
     "docs/astrobio/images",
-    "docs/astrobio/astrobio-course/astrobio-c3.md",
     "docs/astrobio/astrobio-course/images/image-20250320105326.png",
     "docs/biosci/devebio/devebio-3.md",
     "docs/biosci/devebio/devebio-2.md",
@@ -230,14 +233,12 @@
     "docs/biosci/devebio/devebio-1.md",
     "docs/biosci/devebio/devebio-0.md",
     "docs/biosci/devebio/devebio-5.md",
-    "docs/astrobio/astrobio-course/astrobio-c1.md",
     "docs/astrobio/astrobio-course/images",
     "docs/astrobio/astrobio-course/astrobio-c2.md",
     "docs/biosci/devebio/images/Pasted.md",
     "docs/general/Japeco-0.md",
     "images/Pasted.md",
     "images",
-    "docs/biosci/genetics/Genetics-FG2G_6ed_Chapter-1.md",
     "docs/biosci/devebio/images",
     "planetmaterial",
     "docs/planetsci/planetmaterial/igneous_rock_images",

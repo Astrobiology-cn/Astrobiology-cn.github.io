@@ -1,6 +1,6 @@
 ---
 article: false
-title: 课程笔记
+title: 
 icon: 
 order: 0.3
 ---

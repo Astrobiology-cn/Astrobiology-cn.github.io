@@ -1,7 +1,8 @@
 ---
 article: false
 title: 4.细胞命运决定与线虫发育
-icon:
+icon: 
+order: 0.4
 ---
 ## 细胞命运的决定
 ### 一、发育概述

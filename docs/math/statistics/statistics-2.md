@@ -114,7 +114,7 @@ $$
 
 ![](images/ch2/normal_dense.png)
 
-<img src="images\ch2\normal_dist.png" style="zoom:50%;" />
+![](images/ch2/normal_dist.png)
 
 ### **指数分布（*Exponential distribution*）：**
 

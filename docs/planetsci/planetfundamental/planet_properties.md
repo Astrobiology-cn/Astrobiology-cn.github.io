@@ -1,6 +1,6 @@
 ---
 article: false
-icon: fa-solid fa-hashtag
+icon: 
 title: 行星的基本性质
 order: 1
 ---

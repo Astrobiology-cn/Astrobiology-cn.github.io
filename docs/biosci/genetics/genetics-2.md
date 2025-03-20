@@ -1,6 +1,6 @@
 ---
 article: false
-title: 遗传的染色体学说
+title: 2.遗传的染色体学说
 icon: 
 order: 0.2
 ---

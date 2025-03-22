@@ -13,44 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/astrobio/astrobio-course/astrobio-c4.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "astrobio-c4"
+              "title": "README"
             }
           },
           {
-            "id": "01ebc321ac97504c",
+            "id": "f383f655424ddac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "docs/astrobio/astrobio-c0.md",
-                "mode": "source",
-                "source": false
+                "url": "https://nav.newzone.top/",
+                "title": "开源工具导航 | 收集最新的应用和科技，提升自我和工作效率",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "astrobio-c0"
+              "icon": "globe-2",
+              "title": "开源工具导航 | 收集最新的应用和科技，提升自我和工作效率"
             }
           },
           {
-            "id": "3e4c97a294890f5e",
+            "id": "5e576634c024009d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "docs/astrobio/Life_Binary_or_Gradual.md",
-                "mode": "source",
-                "source": false
+                "url": "https://newzone.top/",
+                "title": "LearnData 开源笔记 | LearnData 开源笔记",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Life_Binary_or_Gradual"
+              "icon": "globe-2",
+              "title": "LearnData 开源笔记 | LearnData 开源笔记"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "f50509859d857dda",
@@ -171,13 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/astrobio/astrobio-c0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "astrobio-c0 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,54 +199,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01ebc321ac97504c",
+  "active": "5e576634c024009d",
   "lastOpenFiles": [
-    "docs/astrobio/astrobio-course/astrobio-c5.md",
-    "docs/astrobio/astrobio-c0.md",
-    "docs/astrobio/astrobio-i0.md",
-    "docs/astrobio/astrobio-course/astrobio-c4.md",
-    "docs/astrobio/astrobio-course/astrobio-c3.md",
-    "docs/astrobio/astrobio-course/astrobio-c1.md",
-    "docs/astrobio/astrobio-course/images/image-20250320183558.png",
-    "docs/astrobio/astrobio-course/images/image-20250320113906.png",
-    "docs/astrobio/astrobio-course/images/image-20250320183433.png",
-    "docs/astrobio/astrobio-course/images/image-20250320113703.png",
-    "docs/astrobio/astrobio-course/images/image-20250320112207.png",
-    "docs/math/Legendre.md",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/nep_touch_head_1.mtn",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/nep_touch_belly_2.mtn",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/shake.mtn",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/101.ogg",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/014.ogg",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/013.ogg",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/007.ogg",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/001.ogg",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/tilt_head.mtn",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/smile.mtn",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/refuse.mtn",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_classic/textures.1024/03.png",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_classic/textures.1024/02.png",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/noir_classic/textures.1024/02.png",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/noir_classic/textures.1024/01.png",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_classic/textures.1024/01.png",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_classic/textures.1024/00.png",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/noir_classic/textures.1024/00.png",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/textures.1024/03.png",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/textures.1024/02.png",
+    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/textures.1024/01.png",
+    "live2d-widget/live2d_api/README.md",
+    "live2d-widget/README.md",
+    "docs/live2d-widget/live2d_api/README.md",
+    "docs/live2d-widget/README.md",
+    "README.md",
+    "docs/README.md",
     "docs/astrobio/Life_Binary_or_Gradual.md",
-    "docs/math/math_intro.md",
+    "docs/DailyRoutine.md",
+    "docs/Fitness.md",
+    "docs/_temp/planet_geomagnetic.md",
+    "docs/_temp/planet_heat-transport.md",
+    "docs/_temp/Spherical Harmonics.md",
+    "docs/_temp/克罗内克δ函数.md",
     "docs/math/spherical-triangle.md",
-    "docs/math/statistics/statistics-table.md",
-    "docs/math/statistics/statistics-3.md",
-    "docs/math/statistics/statistics-1.md",
-    "docs/math/statistics/statistics-0.md",
-    "docs/astrobio/images/image-20240602194407-6pfbvfl.png",
-    "docs/astrobio/images/image-20240602194333-81b7ztk.png",
-    "docs/astrobio/images/image-20240602194232-naval61.png",
-    "docs/astrobio/images/image-20240602194554-jqyzzfh.png",
-    "docs/astrobio/images",
-    "docs/astrobio/astrobio-course/images/image-20250320105326.png",
-    "docs/biosci/devebio/devebio-3.md",
-    "docs/biosci/devebio/devebio-2.md",
-    "docs/general/Japeco/Japeco-5.md",
-    "未命名.md",
-    "docs/biosci/devebio/devebio-4.md",
-    "docs/biosci/devebio/devebio-1.md",
+    "docs/math/Legendre.md",
+    "docs/_temp/Statistics.md",
+    "docs/biosci/cellbio/cellbio-3.md",
+    "docs/biosci/cellbio/cellbio-2.md",
+    "docs/biosci/cellbio/cellbio-1.md",
+    "docs/biosci/cellbio/cellbio-0.md",
+    "docs/biosci/genetics/genetics-1.md",
+    "docs/biosci/genetics/genetics-0.md",
     "docs/biosci/devebio/devebio-0.md",
-    "docs/biosci/devebio/devebio-5.md",
-    "docs/astrobio/astrobio-course/images",
-    "docs/astrobio/astrobio-course/astrobio-c2.md",
-    "docs/biosci/devebio/images/Pasted.md",
-    "docs/general/Japeco-0.md",
-    "images/Pasted.md",
-    "images",
-    "docs/biosci/devebio/images",
-    "planetmaterial",
-    "docs/planetsci/planetmaterial/igneous_rock_images",
-    "docs/planetsci/planetmaterial",
-    "docs/planetsci/新建文件夹",
-    "docs/_temp/Homework",
-    "未命名.canvas",
-    "docs/math/statistics/images/readme"
+    "docs/_temp/Homework/谢宸栋2300012553海洋动力学第一次作业.md",
+    "docs/biosci/genetics/genetics-3.md",
+    "未命名.canvas"
   ]
 }

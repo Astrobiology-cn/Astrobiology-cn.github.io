@@ -207,7 +207,7 @@ $$
     $$r(\theta) = \frac{r_c}{1+e\cos(\theta-\omega)}$$
     其中$\omega$ 为近地点幅角 , 当$\theta = \omega$时，卫星处于近地点。可以将$\theta-\omega$记作真近点角$\nu$(从近地点起算的角度。
 	 
-	 如果想更好地描述椭圆轨道，可以引入更多的参量，参考[轨道六根数](./oribital_elements)
+	 如果想更好地描述椭圆轨道，可以引入更多的参量，参考[轨道六根数](planet_oribit.md)
    - **第二定律（面积定律）**：
     $$\frac{dA}{dt} = \frac{1}{2}r^2\dot{\theta} = \frac{h}{2} = \text{常量}$$
     因为$h = r^2\dot{\theta}=0$，所以$h$是常数

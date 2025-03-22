@@ -13,12 +13,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://astrobiology-cn.github.io/apps/Applist.html",
-                "title": "必备应用 | Astrobiology 天体生物学",
+                "url": "https://astrobiology-cn.github.io/code/",
+                "title": "Coding | Astrobiology 天体生物学",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "必备应用 | Astrobiology 天体生物学"
+              "title": "Coding | Astrobiology 天体生物学"
             }
           },
           {

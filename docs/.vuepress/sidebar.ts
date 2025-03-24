@@ -88,7 +88,7 @@ export default sidebar({
                   {
                     text: "天体生物学课程",
                     icon: "",
-                    prefix: "/astrobio/astrobio-cource",
+                    prefix: "/astrobio/astrobio-course",
                     link: "",
                     collapsible: true,
                     children: ["astrobio-c0.md"],

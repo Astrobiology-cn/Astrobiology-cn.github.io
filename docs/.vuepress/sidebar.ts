@@ -25,7 +25,8 @@ export default sidebar({
                   },
                   {
                     text: "🌌行星科学导论",
-                    icon: "",
+                    prefix: "/planetsci/planetintroduction",
+                    link: "",
                     collapsible: true,
                     children: [],
                   },

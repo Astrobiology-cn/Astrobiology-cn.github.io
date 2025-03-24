@@ -43,11 +43,6 @@ order: 0.5
 
 34.3亿年前的Strelley Pool燧石（SPC）（澳大利亚Pilbara克拉通）是一种沉积岩层，含有可能具有生物起源的层状结构（叠层石）。如何确定这些古生物化石的生物成因一直是争论不休的话题。然而，由于叠层石露头分布广泛、保存良好且形态多样，SPC在解释这些化石时克服了诸多障碍。叠层石露头提供了关于此类年龄岩石的广泛古生物信息,其规模超过了其他同龄岩石。研究者认为叠层石的多样性、复杂性和环境关联描述了在地球历史中类似的设置中存在的生物存在模式。
 
-Ancient life from a newly exposed outcrop of 3,7Ga metacarbonate rocks in the Isua supracrustal belt that contain 1~4-cm-high stromatolites.
-伊苏阿超地壳带新出露的 3,7Ga 偏碳酸盐岩中的远古生物，其中含有 1~4 厘米高的叠层石。
-Three-dimensional analysis of the morphology and orientation of the structures within the context of host rock fabrics, combined with texturespecific analyses of major and trace element chemistry, show that the ‘stromatolites’ are more plausibly interpreted as part of an assemblage of deformation structures formed in carbonate-altered metasediments long after burial.
-结合对主要元素和痕量元素化学性质的分析，对主岩结构的形态和方向进行了三维分析，结果表明，"叠层石 "被解释为埋藏很久之后在碳酸盐改变的变质岩中形成的变形结构组合的一部分更为合理。
-
 ### （三）同位素证据
 无机碳源中碳-13占比约1.07%，而生物及其化石遗骸中碳-13占比略低。在沉积岩中测得的有机物质具有高度负的δ13C值，暗示着生物活动。例如，通过分析不同植物、原生生物和细菌的碳同位素组成，可与环境中的无机碳源进行对比，进而推断生物活动的历史。
 $$
@@ -83,6 +78,7 @@ $$
 >Last common ancestor of the mitochondrial lineage(Mito-LECA)
 >Last plastid-bearing common ancestor(LPCA)
 >(Nature ecology & evolution 2024, 8, 1654)
+
 
 ![](images/image-20250320113906.png)
 >地球生物系统演化史

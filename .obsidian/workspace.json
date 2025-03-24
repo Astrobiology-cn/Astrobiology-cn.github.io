@@ -8,34 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d24e0ff88f8deed7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://astrobiology-cn.github.io/code/",
-                "title": "Coding | Astrobiology 天体生物学",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Coding | Astrobiology 天体生物学"
-            }
-          },
-          {
-            "id": "2f4a0d2009f97c22",
+            "id": "fa4f1554b4b43687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_temp/导航网站.md",
+                "file": "docs/biosci/devebio/devebio-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "导航网站"
+              "title": "devebio-5"
+            }
+          },
+          {
+            "id": "97a006318c792e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/astrobio/astrobio-course/astrobio-c2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "astrobio-c2"
+            }
+          },
+          {
+            "id": "2171dacff5604bf0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/astrobio/astrobio-course/images/Pasted image 20250324104926.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250324104926"
+            }
+          },
+          {
+            "id": "aa35e8e362d3367b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/astrobio/astrobio-course/images/image-20250323155528.png"
+              },
+              "icon": "lucide-image",
+              "title": "image-20250323155528"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +80,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -183,11 +208,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d24e0ff88f8deed7",
+  "active": "97a006318c792e99",
   "lastOpenFiles": [
+    "docs/astrobio/astrobio-course/images/Pasted image 20250324104926.png",
+    "docs/astrobio/astrobio-course/astrobio-c2.md",
+    "docs/math/general-physics/general_physics-0.md",
+    "docs/biosci/devebio/devebio-5.md",
+    "docs/astrobio/astrobio-course/images/Pasted image 20250324110310.png",
+    "docs/astrobio/astrobio-course/images/Pasted image 20250324105809.png",
+    "docs/astrobio/astrobio-course/images/image-20250323150733.png",
+    "docs/astrobio/astrobio-course/images/image-20250323151812.png",
+    "docs/astrobio/astrobio-course/images/image-20250323153705.png",
+    "docs/astrobio/astrobio-course/images/image-20250323154121.png",
+    "docs/astrobio/astrobio-course/images/image-20250323154925.png",
+    "docs/astrobio/astrobio-course/images/image-20250323155528.png",
+    "docs/astrobio/astrobio-course/images/Pasted image 20250323160516.png",
+    "docs/astrobio/astrobio-course/astrobio-c3.md",
+    "docs/astrobio/astrobio-course/astrobio-c4.md",
+    "docs/astrobio/astrobio-course/astrobio-c5.md",
+    "docs/astrobio/astrobio-course/astrobio-c1.md",
     "docs/_temp/导航网站.md",
     "docs/planetsci/planetfundamental/planet_geomagnetic.md",
-    "docs/planetsci/planetfundamental/images/image-20250321141735.png",
     "docs/planetsci/planetfundamental/planet_magneticfield.md",
     "docs/planetsci/planetfundamental/planet_oribit.md",
     "docs/planetsci/planetfundamental/planet_properties.md",
@@ -209,28 +250,11 @@
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/013.ogg",
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/007.ogg",
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/001.ogg",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_classic/textures.1024/03.png",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_classic/textures.1024/02.png",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/noir_classic/textures.1024/02.png",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/noir_classic/textures.1024/01.png",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_classic/textures.1024/01.png",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_classic/textures.1024/00.png",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/noir_classic/textures.1024/00.png",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/textures.1024/03.png",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/textures.1024/02.png",
     "live2d-widget/live2d_api/README.md",
     "live2d-widget/README.md",
     "docs/live2d-widget/live2d_api/README.md",
     "docs/live2d-widget/README.md",
     "docs/README.md",
-    "docs/astrobio/Life_Binary_or_Gradual.md",
-    "docs/DailyRoutine.md",
-    "docs/Fitness.md",
-    "docs/_temp/planet_heat-transport.md",
-    "docs/_temp/克罗内克δ函数.md",
-    "docs/_temp/Statistics.md",
-    "docs/biosci/cellbio/cellbio-3.md",
-    "docs/biosci/cellbio/cellbio-2.md",
     "未命名.canvas"
   ]
 }

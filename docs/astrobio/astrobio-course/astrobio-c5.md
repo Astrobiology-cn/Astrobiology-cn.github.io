@@ -72,10 +72,15 @@ $$
 
 ![600](images/image-20250320113703.png)
 >Last universal Common ancestor (LUCA)~4.2 Ga (4.09–4.33 Ga)
+>
 >Last Archaeal Common ancestor (LACA)
+>
 >Last Bacterial Common ancestor (LBCA）
+>
 >Last eukaryotic common ancestor(LECA)
+>
 >Last common ancestor of the mitochondrial lineage(Mito-LECA)
+>
 >Last plastid-bearing common ancestor(LPCA)
 >(Nature ecology & evolution 2024, 8, 1654)
 
@@ -126,5 +131,3 @@ Oparin将生命起源研究从纯思辨转变为可操作的研究计划，其�
 ![](images/image-20250320183558.png)
 >”有机小分子——>原始囊泡“示意图
 
-## 四、总结
-生命起源的研究是一个漫长而复杂的过程，从神话传说到科学探索，经历了多个阶段的转变。微化石、叠层石、同位素和系统发育学等多方面的证据为揭示生命起源的时间和方式提供了重要线索。Oparin-Haldane假说奠定了现代生命起源研究的基础，尽管仍存在一些未解之谜，但科学家们不断通过实验和理论研究，逐步接近生命起源的真相。

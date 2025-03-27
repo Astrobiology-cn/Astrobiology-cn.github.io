@@ -26,6 +26,6 @@ order: 0.3
 ## 前生命时期的宜居要素
 ## 早期地球的能量平衡：暗淡太阳佯谬
 
-# Reference
+## 参考资料
 
 [^1]: https://exoplanets.interimm.org/hz.html#id1 "Permalink to this headline"

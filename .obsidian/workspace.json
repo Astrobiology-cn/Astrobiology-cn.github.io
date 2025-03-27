@@ -36,21 +36,19 @@
             }
           },
           {
-            "id": "b78d932b74846805",
+            "id": "a0f98e5bfca8326b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/astrobio/astrobio-course/astrobio-c2.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/general/Japeco/images/image-20250326195249.png"
               },
-              "icon": "lucide-file",
-              "title": "astrobio-c2"
+              "icon": "lucide-image",
+              "title": "image-20250326195249"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "f50509859d857dda",
@@ -171,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/_temp/Homework/Genetics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Genetics 的大纲"
             }
           }
         ],
@@ -198,27 +198,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b78d932b74846805",
+  "active": "97a006318c792e99",
   "lastOpenFiles": [
-    "docs/astrobio/astrobio-course/images/image-20250324110310.png",
-    "docs/astrobio/astrobio-course/astrobio-c2.md",
-    "docs/astrobio/astrobio-course/images/image-20250324105809.png",
-    "docs/astrobio/astrobio-course/images/image-20250324104926.png",
-    "docs/astrobio/astrobio-course/images/image-20250324104818.png",
-    "docs/astrobio/astrobio-course/images/image-20250324104649.png",
-    "docs/astrobio/astrobio-course/images/image-20250324103825.png",
-    "docs/astrobio/astrobio-course/images/image-20250324103723.png",
-    "docs/astrobio/astrobio-course/images/image-20250324103344.png",
-    "docs/astrobio/astrobio-course/images/image-20250324103223.png",
-    "docs/astrobio/astrobio-course/images/image-20250324102016.png",
+    "docs/_temp/Homework/Genetics.md",
+    "docs/general/Japeco-0.md",
     "docs/astrobio/astrobio-course/astrobio-c3.md",
+    "docs/general/Japeco/Japeco-5.md",
+    "docs/general/Japeco/Japeco-6.md",
+    "docs/general/Japeco/Japeco-4.md",
+    "docs/general/Japeco/images/image-20250326195648.png",
+    "docs/general/Japeco/images/image-20250326195249.png",
+    "docs/general/Japeco/images",
+    "docs/biosci/devebio/images/image-20250325214140.png",
+    "docs/biosci/devebio/devebio-5.md",
+    "docs/biosci/devebio/images/image-20250325213715.png",
+    "docs/biosci/devebio/images/image-20250325213914.png",
+    "docs/biosci/devebio/images/image-20250325210403.png",
+    "docs/biosci/devebio/images/image-20250325210105.png",
+    "docs/biosci/devebio/images/image-20250325204239.png",
+    "docs/biosci/devebio/images/image-20250325202554.png",
+    "docs/biosci/devebio/images/image-20250325200826.png",
+    "docs/biosci/devebio/devebio-2.md",
+    "docs/biosci/devebio/devebio-3.md",
+    "docs/biosci/devebio/devebio-4.md",
+    "docs/astrobio/astrobio-course/astrobio-c1.md",
+    "docs/astrobio/astrobio-c0.md",
+    "docs/general/Japeco/Japeco-3.md",
+    "docs/astrobio/astrobio-course/astrobio-c2.md",
     "docs/planetsci/planetintroduction",
     "docs/planetsci/planetintroduction.md",
     "docs/math/general-physics/general_physics-0.md",
-    "docs/biosci/devebio/devebio-5.md",
     "docs/astrobio/astrobio-course/astrobio-c4.md",
     "docs/astrobio/astrobio-course/astrobio-c5.md",
-    "docs/astrobio/astrobio-course/astrobio-c1.md",
     "docs/_temp/导航网站.md",
     "docs/planetsci/planetfundamental/planet_geomagnetic.md",
     "docs/planetsci/planetfundamental/planet_magneticfield.md",
@@ -227,11 +238,6 @@
     "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
     "docs/planetsci/planetfundamental/planet_dynamics.md",
     "docs/planetsci/intro2planetsci.md",
-    "docs/math/Legendre.md",
-    "docs/math/math_intro.md",
-    "docs/math/spherical-triangle.md",
-    "docs/_temp/Spherical Harmonics.md",
-    "README.md",
     "pnpm-lock.yaml.428070782",
     "_tmp_13880_ccdcc1eb0072bd20913140bc4bc7d356",
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/nep_touch_head_1.mtn",
@@ -240,11 +246,6 @@
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/101.ogg",
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/014.ogg",
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/013.ogg",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/007.ogg",
-    "live2d-widget/live2d_api/README.md",
-    "live2d-widget/README.md",
-    "docs/live2d-widget/live2d_api/README.md",
-    "docs/live2d-widget/README.md",
     "未命名.canvas"
   ]
 }

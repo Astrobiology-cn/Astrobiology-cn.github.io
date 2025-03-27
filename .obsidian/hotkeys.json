@@ -44,14 +44,6 @@
       "key": "ArrowRight"
     }
   ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Y"
-    }
-  ],
   "editor:toggle-checklist-status": [],
   "workspace:new-tab": [],
   "workspace:undo-close-pane": [],

@@ -86,14 +86,7 @@ export default sidebar({
       collapsible: true,
       children: [
                   "astrobio-i0.md",
-                  {
-                    text: "天体生物学课程",
-                    icon: "",
-                    prefix: "/astrobio/astrobio-course",
-                    link: "",
-                    collapsible: true,
-                    children: ["astrobio-c0.md"],
-                  }, 
+                  "astrobio-c0.md"
                 ],
     },
     {
@@ -218,7 +211,7 @@ export default sidebar({
   ],
   // 专题区（独立侧边栏）
   "/apps/topic/": "structure",
-  "/astrobio/astrobio-cource":"structure",
+  "/astrobio/astrobio-course":"structure",
   "/biosci/genetics/":"structure",
   "/biosci/devebio/":"structure",
   "/math/advanced_math/":"structure",

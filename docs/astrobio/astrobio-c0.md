@@ -10,7 +10,7 @@ order: 0
 
 2.[行星早期演化](astrobio-course/astrobio-c2.md)
 
-3.
+3.[行星早期宜居性](astrobio-course/astrobio-c3.md)
 
 4.[生命-宜居性演化](astrobio-course/astrobio-c4.md)
 

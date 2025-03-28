@@ -182,4 +182,42 @@ $$
 2. **实验室分析**：对所有样品进行古地磁测量，确定每个样品的磁化方向是正常极性还是反极性。
 3. **数据统计与对比**：统计正、反极性样品的比例和分布模式，与国际地磁极性时间尺度（Geomagnetic Polarity Time Scale，GPTS）进行对比。如果样品的极性分布与 GPTS 中相应时期的极性序列一致，说明磁化方向是稳定的古代信号；如果存在不一致，可能需要进一步分析是否存在后期磁化叠加或其他干扰因素。
 
-通过以上这些野外测试方法，古地磁学家能够在不同的地质构造背景下，对岩石中的古代磁化信号进行有效的验证和评估，从而为板块构造研究、地层年代确定以及地球磁场演化等科学问题提供可靠的依据。在实际研究中，通常会结合多种测试方法，以提高结果的可信度和科学价值。
+# 古地磁学的板块构造定量应用(Paleomagnetism applied to quantitative plate tectonics)
+
+# Magnetic anomly
+
+### FLux-gate magnetometer
+
+### Methods to survey the magnetic fields
+### Date correction for magnetic anomalies
+
+date ionosphere
+
+Altitude latitude —— gradient
+### Calculation of magenetic  anomalies
+从一对磁极开始
+ the magnetic potential of a pair of magnetic poles
+
+#### Magnetic anomly of a vertical prism - inclined moment
+### calcualtion of simple magnetic anomalies
+（1）very long vertical cylinder
+（2）vertically magnetized sphere
+（3）
+（4）ELonge bodies
+（5）Rectangular bodies
+## Part II - applications
+
+### the Vine-Mathews-Morley hypothesis . 1963
+
+### constructing the geomagnetic polarity timescales
+
+### Estimate rate of past sea floor spreading
+
+### marine magnetic anomaly for regional tectonic studies
+海底热液喷口会产生demagnetization
+可以检测dead vents
+
+[海洋磁异常的来源和地磁极性时间尺度 - ScienceDirect --- Source of Oceanic Magnetic Anomalies and the Geomagnetic Polarity Timescale - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B9780444527486000973)
+
+https://en.wikipedia.org/wiki/Magnetic_anomaly
+

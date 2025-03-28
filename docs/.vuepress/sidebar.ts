@@ -21,7 +21,7 @@ export default sidebar({
                     prefix: "/planetsci/planetfundamental",
                     link: "",
                     collapsible: true,
-                    children: ["planet_dynamics.md","planet_properties.md"],
+                    children: ["planet_dynamics.md","planet_properties.md","planet_tectonics_motion.md",],
                   },
                   {
                     text: "🌌行星科学导论",

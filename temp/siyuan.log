@@ -1,0 +1,48 @@
+I 2025/03/31 09:03:56 working.go:178: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2025/03/31 09:03:56 runtime.go:87: kernel is booting:
+    * ver [3.1.26]
+    * arch [amd64]
+    * os [Microsoft Windows 11 Home China]
+    * pid [32408]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_3.1.26.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\GithubSourceCode\Astrobiology-cn.github.io]
+I 2025/03/31 09:03:56 conf.go:168: initialized language [zh_CN] based on device locale
+I 2025/03/31 09:03:56 conf.go:327: using Microsoft Store edition
+I 2025/03/31 09:03:56 runtime.go:139: use network proxy [system]
+I 2025/03/31 09:03:56 serve.go:209: kernel [pid=32408] http server [127.0.0.1:55000] is booting
+I 2025/03/31 09:03:56 blocktree.go:75: reinitialized database [D:\GithubSourceCode\Astrobiology-cn.github.io\temp\blocktree.db]
+I 2025/03/31 09:03:56 database.go:92: the database structure is changed, rebuilding database...
+I 2025/03/31 09:03:56 database.go:109: reinitialized database [D:\GithubSourceCode\Astrobiology-cn.github.io\temp\siyuan.db]
+I 2025/03/31 09:03:56 conf.go:874: tree/block count [0/0]
+I 2025/03/31 09:03:56 working.go:224: kernel booted
+I 2025/03/31 09:03:57 box.go:77: auto stat [trees=0, blocks=0, dataSize=36.87 kB, assetsSize=0 B]
+I 2025/03/31 09:03:57 disk.go:33: disk usage [total=294.98 GB, used=226.7 GB, free=68.28 GB]
+I 2025/03/31 09:03:57 font.go:58: loaded system fonts [210] in [233ms]
+I 2025/03/31 09:03:58 index.go:220: rebuilt database for notebook [20210808180117-czj9bvb] in [0.06s], tree [count=70, size=1.51 MB]
+I 2025/03/31 09:03:58 index.go:290: resolved refs [38] in [76ms]
+I 2025/03/31 09:04:00 pandoc.go:186: initialized built-in pandoc [ver=3.5, bin=D:\GithubSourceCode\Astrobiology-cn.github.io\temp\pandoc\bin\pandoc.exe]
+I 2025/03/31 09:04:00 conf.go:1137: pandoc initialized, set pandoc bin to [D:\GithubSourceCode\Astrobiology-cn.github.io\temp\pandoc\bin\pandoc.exe]
+I 2025/03/31 09:04:18 elevator_windows.go:60: use elevator to add Windows Defender exclusion path [C:\Program Files\WindowsApps\89C2A984.SiYuan_3.1.26.0_x64__1qfd3tsw4ngc2\app, D:\GithubSourceCode\Astrobiology-cn.github.io]
+E 2025/03/31 09:04:21 elevator_windows.go:77: add Windows Defender exclusion path [C:\Program Files\WindowsApps\89C2A984.SiYuan_3.1.26.0_x64__1qfd3tsw4ngc2\app, D:\GithubSourceCode\Astrobiology-cn.github.io] failed: The operation was canceled by the user.
+E 2025/03/31 09:05:58 box.go:93: read dir [D:\GithubSourceCode\Astrobiology-cn.github.io\data] failed: open D:\GithubSourceCode\Astrobiology-cn.github.io\data: The system cannot find the file specified.
+W 2025/03/31 09:13:56 history.go:680: history dir [D:\GithubSourceCode\Astrobiology-cn.github.io\history] not exist
+I 2025/03/31 09:15:38 conf.go:617: exiting kernel [force=false, setCurrentWorkspace=true, execInstallPkg=0]
+I 2025/03/31 09:15:39 database.go:1322: closed database
+I 2025/03/31 09:15:39 conf.go:1058: cleared workspace temp
+I 2025/03/31 09:15:39 sync.go:798: sync websocket closed
+I 2025/03/31 09:15:40 conf.go:687: exited kernel

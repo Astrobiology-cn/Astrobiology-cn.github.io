@@ -1,6 +1,6 @@
 ---
 article: false
-title: 一 随机事件与概率
+title: 随机事件与概率
 icon: 
 order: 0.1
 ---

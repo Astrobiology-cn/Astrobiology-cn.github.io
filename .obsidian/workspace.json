@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "bedd99a04cfb86c7",
+            "id": "8be82af286f1ea38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_temp/Homework/谢宸栋2300012553海洋动力学第二次作业.md",
+                "file": "docs/planetsci/planetfundamental/planet_geomagnetic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "谢宸栋2300012553海洋动力学第二次作业"
+              "title": "planet_geomagnetic"
             }
           },
           {
-            "id": "c6ce628a7f95da3b",
+            "id": "271323bd36bbfaab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/reading/1_小说/小王子.md",
+                "file": "docs/planetsci/planetfundamental/IGRF-intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小王子"
+              "title": "IGRF-intro"
             }
           }
         ],
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/reading/1_小说/小王子.md",
+                "file": "docs/planetsci/planetfundamental/IGRF-intro.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "小王子 的大纲"
+              "title": "IGRF-intro 的大纲"
             }
           }
         ],
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,44 +207,44 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c6ce628a7f95da3b",
+  "active": "271323bd36bbfaab",
   "lastOpenFiles": [
+    "docs/planetsci/planetfundamental/planet_magneticfield.md",
+    "docs/planetsci/planetfundamental/images/image-20250411151158.png",
+    "docs/planetsci/planetfundamental/images/image-20250411151507.png",
+    "docs/planetsci/planetfundamental/images/image-20250411151922.png",
+    "docs/planetsci/planetfundamental/images/Pasted image 20250411151124.png",
+    "docs/planetsci/planetfundamental/images/image-20250411150749.png",
+    "docs/planetsci/planetfundamental/planet_geomagnetic.md",
+    "docs/planetsci/planetfundamental/Elasticity_and_Flexture_of_Lithosphere.md",
+    "docs/planetsci/planetfundamental/images/image-20250411144803.png",
+    "docs/planetsci/planetfundamental/images/image-20250411142211.png",
+    "docs/planetsci/planetfundamental/images/image-20250411141627.png",
+    "docs/planetsci/planetfundamental/planet_oribit.md",
+    "docs/planetsci/planetfundamental/planet_properties.md",
+    "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/planetsci/planetfundamental/images/image-20250411132511.png",
+    "docs/planetsci/planetfundamental/images/image-20250411132408.png",
+    "docs/planetsci/planetfundamental/IGRF-intro.md",
+    "docs/planetsci/planetmaterial/igneous_rock-1.md",
+    "docs/planetsci/planetmaterial/igneous_rock-0.md",
+    "docs/planetsci/planetmaterial/sedimentary_rock-1.md",
+    "docs/planetsci/planetmaterial/sedimentary_rock-0.md",
+    "docs/general/Japeco/Japeco-9.md",
+    "docs/_temp/Homework/Genetics.md",
+    "docs/_temp/Homework/images",
+    "docs/_temp/Homework/谢宸栋2300012553海洋动力学第一次作业.md",
     "docs/_temp/Homework/谢宸栋2300012553海洋动力学第二次作业.md",
+    "docs/general/Japeco/Japeco-6.md",
+    "docs/general/Japeco/Japeco-5.md",
+    "docs/general/Japeco/Japeco-4.md",
+    "docs/general/Japeco/Japeco-7.md",
+    "docs/general/Japeco/Japeco-8.md",
+    "docs/general/Japeco-0.md",
+    "docs/math/statistics/statistics-0.md",
     "docs/reading/1_小说/小王子.md",
     "docs/reading/1_小说/茶花女.md",
     "docs/astrobio/astrobio-course/astrobio-c6.md",
-    "docs/astrobio/astrobio-course/images/image-20250403111139.png",
-    "docs/astrobio/astrobio-course/astrobio-c7.md",
-    "docs/astrobio/astrobio-course/images/image-20250403103117.png",
-    "docs/astrobio/astrobio-course/images/image-20250403105116.png",
-    "docs/astrobio/astrobio-course/images/image-20250403105150.png",
-    "docs/math/statistics/statistics-0.md",
-    "docs/astrobio/astrobio-course/images/image-20250403102617.png",
-    "docs/astrobio/astrobio-course/images/image-20250403102912.png",
-    "docs/astrobio/astrobio-course/images/image-20250403102005.png",
-    "docs/astrobio/astrobio-course/images/image-20250403102144.png",
-    "docs/astrobio/astrobio-course/images/image-20250403101806.png",
-    "docs/astrobio/未命名.md",
-    "docs/astrobio/astrobio-course/astrobio-c5.md",
-    "docs/biosci/devebio/devebio-6.md",
-    "docs/biosci/devebio/devebio-5.md",
-    "docs/biosci/devebio/images/image-20250403094711.png",
-    "docs/math/statistics/statistics-2.md",
-    "docs/_temp/这是一个测试大纲的新笔记.md",
-    "docs/math/statistics/statistics-3.md",
-    "docs/astrobio/astrobio-course/astrobio-c2.md",
-    "docs/_temp/Statistics.md",
-    "docs/math/statistics/statistics-1.md",
-    "docs/astrobio/astrobio-course/astrobio-c3.md",
-    "docs/_temp/行星科学中机器学习.md",
-    "docs/apps/Applist.md",
-    "docs/apps/topic/topic01.md",
-    "docs/apps/topic/README.md",
-    "docs/apps/toolbox.md",
-    "docs/apps/encrypt03.md",
-    "docs/apps/Chrome.md",
-    "docs/_temp/Homework/Plt_dynamics.md",
-    "docs/_temp/Homework/谢宸栋2300012553海洋动力学第一次作业.md",
     "docs/general/Japeco/images",
     "docs/planetsci/planetintroduction",
     "pnpm-lock.yaml.428070782",
@@ -254,7 +254,6 @@
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/shake.mtn",
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/101.ogg",
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/014.ogg",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/013.ogg",
     "未命名.canvas"
   ]
 }

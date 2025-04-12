@@ -58,12 +58,12 @@
     },
     {
       "title": "国际地磁参考场 （IGRF）介绍",
-      "url": "https://newzone.top/planetsci/planetfundamental/IGRF-intro.html",
-      "id": "https://newzone.top/planetsci/planetfundamental/IGRF-intro.html",
+      "url": "https://newzone.top/planetsci/planetfundamental/planet_igrf_intro.html",
+      "id": "https://newzone.top/planetsci/planetfundamental/planet_igrf_intro.html",
       "summary": "1. 概述 国际地磁参考场（International Geomagnetic Reference Field, IGRF），是地球主磁场的标准数学描述，通过球谐函数展开描述地球内部磁场的时空变化。它广泛用于地球深部内部、地壳、电离层和磁层的研究，由国际地磁与高空物理协会（IAGA）下属工作组 V-MOD 维护。IGRF 每 5 年更新一次，提供从 1...",
       "content_html": "<h2>1. 概述</h2>\n<p>国际地磁参考场（International Geomagnetic Reference Field,&nbsp;<strong>IGRF</strong>），是地球主磁场的标准数学描述，通过球谐函数展开描述地球内部磁场的时空变化。它广泛用于地球深部内部、地壳、电离层和磁层的研究，由<a href=\"https://www.iaga-aiga.org/\" title=\"(opens in a new window)\" target=\"_blank\" rel=\"noopener noreferrer\">国际地磁与高空物理协会（IAGA）</a>下属工作组 V-MOD 维护。IGRF 每 5 年更新一次，提供从 1900 年至今的地磁场模型，包括确定模型（DGRF）和预测模型（IGRF），广泛应用于地球物理研究、卫星导航、空间天气监测等领域。</p>\n<h2>2. 数学公式与模型构建</h2>\n<p>IGRF 的核心是通过<strong>球谐函数展开</strong>描述地磁场的标量势&nbsp;(V(r, \\theta, \\phi, t))，进而推导磁场矢量&nbsp;(\\mathbf{B} = -\\nabla V)。以下是关键数学公式的详细说明：</p>\n<h3>2.1 磁势的球谐展开（e.1）</h3>\n<p><strong>变量与参数</strong>：</p>\n<ul>\n<li>：地心球坐标系（&nbsp;为半径，&nbsp;为余纬度，&nbsp;为经度）；</li>\n<li>：地球平均半径；</li>\n<li>N：球谐函数最大阶数（1995 年前&nbsp;(N=10)，此后&nbsp;(N=13)，以捕捉卫星数据中的小尺度信号）；</li>\n<li>：高斯系数（n 为阶数，m 为次数），单位为纳特（nT），描述地磁场的空间分布；</li>\n<li>：施密特半归一化连带勒让德函数，表征纬度方向的变化。</li>\n</ul>\n<p><strong>物理意义</strong>： 磁势&nbsp;V&nbsp;由地球内部源（如地核电流）产生，展开式中每一项对应不同阶次的多极子场（&nbsp;为偶极子，&nbsp;为四极子等）。由于地磁场主要由内部源主导，公式中仅包含&nbsp;&nbsp;项（外部源贡献可忽略）。</p>\n<h3>2.2 高斯系数的时间演化（e.2-5）</h3>\n<p>高斯系数随时间的变化采用分段线性模型：</p>\n<p><strong>变量与参数</strong>：</p>\n<ul>\n<li>：模型历元（如 2015.0, 2020.0），满足&nbsp;；</li>\n<li>：高斯系数的时间变化率（nT/year），通过相邻历元的系数差计算：</li>\n</ul>\n<p><strong>应用场景</strong>： 对于 2020.0-2025.0 的预测模型，&nbsp;和&nbsp;&nbsp;直接由最新观测数据拟合得到，无需依赖未来数据。</p>\n<h3>2.3 地磁场矢量计算</h3>\n<p>通过磁势的梯度计算地磁场三分量（径向&nbsp;、经向&nbsp;、纬向&nbsp;）：</p>\n<p>实际应用中，常转换为地理坐标系下的分量：磁偏角&nbsp;D、磁倾角&nbsp;I&nbsp;和总强度&nbsp;F，具体转换关系见地磁场矢量分解理论。</p>\n<h2>3. 模型构成与数据来源</h2>\n<p><strong>历元与模型类型</strong>：</p>\n<ul>\n<li><strong>确定模型（DGRF）</strong>：基于最佳可用数据构建，如 2015.0 DGRF，后续修订不会改变；</li>\n<li><strong>预测模型（IGRF）</strong>：如 2020.0 IGRF，可能随新数据更新，包含 2020.0-2025.0 的线性长期变化预测。\n<strong>数据来源</strong>：</li>\n<li>卫星数据（Swarm、CHAMP、Ørsted 等）；</li>\n<li>地面观测站网络（INTERMAGNET）；</li>\n<li>海洋和航空磁测数据。\n<strong>国际合作</strong>： IGRF-13 由 15 个国际团队（30 + 机构）共同参与，通过中位数法和稳健加权法整合候选模型，确保精度和可靠性。</li>\n</ul>\n<h2>4. IGRF的应用</h2>\n<ul>\n<li><strong>地球物理研究</strong>：反演地核流体运动（发电机理论）、岩石圈磁异常；</li>\n<li><strong>工程与导航</strong>：卫星姿态控制、磁罗盘校正（补偿磁偏角&nbsp;D）；</li>\n<li><strong>空间天气</strong>：监测磁暴、范艾伦辐射带变化（如南大西洋异常区）；</li>\n<li><strong>古地磁学</strong>：结合历史模型分析地磁场长期演化（如偶极矩衰减趋势）。</li>\n</ul>\n<h4><strong>结语</strong></h4>\n<p>IGRF 通过严谨的数学框架（球谐展开与线性时间模型）整合多源数据，为地磁场提供了高精度的时空描述，是连接基础研究与工程应用的核心工具。其数学公式的设计兼顾了物理机制（如地核发电机）和实际需求（如导航校正），成为国际地磁场建模的黄金标准。</p>\n",
       "date_published": "2025-04-11T07:27:03.000Z",
-      "date_modified": "2025-04-11T07:27:03.000Z",
+      "date_modified": "2025-04-12T02:51:43.000Z",
       "authors": [],
       "tags": []
     }

@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>测试一下这个描述在哪里</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 11 Apr 2025 07:29:16 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Apr 2025 07:29:16 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Apr 2025 02:53:38 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Apr 2025 02:53:38 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -310,8 +310,8 @@
     </item>
     <item>
       <title>国际地磁参考场 （IGRF）介绍</title>
-      <link>https://newzone.top/planetsci/planetfundamental/IGRF-intro.html</link>
-      <guid>https://newzone.top/planetsci/planetfundamental/IGRF-intro.html</guid>
+      <link>https://newzone.top/planetsci/planetfundamental/planet_igrf_intro.html</link>
+      <guid>https://newzone.top/planetsci/planetfundamental/planet_igrf_intro.html</guid>
       <source url="https://newzone.top/rss.xml">国际地磁参考场 （IGRF）介绍</source>
       <description>1. 概述 国际地磁参考场（International Geomagnetic Reference Field, IGRF），是地球主磁场的标准数学描述，通过球谐函数展开描述地球内部磁场的时空变化。它广泛用于地球深部内部、地壳、电离层和磁层的研究，由国际地磁与高空物理协会（IAGA）下属工作组 V-MOD 维护。IGRF 每 5 年更新一次，提供从 1...</description>
       <pubDate>Fri, 11 Apr 2025 07:27:03 GMT</pubDate>

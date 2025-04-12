@@ -4,7 +4,7 @@
   <title>Astrobiology 天体生物学</title>
   <subtitle>测试一下这个描述在哪里</subtitle>
   <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2025-04-12T02:53:38.323Z</updated>
+  <updated>2025-04-12T03:23:29.963Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
@@ -320,7 +320,7 @@
     <title type="text">国际地磁参考场 （IGRF）介绍</title>
     <id>https://newzone.top/planetsci/planetfundamental/planet_igrf_intro.html</id>
     <link href="https://newzone.top/planetsci/planetfundamental/planet_igrf_intro.html"/>
-    <updated>2025-04-12T02:51:43.000Z</updated>
+    <updated>2025-04-12T03:21:22.000Z</updated>
     <summary type="html"><![CDATA[<h2>1. 概述</h2>
 <p>国际地磁参考场（International Geomagnetic Reference Field,&nbsp;<strong>IGRF</strong>），是地球主磁场的标准数学描述，通过球谐函数展开描述地球内部磁场的时空变化。它广泛用于地球深部内部、地壳、电离层和磁层的研究，由<a href="https://www.iaga-aiga.org/" title="(opens in a new window)" target="_blank" rel="noopener noreferrer">国际地磁与高空物理协会（IAGA）</a>下属工作组 V-MOD 维护。IGRF 每 5 年更新一次，提供从 1900 年至今的地磁场模型，包括确定模型（DGRF）和预测模型（IGRF），广泛应用于地球物理研究、卫星导航、空间天气监测等领域。</p>]]></summary>
     <content type="html"><![CDATA[<h2>1. 概述</h2>

@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/statistics/statistics-0.md",
+                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "statistics-0"
-            }
-          },
-          {
-            "id": "8be82af286f1ea38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/planetsci/planetfundamental/planet_geomagnetic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "planet_geomagnetic"
-            }
-          },
-          {
-            "id": "271323bd36bbfaab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/planetsci/planetfundamental/IGRF-intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IGRF-intro"
+              "title": "elasticity_and_flexture_of_lithosphere"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/planetsci/planetfundamental/IGRF-intro.md",
+                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IGRF-intro 的大纲"
+              "title": "elasticity_and_flexture_of_lithosphere 的大纲"
             }
           }
         ],
@@ -207,25 +178,28 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "271323bd36bbfaab",
+  "active": "b3ee654776f38584",
   "lastOpenFiles": [
+    "docs/planetsci/planetfundamental/planet_igrf_intro.md",
+    "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
+    "docs/math/statistics/statistics-0.md",
+    "docs/planetsci/planetfundamental/planet_geomagnetic.md",
+    "docs/planetsci/planetfundamental/IGRF_intro.md",
     "docs/planetsci/planetfundamental/planet_magneticfield.md",
+    "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/planetsci/planetfundamental/planet_oribit.md",
+    "docs/planetsci/planetfundamental/planet_properties.md",
+    "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
     "docs/planetsci/planetfundamental/images/image-20250411151158.png",
     "docs/planetsci/planetfundamental/images/image-20250411151507.png",
     "docs/planetsci/planetfundamental/images/image-20250411151922.png",
     "docs/planetsci/planetfundamental/images/Pasted image 20250411151124.png",
     "docs/planetsci/planetfundamental/images/image-20250411150749.png",
-    "docs/planetsci/planetfundamental/planet_geomagnetic.md",
-    "docs/planetsci/planetfundamental/Elasticity_and_Flexture_of_Lithosphere.md",
     "docs/planetsci/planetfundamental/images/image-20250411144803.png",
     "docs/planetsci/planetfundamental/images/image-20250411142211.png",
     "docs/planetsci/planetfundamental/images/image-20250411141627.png",
-    "docs/planetsci/planetfundamental/planet_oribit.md",
-    "docs/planetsci/planetfundamental/planet_properties.md",
-    "docs/planetsci/planetfundamental/planet_dynamics.md",
     "docs/planetsci/planetfundamental/images/image-20250411132511.png",
     "docs/planetsci/planetfundamental/images/image-20250411132408.png",
-    "docs/planetsci/planetfundamental/IGRF-intro.md",
     "docs/planetsci/planetmaterial/igneous_rock-1.md",
     "docs/planetsci/planetmaterial/igneous_rock-0.md",
     "docs/planetsci/planetmaterial/sedimentary_rock-1.md",
@@ -241,10 +215,8 @@
     "docs/general/Japeco/Japeco-7.md",
     "docs/general/Japeco/Japeco-8.md",
     "docs/general/Japeco-0.md",
-    "docs/math/statistics/statistics-0.md",
     "docs/reading/1_小说/小王子.md",
     "docs/reading/1_小说/茶花女.md",
-    "docs/astrobio/astrobio-course/astrobio-c6.md",
     "docs/general/Japeco/images",
     "docs/planetsci/planetintroduction",
     "pnpm-lock.yaml.428070782",

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2cbe7b8a37362395",
+        "id": "0690159daa7d15b1",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ee654776f38584",
+            "id": "466519b7da57aeb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
+                "file": "docs/planetsci/planetfundamental/planet_igrf_intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "elasticity_and_flexture_of_lithosphere"
+              "title": "planet_igrf_intro"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
+                "file": "docs/planetsci/planetfundamental/planet_igrf_intro.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "elasticity_and_flexture_of_lithosphere 的大纲"
+              "title": "planet_igrf_intro 的大纲"
             }
           }
         ],
@@ -178,18 +178,34 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b3ee654776f38584",
+  "active": "466519b7da57aeb6",
   "lastOpenFiles": [
-    "docs/planetsci/planetfundamental/planet_igrf_intro.md",
-    "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
-    "docs/math/statistics/statistics-0.md",
-    "docs/planetsci/planetfundamental/planet_geomagnetic.md",
-    "docs/planetsci/planetfundamental/IGRF_intro.md",
     "docs/planetsci/planetfundamental/planet_magneticfield.md",
-    "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/planetsci/planetfundamental/planet_igrf_intro.md",
+    "docs/planetsci/planetfundamental/planet_geomagnetic.md",
     "docs/planetsci/planetfundamental/planet_oribit.md",
     "docs/planetsci/planetfundamental/planet_properties.md",
+    "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
     "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
+    "docs/astrobio/astrobio-course/astrobio-c7.md",
+    "docs/astrobio/astrobio-course/astrobio-c6.md",
+    "docs/astrobio/astrobio-course/astrobio-c5.md",
+    "docs/astrobio/astrobio-course/astrobio-c4.md",
+    "docs/astrobio/astrobio-course/astrobio-c3.md",
+    "docs/astrobio/astrobio-course/astrobio-c2.md",
+    "docs/astrobio/astrobio-course/astrobio-c1.md",
+    "docs/astrobio/astrobio-c0.md",
+    "docs/_temp/这是一个测试大纲的新笔记.md",
+    "docs/_temp/导航网站.md",
+    "docs/_temp/克罗内克δ函数.md",
+    "docs/_temp/行星科学中机器学习.md",
+    "docs/_temp/planet_heat-transport.md",
+    "docs/_temp/Spherical Harmonics.md",
+    "docs/_temp/Statistics.md",
+    "docs/_temp/Homework/Plt_dynamics.md",
+    "docs/math/spherical-triangle.md",
+    "docs/math/math_intro.md",
     "docs/planetsci/planetfundamental/images/image-20250411151158.png",
     "docs/planetsci/planetfundamental/images/image-20250411151507.png",
     "docs/planetsci/planetfundamental/images/image-20250411151922.png",
@@ -200,23 +216,7 @@
     "docs/planetsci/planetfundamental/images/image-20250411141627.png",
     "docs/planetsci/planetfundamental/images/image-20250411132511.png",
     "docs/planetsci/planetfundamental/images/image-20250411132408.png",
-    "docs/planetsci/planetmaterial/igneous_rock-1.md",
-    "docs/planetsci/planetmaterial/igneous_rock-0.md",
-    "docs/planetsci/planetmaterial/sedimentary_rock-1.md",
-    "docs/planetsci/planetmaterial/sedimentary_rock-0.md",
-    "docs/general/Japeco/Japeco-9.md",
-    "docs/_temp/Homework/Genetics.md",
     "docs/_temp/Homework/images",
-    "docs/_temp/Homework/谢宸栋2300012553海洋动力学第一次作业.md",
-    "docs/_temp/Homework/谢宸栋2300012553海洋动力学第二次作业.md",
-    "docs/general/Japeco/Japeco-6.md",
-    "docs/general/Japeco/Japeco-5.md",
-    "docs/general/Japeco/Japeco-4.md",
-    "docs/general/Japeco/Japeco-7.md",
-    "docs/general/Japeco/Japeco-8.md",
-    "docs/general/Japeco-0.md",
-    "docs/reading/1_小说/小王子.md",
-    "docs/reading/1_小说/茶花女.md",
     "docs/general/Japeco/images",
     "docs/planetsci/planetintroduction",
     "pnpm-lock.yaml.428070782",

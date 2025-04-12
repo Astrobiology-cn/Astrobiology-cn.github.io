@@ -2,7 +2,7 @@
 article: false
 title: 生命起源的化学演化学说
 icon: 
-order:
+order: 0.6
 ---
 
 On average, it is estimated that there is at least one planet for every star in the galaxy. That means there's something on the order of billions of planets in our galaxy alone, many in Earth's size range. These planets outside of our solar system are known as Exoplanets.

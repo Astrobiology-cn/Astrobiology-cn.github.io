@@ -2,7 +2,7 @@
 article: false
 title: 行星地磁学
 icon: 
-order:
+order: 2.2
 ---
 # 物理磁学、岩石磁学与磁性矿物学(Physics of magnetism, rock magnetism and magnetic mineralogy)
 ## 一、物理磁学基础

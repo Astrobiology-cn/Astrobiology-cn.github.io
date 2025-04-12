@@ -2,7 +2,7 @@
 article: true
 title: 国际地磁参考场 （IGRF）介绍
 icon: 
-order:
+order: 2.11
 ---
 ## 1. 概述
 

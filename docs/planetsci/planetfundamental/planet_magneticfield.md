@@ -2,7 +2,7 @@
 article: false
 title: 行星地磁场
 icon: 
-order:
+order: 2.1
 ---
 ## 地磁的现代认知
 
@@ -63,16 +63,20 @@ $D = \arctan\left(\frac{Y}{X}\right), \quad I = \arctan\left(\frac{Z}{\sqrt{X^2 
 1. 关于 r 的方程：$\frac{d}{dr}\left(r^2 \frac{dR(r)}{dr}\right) = BR(r)$
 2. 关于 $\varphi$ 的方程：$\frac{1}{F(\varphi)} \frac{d^2 F(\varphi)}{d\varphi^2} = -m^2$  ;  解为 $F(\varphi) = e^{im\varphi}$（m 为整数）。
 3. 关于 $\theta$ 的方程：$\frac{1}{\sin \theta} \frac{d}{d\theta}\left(\sin \theta \frac{dP(\theta)}{d\theta}\right) - \frac{m^2}{\sin^2 \theta} P(\theta) - BP(\theta) = 0$
+
 最终得到势函数的形式：$V(r, \theta, \varphi) = c_{mn} P_n^m(\cos \theta) e^{im\varphi} R_n(r)$
 其中 $P_n^m(\cos \theta)$ 为连带勒让德函数，$c_{mn}$ 为常数
 
 **高斯表明，拉普拉斯方程的解与地球表面磁场可由势函数推导**：
+
 $U_G = \sum_{n=0}^{\infty} \left( A_n r^n + \frac{B_n}{r^{n+1}} \right) \sum_{m=0}^{n} Y_n^m(\theta, \varphi)$ 
+
 其中球谐函数 $Y_n^m(\theta, \varphi) = c_{mn} P_n^m(\cos \theta) e^{im\varphi}$
 
 **球谐函数性质**：
 - 当 $\theta$ 和 $\varphi$ 增加 $2\pi$ 的整数倍时，函数值不变，故称为球谐函数。
 - 描述球面上势的变化，广泛用于地球物理（如重力势、地磁场势、大地水准面高度、全球热流等）。
+
 **地磁场分离**：
 - 势函数中，$A_n r^n$ 表示外部场贡献，$\frac{B_n}{r^{n+1}}$ 表示内部场贡献。
 - 地磁场分量是磁势的方向导数，且 $A_n \ll B_n$（内部场占主导）
@@ -150,7 +154,7 @@ $$
   $$H_v = \frac{2M \sin\lambda}{r_e^3}$$
 - 总水平分量
   $$H = \frac{M}{r_e^3} \sqrt{1 + 3\sin^2\lambda}$$
-![500](images/image-20250411131808.png)
+![400](images/image-20250411131808.png)
 >地磁偶极子场的分布
 >(1)轴向对称，与经度无关；(2)极地磁场强度是赤道的两倍；(3)磁倾角随纬度变化，赤道 I=0∘，极地 I=90∘（垂直）。
 
@@ -171,7 +175,7 @@ $$
 
 ### 3. Geodynamo of Earth and extraterrestrial bodies（地球与地外天体的地球发电机）
 
- ![](images/image-20250411150749.png)
+ ![500](images/image-20250411150749.png)
 
 **驱动机制**：
 - **热驱动（图 a）**：流体运动由热对流驱动。
@@ -197,14 +201,14 @@ $$
 
 ### 6. The magnetic field of external origin（外源磁场）
 
-![500](images/image-20250411151507.png)
+![400](images/image-20250411151507.png)
 >范艾伦辐射带（Van Allen radiation belt）是一个高能带电粒子的区域，其中大部分粒子来自太阳风，被行星的磁层捕获并环绕在该行星周围。地球有两层这样的环带，有时可能建立临时环带。
 
 - **太阳风**：太阳风是带电粒子流（电子、质子、氦核），属于等离子体（由几乎等量的正负离子组成的低粒子密度电离气体）。
 - **相互作用**：太阳风与地球上层大气碰撞，形成激波（类似超音速飞机前的激波）。太阳风产生行星际磁场，白天加强并压缩地磁场，夜晚减弱并拉伸地磁场，塑造了地球磁层的形态（如磁鞘、磁层顶等结构）。
 
 ### 7. Daily variation and magnetic storms（日变化与磁暴）
-![500](images/image-20250411151922.png)
+![400](images/image-20250411151922.png)
 
 - **外源磁场来源**：电离层中电离分子释放大量电子，形成强大的水平环形电流。白天地球向阳面电离强烈。
 - **太阳活动影响**：太阳活动通过加热和引力作用，引起电离层大气潮汐。

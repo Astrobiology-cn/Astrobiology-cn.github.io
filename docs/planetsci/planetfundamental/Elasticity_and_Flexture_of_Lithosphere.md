@@ -2,7 +2,7 @@
 article: false
 title: 板块的应变与弯曲
 icon: 
-order:
+order: 2.3
 ---
 ## 3.9 板材的二维弯曲或挠曲
 

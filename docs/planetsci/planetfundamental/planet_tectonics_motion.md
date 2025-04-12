@@ -2,7 +2,7 @@
 article: false
 title: 行星板块运动学
 icon: 
-order:
+order: 2
 ---
 ## 一. 平坦地球上的板块运动
 

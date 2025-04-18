@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "0690159daa7d15b1",
+        "id": "c269926aaba63f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "466519b7da57aeb6",
+            "id": "11b2e853c746db62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/planet_igrf_intro.md",
+                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "planet_igrf_intro"
+              "title": "elasticity_and_flexture_of_lithosphere"
+            }
+          },
+          {
+            "id": "152fa5c4c483f64d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/planetsci/planetfundamental/images/image-20250418131635.png"
+              },
+              "icon": "lucide-image",
+              "title": "image-20250418131635"
             }
           }
         ]
@@ -152,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/planetsci/planetfundamental/planet_igrf_intro.md",
+                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "planet_igrf_intro 的大纲"
+              "title": "elasticity_and_flexture_of_lithosphere 的大纲"
             }
           }
         ],
@@ -178,54 +190,53 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "466519b7da57aeb6",
+  "active": "11b2e853c746db62",
   "lastOpenFiles": [
-    "docs/planetsci/planetfundamental/planet_magneticfield.md",
-    "docs/planetsci/planetfundamental/planet_igrf_intro.md",
-    "docs/planetsci/planetfundamental/planet_geomagnetic.md",
-    "docs/planetsci/planetfundamental/planet_oribit.md",
-    "docs/planetsci/planetfundamental/planet_properties.md",
-    "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/planetsci/planetfundamental/images/image-20250418131635.png",
+    "docs/planetsci/planetfundamental/images/image-20250418122805.png",
     "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
-    "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
-    "docs/astrobio/astrobio-course/astrobio-c7.md",
-    "docs/astrobio/astrobio-course/astrobio-c6.md",
-    "docs/astrobio/astrobio-course/astrobio-c5.md",
-    "docs/astrobio/astrobio-course/astrobio-c4.md",
-    "docs/astrobio/astrobio-course/astrobio-c3.md",
-    "docs/astrobio/astrobio-course/astrobio-c2.md",
-    "docs/astrobio/astrobio-course/astrobio-c1.md",
-    "docs/astrobio/astrobio-c0.md",
-    "docs/_temp/这是一个测试大纲的新笔记.md",
-    "docs/_temp/导航网站.md",
-    "docs/_temp/克罗内克δ函数.md",
-    "docs/_temp/行星科学中机器学习.md",
-    "docs/_temp/planet_heat-transport.md",
-    "docs/_temp/Spherical Harmonics.md",
-    "docs/_temp/Statistics.md",
-    "docs/_temp/Homework/Plt_dynamics.md",
-    "docs/math/spherical-triangle.md",
-    "docs/math/math_intro.md",
-    "docs/planetsci/planetfundamental/images/image-20250411151158.png",
-    "docs/planetsci/planetfundamental/images/image-20250411151507.png",
-    "docs/planetsci/planetfundamental/images/image-20250411151922.png",
-    "docs/planetsci/planetfundamental/images/Pasted image 20250411151124.png",
-    "docs/planetsci/planetfundamental/images/image-20250411150749.png",
-    "docs/planetsci/planetfundamental/images/image-20250411144803.png",
-    "docs/planetsci/planetfundamental/images/image-20250411142211.png",
-    "docs/planetsci/planetfundamental/images/image-20250411141627.png",
-    "docs/planetsci/planetfundamental/images/image-20250411132511.png",
-    "docs/planetsci/planetfundamental/images/image-20250411132408.png",
+    "docs/planetsci/planetfundamental/images/image-20250418130425.png",
+    "docs/planetsci/planetmaterial/sedimentary_rock-2.md",
+    "docs/biosci/cellbio/cellbio-1.md",
+    "docs/biosci/cellbio/images/image-20250418105439.png",
+    "docs/biosci/cellbio/images/ffcc5b5d5b3a707e4450eed01080b7450fa4dde2f8b80fd6f41ad77f939316f4.jpg",
+    "docs/biosci/cellbio/images/ffa915ca43b44e93aa807d45519f335c536a183488a3a5a1c03fe51e6fb58909.jpg",
+    "docs/biosci/cellbio/images/ff2e77a451b1d8e620bfc0071774ce57b3e91fd48ce03a9ae3fb8b59fd2d3bfe.jpg",
+    "docs/biosci/cellbio/images/ff1b7825db6ffc66e92adf79e07c17be29296a92adbe35d9a2a042e6d52b44fd.jpg",
+    "docs/biosci/cellbio/images/ff142f158c73749e026593e76062acfc761e05b388dbedc12b4257227e68235a.jpg",
+    "docs/biosci/cellbio/images/ff0ee50fcfb27a42117b0829fedd9146afdd021cd16b3ad89d184a563b217b26.jpg",
+    "docs/biosci/cellbio/images",
+    "docs/biosci/images",
+    "docs/biosci/cellbio/membrane_transport.md",
+    "docs/biosci/cellbio/microscopes.md",
+    "docs/biosci/cellbio/electrophoresis.md",
+    "docs/biosci/cellbio/cellbio-0.md",
+    "docs/biosci/cellbio/EVPs.md",
+    "docs/biosci/cellbio/cellbio-2-1.md",
+    "docs/biosci/cellbio/cellbio-2-2.md",
+    "docs/planetsci/planetmaterial/sedimentary_rock-3.md",
+    "docs/biosci/devebio/devebio-8.md",
+    "docs/biosci/devebio/devebio-7.md",
+    "docs/biosci/devebio/devebio-6.md",
+    "docs/biosci/devebio/devebio-5.md",
+    "docs/biosci/devebio/devebio-4.md",
+    "docs/_temp/Tidal-Locked Exoplanets.md",
+    "docs/_temp/光；.md",
+    "docs/math/general-physics/general_physics-0.md",
+    "docs/math/gdc.md",
+    "docs/planetsci/planetmaterial/sedimentary_rock-1.md",
+    "docs/planetsci/planetmaterial/igneous_rock-1.md",
+    "docs/planetsci/planetmaterial/sedimentary_rock-0.md",
+    "docs/planetsci/planetmaterial/igneous_rock-0.md",
+    "docs/planetsci/planetfundamental/planet_crater.md",
+    "docs/astrobio/Habitable",
+    "docs/astrobio/astrobio-course/未命名",
     "docs/_temp/Homework/images",
     "docs/general/Japeco/images",
     "docs/planetsci/planetintroduction",
     "pnpm-lock.yaml.428070782",
     "_tmp_13880_ccdcc1eb0072bd20913140bc4bc7d356",
     "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/nep_touch_head_1.mtn",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/nep_touch_belly_2.mtn",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/shake.mtn",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/101.ogg",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/snd/014.ogg",
     "未命名.canvas"
   ]
 }

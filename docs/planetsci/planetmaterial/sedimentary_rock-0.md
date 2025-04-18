@@ -1,6 +1,6 @@
 ---
 article: false
-title: 课程笔记
+title: 沉积岩板块
 icon: 
 order: 4
 ---

@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>测试一下这个描述在哪里</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 12 Apr 2025 03:23:29 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Apr 2025 03:23:29 GMT</lastBuildDate>
+    <pubDate>Fri, 18 Apr 2025 08:34:36 GMT</pubDate>
+    <lastBuildDate>Fri, 18 Apr 2025 08:34:36 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -306,6 +306,28 @@
 <p>鉴于是否存在一个明确的阈值存在不确定性，考虑逐步区分明确无生命的实体和不可否认的有生命的实体成为一种明智的做法。在这种渐进主义的观点中，生命被视为存在于一个光谱上，或表现出与特定功能能力的拥有和不同效率相关的“生命”程度。这个概念框架允许根据边界实体独特的“生命特征”来表征边界实体，承认非生命物质和生命物质之间存在中间体。</p>
 <p>当然，可以对这种渐进主义概念提出反对意见，理由是它的确定性不足，这为可能存在更精细粒度的阈值过渡留下了空间。然而，有两种反应是可能的：（1）认识粒度的新变化可以识别新的中间实体并恢复渐进的概念;（2）认识论视角的改变（例如，增加时间维度）可以识别阈值过渡背后的渐进过渡。</p>
 <p>虽然可能会提出批评，但这些回应并没有为激进的相对主义打开大门。事实上，科学的进步带来了限制，并且已经允许我们抛弃生命二元假设（Bi）的某些公式。特别是，如果一个主要阈值的存在或不存在仍然是开放的，那么它只能比生命和非生命的直觉概念更精细。这凸显了寻求更精确地描述这些生命程度的重要性。在启发式和自然描述性话语的精确性方面，似乎比确认存在一个不可简化的门槛要多得多。渐进主义概念所精确地提出的无生命与生命区别的更精细的概念，对于某些科学领域非常有益，例如系统化学或合成生物学的某些研究项目，这些项目特别需要更精细的粒度来表征他们所研究的对象。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>细胞外囊泡与颗粒</title>
+      <link>https://newzone.top/biosci/cellbio/EVPs.html</link>
+      <guid>https://newzone.top/biosci/cellbio/EVPs.html</guid>
+      <source url="https://newzone.top/rss.xml">细胞外囊泡与颗粒</source>
+      <description>细胞外囊泡类型与生物发生 根据起源和生物发生机制，不同类型的 EVs 已被分类（图 2）。 已知至少存在三种主要的生物发生模式： 凋亡 EVs（称为凋亡小体和凋亡囊泡）由凋亡细胞的碎片化产生； 胞外体（ectosomes）通过质膜直接向外出芽形成； 外泌体（exosomes）则通过内体区室的向内出芽形成，并最终与质膜融合释放。 鉴于 EV 类型的多样性...</description>
+      <pubDate>Fri, 18 Apr 2025 05:19:37 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>细胞外囊泡类型与生物发生</h2>
+<p>根据起源和生物发生机制，不同类型的 EVs 已被分类（图 2）。</p>
+<p>已知至少存在三种主要的生物发生模式：</p>
+<ul>
+<li>凋亡 EVs（称为凋亡小体和凋亡囊泡）由凋亡细胞的碎片化产生；</li>
+<li>胞外体（ectosomes）通过质膜直接向外出芽形成；</li>
+<li>外泌体（exosomes）则通过内体区室的向内出芽形成，并最终与质膜融合释放。</li>
+</ul>
+<p>鉴于 EV 类型的多样性以及许多情况下其生物发生机制的不确定性，国际细胞外囊泡协会（MISEV）采取了一种实用的分类方法，将 EVs 分为 “大 EVs”（&gt;200 nm）和 “小 EVs”（&lt;200 nm）然而，提醒研究界关注不同类型的 EVs 和非囊泡细胞外纳米颗粒（NVEPs）以及这些细胞外颗粒的最新研究进展，不仅有用且十分及时。</p>
+<figure><figcaption></figcaption></figure>
+<h3>外泌体</h3>
+<p>外泌体的形成始于内体，晚期内体的限制膜向内出芽，在<strong>多泡内体（multivesicular endosome, MVE）</strong> 内生成<strong>腔内囊泡（intraluminal vesicles, ILVs）</strong>。这种向内出芽的过程导致内吞的跨膜蛋白重新定向 —— 其胞外结构域朝外（具备信号传导能力），而胞内尾部则朝向 ILV 内部及其包裹的货物。当 MVE 与质膜融合时，ILVs 作为 30-150 nm 的外泌体释放到细胞外空间 。<strong>内体分选转运复合体（endosomal sorting complex required for transport, ESCRT）</strong> 机制在 MVE 中将蛋白质分选到 ILVs 的过程中至关重要，因此是外泌体形成的关键。然而，ESCRT 及其辅助蛋白（如 TSG101、ALIX 和 VPS4）也参与质膜的向外出芽过程，包括<strong>囊泡释放</strong>和<strong>病毒释放</strong> 。</p>
+<p>另一种参与外泌体形成和蛋白质装载的蛋白 Syntenin-1 ，在小 EV 样本中高度富集，但在大 EV 样本中也可能存在。同样，尽管 CD63、CD81 和 CD9 等四跨膜蛋白（tetraspanin, TSPAN）在外泌体中显著富集 ，并长期被用作外泌体的标记蛋白，但越来越多的研究表明，含 TSPAN 的小 EV 可能直接从质膜出芽，根据其生物发生机制应归类为胞外体 / 微泡（ectosomes/microvesicles）。</p>
 ]]></content:encoded>
     </item>
     <item>

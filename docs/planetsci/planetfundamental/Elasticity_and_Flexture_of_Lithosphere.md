@@ -198,7 +198,7 @@ $$w = e^{-x/\alpha}(c_3 \cos\frac{x}{\alpha} + c_4 \sin\frac{x}{\alpha})$$
 代入常数后，挠度为（3.151）：
 $$w = \frac{\alpha^2 e^{-x/\alpha}}{2D} \left[ (V_0 \alpha + M_0) \cos\frac{x}{\alpha} - M_0 \sin\frac{x}{\alpha} \right]$$
 
-![[images/image-20250418133904.png]]
+![600](images/image-20250418133904.png)
 
 ##### 5.3.2 方程分析
 

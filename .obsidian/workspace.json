@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "elasticity_and_flexture_of_lithosphere"
             }
-          },
-          {
-            "id": "cd8adba024c250f2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/planetsci/planetfundamental/images/image-20250418160908.png"
-              },
-              "icon": "lucide-image",
-              "title": "image-20250418160908"
-            }
           }
         ]
       }
@@ -192,8 +180,16 @@
   },
   "active": "11b2e853c746db62",
   "lastOpenFiles": [
-    "docs/planetsci/planetfundamental/images/image-20250418160908.png",
+    "docs/planetsci/planetfundamental/planet_crater.md",
     "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
+    "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/planetsci/planetfundamental/images/image-20250418160908.png",
+    "docs/planetsci/planetfundamental/planet_geomagnetic.md",
+    "docs/planetsci/planetfundamental/planet_igrf_intro.md",
+    "docs/planetsci/planetfundamental/planet_oribit.md",
+    "docs/planetsci/planetfundamental/planet_properties.md",
+    "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
+    "docs/planetsci/planetfundamental/planet_magneticfield.md",
     "docs/biosci/cellbio/cellbio-1.md",
     "docs/planetsci/planetfundamental/images/b6f8880db09cf38acfd7de9e7a9d0fc.png",
     "docs/planetsci/planetfundamental/images/image-20250418133904.png",
@@ -221,14 +217,6 @@
     "docs/biosci/devebio/devebio-5.md",
     "docs/biosci/devebio/devebio-4.md",
     "docs/_temp/Tidal-Locked Exoplanets.md",
-    "docs/_temp/光；.md",
-    "docs/math/general-physics/general_physics-0.md",
-    "docs/math/gdc.md",
-    "docs/planetsci/planetmaterial/sedimentary_rock-1.md",
-    "docs/planetsci/planetmaterial/igneous_rock-1.md",
-    "docs/planetsci/planetmaterial/sedimentary_rock-0.md",
-    "docs/planetsci/planetmaterial/igneous_rock-0.md",
-    "docs/planetsci/planetfundamental/planet_crater.md",
     "docs/astrobio/Habitable",
     "docs/astrobio/astrobio-course/未命名",
     "docs/_temp/Homework/images",

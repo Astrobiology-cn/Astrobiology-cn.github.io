@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "elasticity_and_flexture_of_lithosphere"
@@ -180,8 +180,10 @@
   },
   "active": "11b2e853c746db62",
   "lastOpenFiles": [
-    "docs/planetsci/planetfundamental/planet_crater.md",
+    "docs/planetsci/planetfundamental/images/image-20250418133904.png",
     "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
+    "docs/biosci/cellbio/cellbio-1.md",
+    "docs/planetsci/planetfundamental/planet_crater.md",
     "docs/planetsci/planetfundamental/planet_dynamics.md",
     "docs/planetsci/planetfundamental/images/image-20250418160908.png",
     "docs/planetsci/planetfundamental/planet_geomagnetic.md",
@@ -190,9 +192,7 @@
     "docs/planetsci/planetfundamental/planet_properties.md",
     "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
     "docs/planetsci/planetfundamental/planet_magneticfield.md",
-    "docs/biosci/cellbio/cellbio-1.md",
     "docs/planetsci/planetfundamental/images/b6f8880db09cf38acfd7de9e7a9d0fc.png",
-    "docs/planetsci/planetfundamental/images/image-20250418133904.png",
     "docs/planetsci/planetfundamental/images/image-20250411141627.png",
     "docs/planetsci/planetfundamental/images/image-20250418131635.png",
     "docs/planetsci/planetfundamental/images/image-20250418122805.png",

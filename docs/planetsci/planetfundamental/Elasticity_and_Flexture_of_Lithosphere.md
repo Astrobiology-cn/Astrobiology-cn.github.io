@@ -26,6 +26,7 @@ $$
 & \text{最大弯曲应力(bendiing stress)} \quad \sigma_{\text{max}} = \frac{E h}{2(1-\nu^2) R} = \frac{6M}{h^2}
 \end{align}
 $$
+
 ### 1. 物理模型与假设
 
 **薄板模型**：$厚度 h \ll 长度 L$，仅在 x-y 平面弯曲（圆柱弯曲，沿 z 方向无限长）。
@@ -38,6 +39,7 @@ $$
 
 考虑微元 dx 的受力（图 3.10）：
  ![](images/image-20250411142211.png)
+ 
   
 >1.在 x 和 x + dx 之间，沿 z 方向每单位长度的向下载荷为 q (x) dx
 >
@@ -51,18 +53,21 @@ $$
 $$
 dV = -q \cdot dx \rightarrow \frac{dV}{dx}=-q\quad\text{（3.57）}
 $$
+
 **力矩平衡**：弯曲力矩 M、剪切力 V 和水平力 P 的力矩平衡
 $$
 dM = V\cdot dx + P\cdot dw \rightarrow \frac{dM}{dx}=V+P\frac{dw}{dx}​ \quad \text{（3.59）}
 $$
+
 - 力矩 $M$和$M+dM$共同作用，在微元上产生净逆时针扭矩dM。
 - 力 $V$ 和$V+dV$相隔距离dx（一个无穷小力臂），并以顺时针方向在微元上施加净扭矩Vdx。（在计算剪切力引起的力矩时，从 $x$ 到$x+dx$的 $V$ 的变化可忽略不计。）
 - 水平力 P 通过其相关力臂$-dw$在微元上施加净逆时针扭矩$-Pdw$。（注意，从 x 到$x+dx$时，dw为负值。）
 
-我们可以对公式（3.59）关于x求导，并代入公式（3.57），来消去剪切力V。由此得到：  
+我们可以对公式（3.59）关于x求导，并代入公式（3.57），来消去剪切力V。由此得到：
 $$
 \frac{d^{2} M}{d x^{2}}=-q+P \frac{d^{2} w}{d x^{2}} . \quad(3.60)
 $$
+
 ### 3. **弯曲力矩与曲率的关系**
 **弯曲应力分布**：
 板弯曲时，上表面压缩（$\sigma_{xx} > 0$），下表面拉伸（$\sigma_{xx} < 0$），中性面（$y=0$）无应变。
@@ -71,19 +76,31 @@ $$
 $$
 \varepsilon_{xx} =-\frac{\Delta l}{l}= \frac{y}{R} = -y\frac{d^2 w}{dx^2}
 $$
+
 ![](images/image-20250411144803.png)
 >小角度$\phi$（以弧度为单位）等于$1/R$ 。
 
 平面应力下，胡克定律简化为$\sigma_{xx} = \frac{E}{1-\nu^2}\varepsilon_{xx}$（因 $\sigma_{zz} = 0$，$\varepsilon_{zz} = -\frac{\nu}{E}\sigma_{xx}$）。
-- **力矩积分**：弯曲力矩 M 为纤维应力对中性面的力矩积分：$$M = \int_{-h/2}^{h/2} \sigma_{xx} ydy = \frac{E}{1-\nu^2} \int_{-h/2}^{h/2} \varepsilon_{xx} y \, dy = -\frac{E h^3}{12(1-\nu^2)} \frac{d^2 w}{dx^2}$$
+- **力矩积分**：弯曲力矩 M 为纤维应力对中性面的力矩积分：
+  $$
+  M = \int_{-h/2}^{h/2} \sigma_{xx} ydy = \frac{E}{1-\nu^2} \int_{-h/2}^{h/2} \varepsilon_{xx} y \, dy = -\frac{E h^3}{12(1-\nu^2)} \frac{d^2 w}{dx^2}
+  $$
 - **挠曲刚度**(flexture ) $D = \frac{E h^3}{12(1-\nu^2)}$，则：$M = -D \frac{d^2 w}{dx^2} \quad \text{（3.73）}$
 - **弯曲应力的最大值**出现在板的上下表面（$y = \pm h/2$），
   代入 $\sigma_{xx} = \frac{E}{1-\nu^2} \varepsilon_{xx}$ 和 $\varepsilon_{xx} = \pm \frac{h}{2R}$（R 为曲率半径，$1/R = -d^2 w/dx^2$），可得：$$\sigma_{\text{max}} = \frac{E h}{2(1-\nu^2) R} = \frac{6M}{h^2}$$
 
 ### 4. 四阶挠曲方程
 
-将 $M = -D \frac{d^2 w}{dx^2}$代入力矩平衡方程（3.59）：$$\frac{d}{dx}\left(-D \frac{d^2 w}{dx^2}\right) = V + P\frac{dw}{dx} \implies -D \frac{d^3 w}{dx^3} = V + P\frac{dw}{dx}$$
-再对 x 求导，并利用垂直力平衡方程（3.57，$dV/dx = -q$）$$-D \frac{d^4 w}{dx^4} = \frac{dV}{dx} + P\frac{d^2 w}{dx^2} \implies D \frac{d^4 w}{dx^4} = q - P\frac{d^2 w}{dx^2}$$ 
+将 $M = -D \frac{d^2 w}{dx^2}$代入力矩平衡方程（3.59）：
+$$
+\frac{d}{dx}\left(-D \frac{d^2 w}{dx^2}\right) = V + P\frac{dw}{dx} \implies -D \frac{d^3 w}{dx^3} = V + P\frac{dw}{dx}
+$$
+
+再对 x 求导，并利用垂直力平衡方程（3.57，$dV/dx = -q$）
+$$
+-D \frac{d^4 w}{dx^4} = \frac{dV}{dx} + P\frac{d^2 w}{dx^2} \implies D \frac{d^4 w}{dx^4} = q - P\frac{d^2 w}{dx^2}
+$$ 
+
 最终得到**四阶挠曲微分方程（核心方程 2）**：$D \frac{d^4 w}{dx^4} + P \frac{d^2 w}{dx^2} = q(x) \quad \text{（3.74）}$
 
 **方程物理意义**
@@ -111,7 +128,10 @@ $$
 - **静水恢复力**（向上）：两者压力差为$(\rho_m - \rho_w) g w$，由地幔与海水的密度差产生。
 **表面载荷为$q_a(x)$**，净载荷$q = q_a - (\rho_m - \rho_w) g w$（恢复力抵消部分载荷）。
 代入挠曲方程（3.74），得：
-$$D \frac{d^4 w}{dx^4} + (\rho_m - \rho_w) g w = q_a(x) \quad \text{（3.103）}$$
+$$
+D \frac{d^4 w}{dx^4} + (\rho_m - \rho_w) g w = q_a(x) \quad \text{（3.103）}
+$$
+
 其中$D = \frac{E h^3}{12(1-\nu^2)}$为挠曲刚度。
 
 ##### 大陆岩石圈的挠曲（图b）
@@ -123,7 +143,11 @@ $$D \frac{d^4 w}{dx^4} + (\rho_m - \rho_w) g w = q_a(x) \quad \text{（3.103）}
 - **静水恢复力**（向上）：压力差为$(\rho_m - \rho_c) g w$，由地幔与地壳的密度差产生。
 **表面载荷为$q_a(x)$**，净载荷$q = q_a - (\rho_m - \rho_c) g w$。
 代入挠曲方程得：
-$$D \frac{d^4 w}{dx^4} + (\rho_m - \rho_c) g w = q_a(x) \quad \text{（3.106）}$$
+
+$$
+D \frac{d^4 w}{dx^4} + (\rho_m - \rho_c) g w = q_a(x) \quad \text{（3.106）}
+$$
+
 与海洋情况形式相同，但密度差为$(\rho_m - \rho_c)$。
 
 #### 5.2 岛链载荷
@@ -132,15 +156,22 @@ $$D \frac{d^4 w}{dx^4} + (\rho_m - \rho_c) g w = q_a(x) \quad \text{（3.106）}
 1. **线载荷假设**：岛链载荷简化为沿直线分布的集中力 $V_0$（单位长度载荷，N/m），作用于 $x=0$ 处（图 3.29）。
 2. **对称性**：载荷对称，仅需分析 $x \geq 0$ 区域，且 $x \to \infty$ 时挠度 $w \to 0$。
 3. **静水恢复力**：海洋环境中，密度差 $\Delta\rho = \rho_m - \rho_w$ 产生向上恢复力（$\rho_m$ 为地幔密度，$\rho_w$ 为海水密度）。
+
 ![](images/image-20250418130425.png)
 
 
 **平衡方程**： 忽略水平力（$P=0$），挠曲方程为（3.125）：
-$$D \frac{d^4 w}{dx^4} + \Delta\rho g w = 0, \quad \Delta\rho = \rho_m - \rho_w$$
+$$
+D \frac{d^4 w}{dx^4} + \Delta\rho g w = 0, \quad \Delta\rho = \rho_m - \rho_w
+$$
+
 ##### 5.2.1 微分方程求解
 
 **通解形式**： 方程为四阶常系数线性齐次微分方程，特征根为复数，通解为指数衰减振荡函数：
-$$w = e^{x/\alpha}(c_1 \cos\frac{x}{\alpha} + c_2 \sin\frac{x}{\alpha}) + e^{-x/\alpha}(c_3 \cos\frac{x}{\alpha} + c_4 \sin\frac{x}{\alpha}) \quad \text{3.126}$$
+$$
+w = e^{x/\alpha}(c_1 \cos\frac{x}{\alpha} + c_2 \sin\frac{x}{\alpha}) + e^{-x/\alpha}(c_3 \cos\frac{x}{\alpha} + c_4 \sin\frac{x}{\alpha}) \quad \text{3.126}
+$$
+
 其中，**挠曲参数(flexture parameter)** $\alpha = \left(\frac{4D}{\Delta\rho g}\right)^{1/4}$（3.127），表征挠曲影响范围。
 
 ==怎么算出来的通解你先别管，因为我实在不会==
@@ -183,7 +214,8 @@ $$w = e^{x/\alpha}(c_1 \cos\frac{x}{\alpha} + c_2 \sin\frac{x}{\alpha}) + e^{-x/
 海洋岩石圈在俯冲带海沟处的弹性弯曲，建立末端载荷作用下的挠曲模型。海沟是大洋岩石圈俯冲至地幔的边界，俯冲前岩石圈受重力作用发生强烈弯曲，形成深海沟（如马里亚纳海沟）和外围前隆。模型有以下的简化：
 1. **末端载荷**：岩石圈视为半无限长弹性板（$x \geq 0$），末端（海沟轴，$x=0$）受垂直载荷$V_0$（向下为正）和弯矩$M_0$（逆时针为正），模拟俯冲板块的重力拖拽。
 2. **远场条件**：$x \to \infty$时挠度$w \to 0$，忽略水平力（$P=0$）。
-3. **平衡方程**：同海洋岩石圈挠曲方程（3.125），考虑静水恢复力（密度差$\Delta\rho = \rho_m - \rho_w$）：$$D \frac{d^4 w}{dx^4} + \Delta\rho g w = 0$$
+3. **平衡方程**：同海洋岩石圈挠曲方程（3.125），考虑静水恢复力（密度差$\Delta\rho = \rho_m - \rho_w$）：
+   $$D \frac{d^4 w}{dx^4} + \Delta\rho g w = 0$$
 ##### 5.3.1 微分方程求解
 
 **通解形式**： 四阶方程的通解为指数衰减振荡函数（同上面一节）：
@@ -250,12 +282,16 @@ $$D \frac{d^{2} w}{d x^{2}}+P w=0 . \quad(3.89)$$
 $$
 w=c_{1} sin \left(\frac{P}{D}\right)^{1 / 2} x+c_{2} cos \left(\frac{P}{D}\right)^{1 / 2} x, \quad(3.90)
 $$
+
 还是因为w在$x=0$处为零，在$x=L$处为零——$c2=0$ , 但w在$x=L$处也必须为零，这意味着若$c_{1} \neq 0$，则
+
 $$\sin\left[\left(\frac{P}{D}\right)^{1 / 2} L\right] = 0 \quad(3.92)$$
+
 可以很容易的解出
 $$
  P=\frac{n^{2} \pi^{2}}{L^{2}} D  \xrightarrow{当n=1时，P取最小值} P_{c}=\frac{\pi^{2}}{L^{2}} D 
 $$
+
 此时$P_c$是板的最小屈曲载荷。若水平力 P 小于这个临界值（即特征值），板在施加的载荷下不会发生挠曲，即 $c_{1}=0$ 或 $w=0$。
 
 ##### 5.4.2 方程分析

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture.md",
+                "file": "docs/planetsci/planetfundamental/planet_crater.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "elasticity_and_flexture"
+              "title": "planet_crater"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "11b2e853c746db62",
   "lastOpenFiles": [
-    "docs/planetsci/planetfundamental/planet_dynamics.md",
     "docs/planetsci/planetfundamental/elasticity_and_flexture.md",
+    "docs/planetsci/planetfundamental/planet_dynamics.md",
     "docs/planetsci/planetfundamental/planet_crater.md",
     "docs/planetsci/planetfundamental/images/image-20250418133904.png",
     "docs/biosci/cellbio/cellbio-1.md",

@@ -25,6 +25,7 @@ $$
 
 & \text{最大弯曲应力(bendiing stress)} \quad \sigma_{\text{max}} = \frac{E h}{2(1-\nu^2) R} = \frac{6M}{h^2}
 \end{align}
+
 $$
 
 ### 1. 物理模型与假设

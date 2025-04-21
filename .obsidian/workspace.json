@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
+                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "elasticity_and_flexture_of_lithosphere"
+              "title": "elasticity_and_flexture"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +181,11 @@
   },
   "active": "11b2e853c746db62",
   "lastOpenFiles": [
-    "docs/planetsci/planetfundamental/images/image-20250418133904.png",
-    "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
-    "docs/biosci/cellbio/cellbio-1.md",
-    "docs/planetsci/planetfundamental/planet_crater.md",
     "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/planetsci/planetfundamental/elasticity_and_flexture.md",
+    "docs/planetsci/planetfundamental/planet_crater.md",
+    "docs/planetsci/planetfundamental/images/image-20250418133904.png",
+    "docs/biosci/cellbio/cellbio-1.md",
     "docs/planetsci/planetfundamental/images/image-20250418160908.png",
     "docs/planetsci/planetfundamental/planet_geomagnetic.md",
     "docs/planetsci/planetfundamental/planet_igrf_intro.md",

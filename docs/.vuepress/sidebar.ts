@@ -21,7 +21,7 @@ export default sidebar({
           prefix: "/planetsci/planetfundamental",
           link: "",
           collapsible: true,
-          children: ["planet_dynamics.md", "planet_properties.md", "planet_tectonics_motion.md", "planet_igrf_intro.md", "planet_oribit.md", "planet_magneticfield.md", "planet_geomagnetic.md","elasticity_and_flexture_of_lithosphere.md"],
+          children: ["planet_dynamics.md", "planet_properties.md", "planet_tectonics_motion.md", "planet_igrf_intro.md", "planet_oribit.md", "planet_magneticfield.md", "planet_geomagnetic.md","elasticity_and_flexture.md"],
         },
         {
           text: "🌌行星科学导论",

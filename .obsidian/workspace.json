@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "c269926aaba63f5a",
+        "id": "7441a287a9bfe58e",
         "type": "tabs",
         "children": [
           {
-            "id": "11b2e853c746db62",
+            "id": "ced8222e6ad9c538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/planetsci/planetfundamental/planet_crater.md",
+                "file": "docs/general/Japeco/Japeco-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "planet_crater"
+              "title": "Japeco-11"
+            }
+          },
+          {
+            "id": "138af221d078e19c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/biosci/devebio/devebio-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "devebio-11"
+            }
+          },
+          {
+            "id": "7bd85f3e71287891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/biosci/devebio/devebio-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "devebio-12"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "回收站",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/math/statistics/statistics-3.md",
+                "file": "docs/planetsci/planetmaterial/sedimentary_rock-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "statistics-3 的出链列表"
+              "title": "sedimentary_rock-3 的出链列表"
             }
           },
           {
@@ -142,8 +171,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -152,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/planetsci/planetfundamental/elasticity_and_flexture_of_lithosphere.md",
-                "followCursor": true,
-                "showSearch": false,
+                "file": "docs/biosci/devebio/devebio-12.md",
+                "followCursor": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "elasticity_and_flexture_of_lithosphere 的大纲"
+              "title": "devebio-12 的大纲"
             }
           }
         ],
@@ -166,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,56 +204,58 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11b2e853c746db62",
+  "active": "7bd85f3e71287891",
   "lastOpenFiles": [
-    "docs/planetsci/planetfundamental/elasticity_and_flexture.md",
-    "docs/planetsci/planetfundamental/planet_crater.md",
-    "docs/planetsci/planetfundamental/planet_dynamics.md",
-    "docs/planetsci/planetfundamental/planet_geomagnetic.md",
-    "docs/planetsci/planetfundamental/planet_igrf_intro.md",
-    "docs/planetsci/planetfundamental/planet_oribit.md",
-    "docs/planetsci/planetfundamental/planet_properties.md",
-    "docs/planetsci/planetfundamental/planet_tectonics_motion.md",
-    "docs/planetsci/planetfundamental/planet_magneticfield.md",
-    "docs/planetsci/planetfundamental/images/image-20250418133904.png",
-    "docs/biosci/cellbio/cellbio-1.md",
-    "docs/planetsci/planetfundamental/images/image-20250418160908.png",
-    "docs/planetsci/planetfundamental/images/b6f8880db09cf38acfd7de9e7a9d0fc.png",
-    "docs/planetsci/planetfundamental/images/image-20250411141627.png",
-    "docs/planetsci/planetfundamental/images/image-20250418131635.png",
-    "docs/planetsci/planetfundamental/images/image-20250418122805.png",
-    "docs/planetsci/planetfundamental/images/image-20250418130425.png",
-    "docs/planetsci/planetmaterial/sedimentary_rock-2.md",
-    "docs/biosci/cellbio/images/image-20250418105439.png",
-    "docs/biosci/cellbio/images/ffcc5b5d5b3a707e4450eed01080b7450fa4dde2f8b80fd6f41ad77f939316f4.jpg",
-    "docs/biosci/cellbio/images/ffa915ca43b44e93aa807d45519f335c536a183488a3a5a1c03fe51e6fb58909.jpg",
-    "docs/biosci/cellbio/images",
-    "docs/biosci/images",
-    "docs/biosci/cellbio/membrane_transport.md",
-    "docs/biosci/cellbio/microscopes.md",
-    "docs/biosci/cellbio/electrophoresis.md",
-    "docs/biosci/cellbio/cellbio-0.md",
-    "docs/biosci/cellbio/EVPs.md",
-    "docs/biosci/cellbio/cellbio-2-1.md",
-    "docs/biosci/cellbio/cellbio-2-2.md",
-    "docs/planetsci/planetmaterial/sedimentary_rock-3.md",
-    "docs/biosci/devebio/devebio-8.md",
-    "docs/biosci/devebio/devebio-7.md",
+    "docs/_temp/Statistics.md",
+    "docs/biosci/devebio/devebio-12.md",
+    "docs/biosci/devebio/devebio-11.md",
+    "docs/general/Japeco/Japeco-11.md",
+    "docs/general/Japeco/Japeco-12.md",
+    "docs/general/Japeco/Japeco-13.md",
+    "docs/biosci/cellbio/cellbio-12.md",
+    "docs/general/Japeco/Japeco-10.md",
+    "docs/general/Japeco/Japeco-14.md",
+    "docs/general/Japeco-0.md",
+    "docs/general/Guqin-0.md",
+    "docs/general/Japeco/Japeco-7.md",
+    "docs/general/Japeco/Japeco-5.md",
+    "docs/general/Japeco/Japeco-3.md",
+    "docs/general/Japeco/Japeco-6.md",
+    "docs/general/Japeco/Japeco-0.1.md",
+    "docs/general/Japeco/images/image-20250514192954.png",
+    "docs/general/Japeco/images/image-20250514191918.png",
+    "docs/general/Japeco/Japeco-9.md",
+    "docs/general/Japeco/Japeco-8.md",
+    "docs/math/statistics/statistics-6.md",
+    "docs/math/statistics/statistics-3.md",
+    "docs/math/gdc.md",
+    "docs/math/Legendre.md",
+    "docs/biosci/devebio/images/image-20250513112716.png",
+    "docs/biosci/devebio/images/image-20250513113310.png",
+    "docs/biosci/devebio/images/image-20250513115434.png",
+    "docs/biosci/devebio/devebio-9.md",
     "docs/biosci/devebio/devebio-6.md",
-    "docs/biosci/devebio/devebio-5.md",
-    "docs/biosci/devebio/devebio-4.md",
-    "docs/_temp/Tidal-Locked Exoplanets.md",
-    "docs/astrobio/Habitable",
-    "docs/astrobio/astrobio-course/未命名",
-    "docs/_temp/Homework/images",
-    "docs/general/Japeco/images",
-    "docs/planetsci/planetintroduction",
-    "pnpm-lock.yaml.428070782",
-    "_tmp_13880_ccdcc1eb0072bd20913140bc4bc7d356",
-    "live2d-widget/live2d_api/model/HyperdimensionNeptunia/nepnep/general/mtn/nep_touch_head_1.mtn",
+    "docs/planetsci/planetmaterial/sedimentary_rock-4.md",
+    "docs/planetsci/planetmaterial/sedimentary_rock-5.md",
+    "docs/planetsci/planetmaterial/images/image-20250512152354.png",
+    "docs/planetsci/planetmaterial/images/image-20250428160137.png",
+    "docs/planetsci/planetmaterial/images/image-20250428160828.png",
+    "docs/planetsci/planetmaterial/images/image-20250428160049.png",
+    "docs/planetsci/planetmaterial/images/image-20250428155750.png",
+    "docs/planetsci/lunar",
+    "docs/general/Guqin",
+    "node_modules/@types/markdown-it-container/index.d.ts",
+    "node_modules/@types/markdown-it-container/LICENSE",
+    "node_modules/@types/markdown-it-container/package.json",
+    "node_modules/@types/markdown-it-container",
+    "node_modules/@vuepress/cli/node_modules/@esbuild/openbsd-x64",
+    "node_modules/@vuepress/cli/node_modules/@esbuild/linux-x64",
+    "node_modules/@vuepress/cli/node_modules/@esbuild/netbsd-arm64",
+    "node_modules/@vuepress/cli/node_modules/@esbuild/netbsd-x64",
     "未命名.canvas"
   ]
 }

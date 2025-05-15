@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/biosci/devebio/devebio-12.md",
+                "file": "docs/math/statistics/statistics-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "devebio-12"
+              "title": "statistics-3"
             }
           }
         ],
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/biosci/devebio/devebio-12.md",
+                "file": "docs/math/statistics/statistics-3.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "devebio-12 的大纲"
+              "title": "statistics-3 的大纲"
             }
           }
         ],
@@ -210,9 +210,9 @@
   },
   "active": "7bd85f3e71287891",
   "lastOpenFiles": [
+    "docs/biosci/devebio/devebio-12.md",
     "_tmp_23356_c07ba6e2f535ca552635ebab8a8d6ba4",
     "docs/_temp/Statistics.md",
-    "docs/biosci/devebio/devebio-12.md",
     "docs/biosci/devebio/devebio-11.md",
     "docs/general/Japeco/Japeco-11.md",
     "docs/general/Japeco/Japeco-12.md",
@@ -255,7 +255,6 @@
     "node_modules/@vuepress/cli/node_modules/@esbuild/openbsd-x64",
     "node_modules/@vuepress/cli/node_modules/@esbuild/linux-x64",
     "node_modules/@vuepress/cli/node_modules/@esbuild/netbsd-arm64",
-    "node_modules/@vuepress/cli/node_modules/@esbuild/netbsd-x64",
     "未命名.canvas"
   ]
 }

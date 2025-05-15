@@ -11,6 +11,9 @@ importers:
       '@vuepress/bundler-webpack':
         specifier: 2.0.0-rc.20
         version: 2.0.0-rc.20
+      markdown-it-container:
+        specifier: ^4.0.0
+        version: 4.0.0
       vue:
         specifier: ^3.5.13
         version: 3.5.13
@@ -21,6 +24,12 @@ importers:
         specifier: 2.0.0-rc.73
         version: 2.0.0-rc.73(@vuepress/plugin-docsearch@2.0.0-rc.80(@algolia/client-search@5.20.0)(search-insights@2.13.0)(vuepress@2.0.0-rc.20(@vuepress/bundler-webpack@2.0.0-rc.20)(vue@3.5.13)))(@vuepress/plugin-feed@2.0.0-rc.80(vuepress@2.0.0-rc.20(@vuepress/bundler-webpack@2.0.0-rc.20)(vue@3.5.13)))(@vuepress/plugin-slimsearch@2.0.0-rc.80(vuepress@2.0.0-rc.20(@vuepress/bundler-webpack@2.0.0-rc.20)(vue@3.5.13)))(@waline/client@3.5.6)(dashjs@4.7.4)(hls.js@1.5.20)(katex@0.16.21)(markdown-it@14.1.0)(mathjax-full@3.2.2)(sass-embedded@1.86.0)(sass-loader@16.0.5(sass-embedded@1.86.0)(webpack@5.98.0))(vidstack@1.12.13)(vuepress@2.0.0-rc.20(@vuepress/bundler-webpack@2.0.0-rc.20)(vue@3.5.13))
     devDependencies:
+      '@types/markdown-it':
+        specifier: ^14.1.2
+        version: 14.1.2
+      '@types/markdown-it-container':
+        specifier: ^2.0.10
+        version: 2.0.10
       '@vuepress/plugin-docsearch':
         specifier: 2.0.0-rc.80
         version: 2.0.0-rc.80(@algolia/client-search@5.20.0)(search-insights@2.13.0)(vuepress@2.0.0-rc.20(@vuepress/bundler-webpack@2.0.0-rc.20)(vue@3.5.13))
@@ -932,6 +941,9 @@ packages:
 
   '@types/linkify-it@5.0.0':
     resolution: {integrity: sha512-sVDA58zAw4eWAffKOaQH5/5j3XeayukzDk+ewSsnv3p4yJEZHCCzMDiZM8e0OUrRvmpGZ85jf4yDHkHsgBNr9Q==}
+
+  '@types/markdown-it-container@2.0.10':
+    resolution: {integrity: sha512-zv+YxrlSYRq51e9kzm3orv4OvF4U79Ll1OyplNXr00o4ZC/8PukJk/jEWH7CnsMtrSWZlyv0czhz42jm9J4uLw==}
 
   '@types/markdown-it-emoji@3.0.1':
     resolution: {integrity: sha512-cz1j8R35XivBqq9mwnsrP2fsz2yicLhB8+PDtuVkKOExwEdsVBNI+ROL3sbhtR5occRZ66vT0QnwFZCqdjf3pA==}
@@ -2694,6 +2706,9 @@ packages:
     peerDependencies:
       '@types/markdown-it': '*'
       markdown-it: '*'
+
+  markdown-it-container@4.0.0:
+    resolution: {integrity: sha512-HaNccxUH0l7BNGYbFbjmGpf5aLHAMTinqRZQAEQbMr2cdD3z91Q6kIo1oUn1CQndkT03jat6ckrdRYuwwqLlQw==}
 
   markdown-it-emoji@3.0.0:
     resolution: {integrity: sha512-+rUD93bXHubA4arpEZO3q80so0qgoFJEKRkRbjKX8RTdca89v2kfyF+xR3i2sQTwql9tpPZPOQN5B+PunspXRg==}
@@ -5000,6 +5015,10 @@ snapshots:
 
   '@types/linkify-it@5.0.0': {}
 
+  '@types/markdown-it-container@2.0.10':
+    dependencies:
+      '@types/markdown-it': 14.1.2
+
   '@types/markdown-it-emoji@3.0.1':
     dependencies:
       '@types/markdown-it': 14.1.2
@@ -7158,6 +7177,8 @@ snapshots:
     dependencies:
       '@types/markdown-it': 14.1.2
       markdown-it: 14.1.0
+
+  markdown-it-container@4.0.0: {}
 
   markdown-it-emoji@3.0.0: {}
 

@@ -145,11 +145,3 @@ $$
 > 在应用上式，则一般可提高精度。
 
 
-
-$$
-P=\frac{E \cdot \epsilon_r}{(1+v)(1-2v)}(1-v)
-$$
-
-$$
-\begin{array} {l} {{{{\sigma_{r}=\frac E {( 1+\nu) ( 1-2 \nu)} \left[ ( 1-\nu) \varepsilon_{r}+\nu\varepsilon_{\theta} \right],}}}} \\ {{{{\sigma_{\theta}=\frac E {( 1+\nu) ( 1-2 \nu)} \left[ \nu\varepsilon_{r}+( 1-\nu) \varepsilon_{\theta} \right].}}}} \\ \end{array} 
-$$

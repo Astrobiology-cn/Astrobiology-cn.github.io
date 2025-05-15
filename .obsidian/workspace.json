@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/math/statistics/statistics-3.md",
+                "file": "docs/biosci/devebio/devebio-11.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "statistics-3 的大纲"
+              "title": "devebio-11 的大纲"
             }
           }
         ],
@@ -208,12 +208,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7bd85f3e71287891",
+  "active": "138af221d078e19c",
   "lastOpenFiles": [
-    "docs/biosci/devebio/devebio-12.md",
-    "_tmp_23356_c07ba6e2f535ca552635ebab8a8d6ba4",
-    "docs/_temp/Statistics.md",
+    "docs/math/statistics/statistics-3.md",
+    "node_modules/mathjax-full/README.md",
+    "node_modules/mathjax-full/components/src/input/tex/extensions/action/build.json",
+    "node_modules/mathjax-full/components/src/input/tex/build.json",
+    "node_modules/mathjax-full/components/src/input/tex-full/build.json",
+    "node_modules/mathjax-full/components/src/input/tex-full/lib/input/tex/verb/VerbConfiguration.js",
+    "node_modules/mathjax-full/components/src/input/tex-full/lib/input/tex/verb",
+    "node_modules/mathjax-full/components/src/input/tex/extensions/verb/lib/input/tex/verb/VerbConfiguration.js",
+    "node_modules/mathjax-full/components/src/input/tex/extensions/verb/lib/input/tex/verb",
+    "node_modules/mathjax-full/components/src/input/tex/extensions/verb/lib/input/tex",
+    "node_modules/mathjax-full/components/src/input/tex/extensions/verb/lib/verb.js",
+    "node_modules/mathjax-full/components/src/input/tex/extensions/verb/lib/input",
+    "node_modules/markdown-it-container/README.md",
     "docs/biosci/devebio/devebio-11.md",
+    "docs/biosci/devebio/devebio-12.md",
+    "docs/_temp/Statistics.md",
     "docs/general/Japeco/Japeco-11.md",
     "docs/general/Japeco/Japeco-12.md",
     "docs/general/Japeco/Japeco-13.md",
@@ -232,7 +244,6 @@
     "docs/general/Japeco/Japeco-9.md",
     "docs/general/Japeco/Japeco-8.md",
     "docs/math/statistics/statistics-6.md",
-    "docs/math/statistics/statistics-3.md",
     "docs/math/gdc.md",
     "docs/math/Legendre.md",
     "docs/biosci/devebio/images/image-20250513112716.png",
@@ -240,21 +251,11 @@
     "docs/biosci/devebio/images/image-20250513115434.png",
     "docs/biosci/devebio/devebio-9.md",
     "docs/biosci/devebio/devebio-6.md",
-    "docs/planetsci/planetmaterial/sedimentary_rock-4.md",
     "docs/planetsci/planetmaterial/images/image-20250512152354.png",
     "docs/planetsci/planetmaterial/images/image-20250428160137.png",
     "docs/planetsci/planetmaterial/images/image-20250428160828.png",
     "docs/planetsci/planetmaterial/images/image-20250428160049.png",
     "docs/planetsci/planetmaterial/images/image-20250428155750.png",
-    "docs/planetsci/lunar",
-    "docs/general/Guqin",
-    "node_modules/@types/markdown-it-container/index.d.ts",
-    "node_modules/@types/markdown-it-container/LICENSE",
-    "node_modules/@types/markdown-it-container/package.json",
-    "node_modules/@types/markdown-it-container",
-    "node_modules/@vuepress/cli/node_modules/@esbuild/openbsd-x64",
-    "node_modules/@vuepress/cli/node_modules/@esbuild/linux-x64",
-    "node_modules/@vuepress/cli/node_modules/@esbuild/netbsd-arm64",
     "未命名.canvas"
   ]
 }

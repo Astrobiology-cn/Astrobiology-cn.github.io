@@ -4,7 +4,7 @@
   <title>Astrobiology 天体生物学</title>
   <subtitle>测试一下这个描述在哪里</subtitle>
   <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2025-04-21T03:23:29.309Z</updated>
+  <updated>2025-05-15T01:06:07.927Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
@@ -315,6 +315,21 @@
 <p>虽然可能会提出批评，但这些回应并没有为激进的相对主义打开大门。事实上，科学的进步带来了限制，并且已经允许我们抛弃生命二元假设（Bi）的某些公式。特别是，如果一个主要阈值的存在或不存在仍然是开放的，那么它只能比生命和非生命的直觉概念更精细。这凸显了寻求更精确地描述这些生命程度的重要性。在启发式和自然描述性话语的精确性方面，似乎比确认存在一个不可简化的门槛要多得多。渐进主义概念所精确地提出的无生命与生命区别的更精细的概念，对于某些科学领域非常有益，例如系统化学或合成生物学的某些研究项目，这些项目特别需要更精细的粒度来表征他们所研究的对象。</p>
 ]]></content>
     <published>2025-03-20T10:39:23.000Z</published>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <id>https://newzone.top/general/Guqin-0.html</id>
+    <link href="https://newzone.top/general/Guqin-0.html"/>
+    <updated>2025-05-15T00:18:16.000Z</updated>
+    <summary type="html"><![CDATA[<h2>简介</h2>
+<p>这是一个</p>
+<h2>目录</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h2>简介</h2>
+<p>这是一个</p>
+<h2>目录</h2>
+]]></content>
+    <published>2025-05-15T00:18:16.000Z</published>
   </entry>
   <entry>
     <title type="text">细胞外囊泡与颗粒</title>

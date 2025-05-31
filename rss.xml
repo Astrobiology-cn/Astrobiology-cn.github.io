@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>测试一下这个描述在哪里</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 15 May 2025 01:06:07 GMT</pubDate>
-    <lastBuildDate>Thu, 15 May 2025 01:06:07 GMT</lastBuildDate>
+    <pubDate>Sat, 31 May 2025 11:07:07 GMT</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 11:07:07 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -318,6 +318,77 @@
       <content:encoded><![CDATA[<h2>简介</h2>
 <p>这是一个</p>
 <h2>目录</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>https://newzone.top/math/Helmholtz.html</link>
+      <guid>https://newzone.top/math/Helmholtz.html</guid>
+      <source url="https://newzone.top/rss.xml"></source>
+      <description>Helmholtz方程的推导基于波动方程，通过假设解具有分离变量的形式，将空间部分和时间部分分开。 推导过程： 1. 从波动方程开始 波动方程的基本形式为： 其中， 是场量， 是波速。 2. 假设解为分离变量形式 假设解可以表示为： 其中， 是空间部分， 是时间部分。 3. 代入波动方程 将分离变量形式的解代入波动方程： 化简后得到： 将两边同时除以 ...</description>
+      <pubDate>Sat, 31 May 2025 10:46:04 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Helmholtz方程的推导基于波动方程，通过假设解具有分离变量的形式，将空间部分和时间部分分开。</p>
+<h3>推导过程：</h3>
+<h4>1. 从波动方程开始</h4>
+<p>波动方程的基本形式为：</p>
+<p>其中， 是场量， 是波速。</p>
+<h4>2. 假设解为分离变量形式</h4>
+<p>假设解可以表示为：</p>
+<p>其中， 是空间部分， 是时间部分。</p>
+<h4>3. 代入波动方程</h4>
+<p>将分离变量形式的解代入波动方程：</p>
+<p>化简后得到：</p>
+<p>将两边同时除以 ，得到：</p>
+<h4>4. 分离变量</h4>
+<p>由于左边仅与空间变量相关，右边仅与时间变量相关，因此两边必须等于一个常数。设该常数为 ，则：</p>
+<h4>5. 得到Helmholtz方程</h4>
+<p>从空间部分的方程可以得到：</p>
+<p>这即为Helmholtz方程，其中  是波数，定义为 ， 是角频率。
+时间部分的方程为：</p>
+<p>其解为简谐函数，如：</p>
+<h3>在电磁学中的推广</h3>
+<p>在电磁学中，对于时谐场，电场  和磁场  满足麦克斯韦方程组。假设时谐场形式：</p>
+<p>代入麦克斯韦方程组后，可以推导出电场  满足：</p>
+<p>其中 ， 是波速。</p>
+<h3>总结</h3>
+<p>Helmholtz方程描述了波动方程在特定频率下的稳态空间分布，其推导基于波动方程和分离变量的假设。</p>
+<h4>参考信息：</h4>
+<ol>
+<li>维基百科关于Helmholtz方程的介绍。</li>
+<li>知乎专栏关于波动方程到Helmholtz方程的推导文章。</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>https://newzone.top/math/Spherical_harmonics.html</link>
+      <guid>https://newzone.top/math/Spherical_harmonics.html</guid>
+      <source url="https://newzone.top/rss.xml"></source>
+      <description>球谐函数是从拉普拉斯方程在球坐标系下的分离变量解的过程中推导出来的，以下是具体的推导过程： 从拉普拉斯方程出发 在球坐标系 中，拉普拉斯方程形式为： 假设解可以表示为各变量的函数之积，即 ，将其代入拉普拉斯方程。 分离变量 将方程两边乘以 ，得到： 代入 ，得到： 左边可以分解为： 两边除以 ，得到： 左边分解为： 注意到前两项仅依赖于 和 ，最后一项...</description>
+      <pubDate>Sat, 31 May 2025 10:46:04 GMT</pubDate>
+      <content:encoded><![CDATA[<p>球谐函数是从拉普拉斯方程在球坐标系下的分离变量解的过程中推导出来的，以下是具体的推导过程：</p>
+<h3>从拉普拉斯方程出发</h3>
+<p>在球坐标系  中，拉普拉斯方程形式为：</p>
+<p>假设解可以表示为各变量的函数之积，即 ，将其代入拉普拉斯方程。</p>
+<h3>分离变量</h3>
+<p>将方程两边乘以 ，得到：</p>
+<p>代入 ，得到：</p>
+<p>左边可以分解为：</p>
+<p>两边除以 ，得到：</p>
+<p>左边分解为：</p>
+<p>注意到前两项仅依赖于  和 ，最后一项仅依赖于 ，因此将方程重新排列：</p>
+<p>左边仅依赖于 ，右边仅依赖于  和 ，因此两边必须等于同一个常数。令这个常数为 ，于是得到两个方程：</p>
+<p>径向方程：</p>
+<p>角向方程：</p>
+<p>接下来着重分析角向方程。将角向方程两边乘以 ：</p>
+<p>左边第一项仅依赖于 ，第二项仅依赖于 ，右边依赖于 ，因此将方程分解为：</p>
+<p>令：</p>
+<p>其中  是分离常数，于是得到：</p>
+<p>关于  的方程：</p>
+<p>其通解为：</p>
+<p>由于解在  方向上具有周期性（物理问题中当  变化  时解应保持不变），所以  必须是整数，即 。</p>
+<p>将方程代入原角向方程，得到关于  的方程：</p>
+<p>进行变量替换 ，则 ，，且 ，即 \</p>
 ]]></content:encoded>
     </item>
     <item>

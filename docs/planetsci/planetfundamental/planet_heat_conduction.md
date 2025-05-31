@@ -1,6 +1,6 @@
 ---
 article: false
-title: 地球热传导
+title: 行星的热传导
 icon: 
 order:
 ---
@@ -80,20 +80,17 @@ $$
 $$
 \frac{\partial T}{\partial t}=\frac{k}{ρc}∇^2T+\frac{\dot{q}_v}{ρc}
 $$
-如果考虑热源的移动
-$$
-\frac{\partial T}{\partial t}+\frac{\partial }{}\cdot \frac{}{}=\frac{k}{ρc}∇^2T+\frac{\dot{q}_v}{ρc}
-$$
+
 ### 1.2 运动介质的热传导方程
 
-当介质本身以恒定速度 U 沿 x 方向运动（如侵蚀、沉积过程中的物质输运），热传导方程需考虑**对流项**（介质运动引起的热量输运）。设固定坐标系为 $(x, y)$，运动坐标系为 $(\xi, \zeta)$，满足：$x = \xi + Ut, \quad y = \zeta$ 其中 $\xi$ 和 $\zeta$ 是随介质移动的坐标，U 为介质运动速度。
+当介质本身以恒定速度 U 沿 x 方向运动（如侵蚀、沉积过程中的物质输运），热传导方程需考虑**对流项**（介质运动引起的热量输运）。设固定坐标系为 $(x, y)$，运动坐标系为 $(\xi, \zeta)$，满足：
+$$x = \xi + Ut, \quad y = \zeta$$ 
+其中 $\xi$ 和 $\zeta$ 是随介质移动的坐标，U 为介质运动速度。
 
 方程推导：从固定坐标系到运动坐标系
 1. **移动坐标系中的热传导方程** 在运动坐标系中，热传导方程与静止介质相同（无对流项）：$\left(\frac{\partial T}{\partial t}\right)_{\xi, \zeta} = \kappa \left(\frac{\partial^2 T}{\partial \xi^2} + \frac{\partial^2 T}{\partial \zeta^2}\right)$
 2. **链式法则转换导数** 固定坐标系中的时间导数需包含介质运动的影响：$\left(\frac{\partial T}{\partial t}\right)_{x, y} = \left(\frac{\partial T}{\partial t}\right)_{\xi, \zeta} + \frac{\partial T}{\partial \xi} \cdot \frac{\partial \xi}{\partial t} = \left(\frac{\partial T}{\partial t}\right)_{\xi, \zeta} - U \frac{\partial T}{\partial \xi}$ 由于 $\xi = x - Ut$，故 $\frac{\partial \xi}{\partial t} = -U$。
 3. **引入对流 - 传导方程** 将运动坐标系中的方程代入固定坐标系，消去 $\left(\frac{\partial T}{\partial t}\right)_{\xi, \zeta}$，得到：$\frac{\partial T}{\partial t} + U \frac{\partial T}{\partial x} = \kappa \left(\frac{\partial^2 T}{\partial x^2} + \frac{\partial^2 T}{\partial y^2}\right)$ 这即为**对流 - 传导方程**，左侧第二项 $U \frac{\partial T}{\partial x}$ 为对流项，描述介质运动引起的热量输运，右侧为扩散项。
-    
-
 
 ##### (1) **侵蚀过程（以河流三角洲为例）**
 
@@ -101,25 +98,23 @@ $$
 
 ##### (2)**沉积过程（冲积扇形成）**
 
-当沉积物以恒定通量 $S_0$ 从悬崖底部输入，方程为非稳态对流 - 传导问题，解为误差函数形式（类似热脉冲扩散）：$h = \frac{2S_0}{k} \left[\sqrt{\frac{\kappa t}{\pi}} \exp\left(-\frac{x^2}{4\kappa t}\right) - \frac{x}{2} \text{erfc}\left(\frac{x}{2\sqrt{\kappa t}}\right)\right]$ 悬崖处高度 $h_0 \propto \sqrt{t}$，斜率与输运系数直接相关，适用于模拟冲积扇的时间演化。
-
+当沉积物以恒定通量 $S_0$ 从悬崖底部输入，方程为非稳态对流-传导问题，解为误差函数形式（类似热脉冲扩散）：
+$$h = \frac{2S_0}{k} \left[\sqrt{\frac{\kappa t}{\pi}} \exp\left(-\frac{x^2}{4\kappa t}\right) - \frac{x}{2} \text{erfc}\left(\frac{x}{2\sqrt{\kappa t}}\right)\right]$$
+悬崖处高度 $h_0 \propto \sqrt{t}$，斜率与输运系数直接相关，适用于模拟冲积扇的时间演化。
 
 - **对流 - 扩散耦合**：首次将介质运动（如板块漂移、沉积物搬运）与热传导结合，适用于**移动边界问题**（如俯冲带热结构、侵蚀面迁移）。
 - **Culling 模型类比**：沉积物输运方程 $\frac{\partial h}{\partial t} = K \frac{\partial^2 h}{\partial x^2}$ 与热传导方程形式一致（K 为输运系数），可借用热传导解（如误差函数、指数衰减）描述地形演化（如断层崖侵蚀、三角洲推进）。
 - **实际应用**：通过该方程，地质学家可量化侵蚀速率、沉积厚度与时间的关系，为盆地演化、海岸线变迁等提供理论支持。
-
-
-
 - **对流项物理意义**：介质运动导致热量（或沉积物）被 “平流” 输运，与扩散项（分子 / 颗粒随机运动）共同决定温度（或地形）分布。
 - **相似解方法**：通过坐标变换（如 $\xi = x - Ut$）将非稳态问题转化为稳态，简化求解过程，适用于边界匀速移动的地质场景（如洋脊扩张、河流三角洲推进）。
-## 二、地球表面热流测量
+## 二、行星表面热流
 ### 2.1 大陆热流值测量
 早期通过洞穴和矿井温度测量估算近地表热梯度，准确测量则需在大陆地区钻深孔，深度超 300m 以避开气候影响。测量热梯度需使用热敏电阻，同时要防止钻井液循环干扰测量结果，热导率可在实验室通过特定装置测定。
 ### 2.2 海洋热流之测量
 在海洋底部，利用携带热敏电阻的针状探针穿透沉积物测量近表面热流，海水温度相对稳定，热流受海水热液对流影响。沉积物热导率可通过热流探针中的加热器测定 。
 ### 2.3 热流值测量结果
 大陆平均热流为$65\pm1.6mW/m^{2}$，海洋平均热流为$101\pm2.2mW/m^{2}$，全球总表面热流为$4.43×10^{13}W$，平均表面热流为$87mW/m^{2}$。
-## 三、地球内部热产生
+## 三、行星内部热源
 ### 3.1 重力吸积产热
 ### 3.2 放射性元素生热
 地球内部热量主要源于铀、钍和钾等放射性元素的衰变。根据地壳和地幔中放射性元素的浓度，可计算其生热率。例如，地幔中放射性元素的生热率约为$7.38×10^{-12}W/kg$。
@@ -169,12 +164,14 @@ $$
 	- 地表昼夜温度变化穿透深度 $l \approx 0.17 \, \text{m}$，$\tau \approx 1 \, \text{天}$（$\kappa=1 \, \text{mm}^2/\text{s}$）。
 	- 地球整体冷却时间估算：若 $l \approx 6400 \, \text{km}$，$\tau \approx 4 \times 10^{17} \, \text{s} \approx 10^{10} \, \text{年}$（远超实际年龄，因未考虑放射性热源和对流）。
 
-### 4.5 半无限半空间的瞬时加热或冷却
+### 4.5 瞬时加热或冷却（半无限空间）
 考虑一个**半无限半空间**（$y \geq 0$），初始时刻（$t=0$）温度均匀为 $T_1$。$t>0$ 时，表面（$y=0$）温度骤变为 $T_0$ 并保持恒定（加热：$T_0 > T_1$；冷却：$T_0 < T_1$）,目标是求解温度分布 $T(y, t)$ 和表面热流 $q(t)$。这一场景类似于岩浆侵入（围岩冷却）、海洋岩石圈冷却（海水降温）、地表温度骤变（如冰川消融）等情况。
 
-此处运用的数学模型正是前面的**一维非稳态热传导方程（无产热，$H=0$）**：$\frac{\partial T}{\partial t} = \kappa \frac{\partial^2 T}{\partial y^2}$ ，有着以下的边界条件：$T(0, t) = T_0 \quad (t>0), \quad T(y, 0) = T_1 \quad (y>0), \quad T(\infty, t) = T_1 \quad (t>0)$
-
-#### 4.5.1 相似解的推导——无量纲化与相似变量
+此处运用的数学模型正是前面的**一维非稳态热传导方程（无产热，$H=0$）**：
+$$\frac{\partial T}{\partial t} = \kappa \frac{\partial^2 T}{\partial y^2}$$有着以下的边界条件：
+- $T(0, t) = T_0 \quad (t>0),$
+- $T(y, 0) = T_1 \quad (y>0),$
+- $T(\infty, t) = T_1 \quad (t>0)$
 
 **引入无量纲温度** 
 定义归一化温度 $\theta = \frac{T - T_1}{T_0 - T_1}$，将方程和边界条件简化为：$\frac{\partial \theta}{\partial t} = \kappa \frac{\partial^2 \theta}{\partial y^2}, \quad \theta(0, t) = 1, \quad \theta(\infty, t) = 0, \quad \theta(y, 0) = 0$
@@ -207,8 +204,6 @@ $$\Theta(\eta) = \text{erfc}(\eta) = 1 - \text{erf}(\eta)$$
 其中，**误差函数** $\text{erf}(\eta) = \frac{2}{\sqrt{\pi}} \int_0^\eta e^{-\eta'^2} d\eta'$，**互补误差函数** $\text{erfc}(\eta) = 1 - \text{erf}(\eta)$。
 
 
-####  4.5.2 方程的温度分布与物理意义
-
 **温度解** 
 还原为原始变量：$\frac{T - T_1}{T_0 - T_1} = \text{erfc}\left(\frac{y}{2\sqrt{\kappa t}}\right)$
 - **表面（$y=0$）**：$\text{erfc}(0) = 1$，故 $T = T_0$，满足边界条件。
@@ -217,13 +212,11 @@ $$\Theta(\eta) = \text{erfc}(\eta) = 1 - \text{erf}(\eta)$$
 温度解为互补误差函数形式：$\frac{T - T_1}{T_0 - T_1} = \text{erfc}\left( \frac{y}{2\sqrt{\kappa t}} \right)$  
 
 **热通量表达式**
-
 $$q = -k \cdot \frac{\partial}{\partial y} \left[ T_1 + (T_0 - T_1) \cdot \text{erfc}\left( \frac{y}{2\sqrt{\kappa t}} \right) \right]_{y=0}$$
 由于 $T_1$ 是常数，导数为 0，简化为：
 $$q = -k (T_0 - T_1) \cdot \frac{\partial}{\partial y} \text{erfc}\left( \frac{y}{2\sqrt{\kappa t}} \right)_{y=0}= -k (T_0 - T_1) \cdot \left( -\frac{1}{\sqrt{\pi \kappa t}} \right) = k (T_0 - T_1) \cdot \frac{1}{\sqrt{\pi \kappa t}}$$
 
 
- 
 **热边界层厚度** 
 定义边界层厚度为 $\theta = 0.1$ 处的 y，查表得 $\text{erfc}(\eta_T) = 0.1 \implies \eta_T \approx 1.16$，故：
 $$y_T = 2\eta_T \sqrt{\kappa t} \approx 2.32\sqrt{\kappa t}$$
@@ -236,13 +229,56 @@ $$\frac{\partial T}{\partial y} = (T_0 - T_1) \cdot \frac{\partial}{\partial y} 
 $$q = \frac{k(T_0 - T_1)}{\sqrt{\pi \kappa t}}$$
 
 热流随时间递减，$t=0$ 时理论上无穷大（因瞬时温度突变），实际中随时间趋于稳定。
-#### 4.6
-## 五、地质现象中的热传递
-### 5.1 海洋岩石圈冷却
-海洋岩石圈在洋中脊形成后逐渐冷却，可通过半空间冷却模型解释其热结构和演化。该模型预测了表面热流与年龄的关系，以及岩石圈厚度随年龄的变化。如年龄为 80Myr 时，岩石圈厚度约为 116km。
-### 5.2 沉积盆地演化
-沉积盆地的沉降可通过类似海洋岩石圈冷却的模型解释，其深度与时间的平方根成正比。例如，洛杉矶盆地的沉降历史与理论模型有较好的一致性，可用于研究盆地内沉积物的温度分布和石油形成条件。
 
-### 5.3 热应力与海平面变化
-温度变化会导致热应力产生，热应力与弹性应力叠加影响岩石变形。海平面变化与海底平均深度和年龄相关，如白垩纪海平面较高，与当时海底年龄较年轻有关。
+### 4.6 温度周期性变化（半无限空间）
+考虑一个半无限半空间（$y \geq 0$，$y=0$ 为地表，向下为正），地表温度随时间周期性变化：$T_s = T_0 + \Delta T \cos(\omega t)$ ，其中，$T_0$ 为平均温度，$\Delta T$ 为温度振幅，$\omega = 2\pi f$ 为角频率，f 为频率，周期 $\tau = 1/f = 2\pi/\omega$（如昼夜周期 $\tau=1$ 天，季节周期 $\tau=1$ 年）。假设地表无内部热源（$H=0$），热传导为一维非稳态过程。这一场景可以应用于研究地球表面周期性温度变化（如昼夜、季节、冰川周期）如何影响地下温度分布。
 
+这里还是考虑**一维非稳态热传导方程（无产热，$H=0$）**：
+$$\frac{\partial T}{\partial t} = \kappa \frac{\partial^2 T}{\partial y^2}$$
+有着以下**边界条件**：
+1. $y=0$ 处：$T(0, t) = T_0 + \Delta T \cos(\omega t)$
+2. $y \to \infty$ 处：$T \to T_0$（深层温度不变）
+3. 初始条件：$t=0$ 时，温度分布为 $T(y, 0) = T_0$（可通过叠加原理简化）。
+
+假设解的形式为  
+$$T(y, t) = T_0 + \text{Re}\left[ \Theta(y) e^{i\omega t} \right]$$
+
+其中 $\Theta(y)$ 为复振幅，$\text{Re}$ 表示实部。
+
+代入热传导方程得：
+$$i\omega \Theta = \kappa \frac{d^2 \Theta}{dy^2}$$特征方程解为：
+$$\Theta(y) = C e^{-\lambda y} e^{-i\lambda y}, \quad \lambda = \sqrt{\frac{\omega}{2\kappa}}$$利用边界条件 $y \to \infty$ 时 $\Theta \to 0$，舍去增长项，得：
+$$\Theta(y) = A e^{-(1+i)\lambda y}$$ 由 $y=0$ 处 $T = T_0 + \Delta T \cos(\omega t)$，得复振幅 $A = \Delta T$，最终解为：
+$$T(y, t) = T_0 + \Delta T e^{-\lambda y} \cos(\omega t - \lambda y)$$ 其中，$\lambda = \sqrt{\frac{\omega}{2\kappa}}$$定义为**衰减常数**。
+
+**温度振幅衰减** 
+地下温度波动振幅随深度指数衰减：
+$$\text{振幅} = \Delta T \cdot e^{-\lambda y} = \Delta T \cdot e^{-y / d_\omega}$$
+其中，**皮肤深度（Skin Depth）** $d_\omega$ 为振幅衰减至表面值 $1/e$ 时的深度：
+$$d_\omega = \sqrt{\frac{2\kappa}{\omega}} = \sqrt{\frac{\kappa \tau}{\pi}}$$
+
+**实例**：
+- 昼夜变化（$\tau=1$ 天，$\kappa=1 \, \text{mm}^2/\text{s}$）：$d_\omega = \sqrt{\frac{1 \times 10^{-6} \times 86400}{\pi}} \approx 0.17 \, \text{m}$
+- 季节变化（$\tau=1$ 年，$\kappa=1 \, \text{mm}^2/\text{s}$）：$d_\omega = \sqrt{\frac{1 \times 10^{-6} \times 3.15 \times 10^7}{\pi}} \approx 3.16 \, \text{m}$
+**相位滞后** 地下温度峰值滞后于地表温度峰值，相位差 $\phi = \lambda y = y \sqrt{\frac{\omega}{2\kappa}}$（弧度）。
+- 当 $y = d_\omega$ 时，相位差 $\phi = 1$ 弧度（约 57.3°），即滞后约 $\tau/(2\pi)$ 时间。
+
+**钻孔温度测量校正** 
+地表周期性温度波动会干扰深部热流测量，需通过皮肤深度确定钻孔深度。例如，若需避免季节波动影响，钻孔深度应大于 $3d_\omega$（此时振幅衰减至 <5%）。
+
+**冰川周期的温度印记** 
+冰川期地表温度下降，间冰期回升，形成长周期（$\tau \sim 10^4 - 10^5$ 年）波动。
+通过皮肤深度公式：
+$$d_\omega = \sqrt{\frac{\kappa \tau}{\pi}} \sim \sqrt{\frac{1 \times 10^{-6} \times 10^4 \times 3.15 \times 10^7}{\pi}} \sim 100 \, \text{m}$$
+此类波动可在数百米深度的岩心中保留温度变化记录，用于反推古气候。
+
+**热扩散率反演** 
+通过测量不同深度的温度振幅和相位差，可反推热扩散率 $\kappa$。例如，已知某深度 $y_1$ 和 $y_2$ 处的振幅比，可计算 $\kappa$：
+$$\frac{\Delta T(y_1)}{\Delta T(y_2)} = e^{-(y_1 - y_2)/d_\omega} \implies \kappa = \frac{\omega (y_1 - y_2)^2}{2 \ln(\Delta T(y_1)/\Delta T(y_2))}$$
+
+|物理量|表达式|说明|
+|---|---|---|
+|温度分布|$T = T_0 + \Delta T e^{-\lambda y} \cos(\omega t - \lambda y)$|含衰减和相位滞后的周期性解|
+|皮肤深度|$d_\omega = \sqrt{\frac{2\kappa}{\omega}} = \sqrt{\frac{\kappa \tau}{\pi}}$|振幅衰减至 $1/e$ 的深度|
+|相位差|$\phi = \lambda y = y \sqrt{\frac{\omega}{2\kappa}}$|深度 y 处的滞后相位|
+通过求解周期性边界条件下的热传导方程，揭示了地表温度波动向地下传播的规律：**振幅随深度指数衰减，相位随深度滞后**。皮肤深度是衡量波动穿透能力的关键参数，其与周期平方根成正比，决定了不同时间尺度的温度变化影响深度。这一理论在地质热流测量、古气候重建和热物性反演中具有重要应用，为理解地球浅层热过程提供了数学基础。

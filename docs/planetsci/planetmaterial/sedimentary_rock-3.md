@@ -1,6 +1,6 @@
 ---
 article: false
-title: 碎屑物质的搬运沉积作用
+title: 搬运沉积作用
 icon: 
 order:
 ---
@@ -243,6 +243,7 @@ Bouma 序列分为 5 个不同的层，标记为 A 到 E，其中 A 位于底部
 ![](images/image-20250424142142.png)
 
 ### 液化流（Liquified sediment flow）
+
 ### 泥石流（Debris flow）
 ### 颗粒流（Grain flow）
 颗粒流中流体（空气或水），主要是提供润滑的作用，**颗粒在流体中能保持悬浮状态**，是由于**颗粒与颗粒之间的碰撞，从而产生分散压力**，而使颗粒不会沉淀。

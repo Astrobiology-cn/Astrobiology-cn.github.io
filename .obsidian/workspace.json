@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7441a287a9bfe58e",
+        "id": "4de609cd65fd3580",
         "type": "tabs",
         "children": [
           {
-            "id": "ced8222e6ad9c538",
+            "id": "e6748e76de580a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/general/Japeco/Japeco-11.md",
+                "file": "docs/_temp/这是一个处理公式的草稿区.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Japeco-11"
-            }
-          },
-          {
-            "id": "138af221d078e19c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/biosci/devebio/devebio-11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "devebio-11"
-            }
-          },
-          {
-            "id": "7bd85f3e71287891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/math/statistics/statistics-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "statistics-3"
+              "title": "这是一个处理公式的草稿区"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 257.5
   },
   "right": {
     "id": "f50509859d857dda",
@@ -181,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/biosci/devebio/devebio-11.md",
+                "file": "docs/_temp/这是一个处理公式的草稿区.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "devebio-11 的大纲"
+              "title": "这是一个处理公式的草稿区 的大纲"
             }
           }
         ],
@@ -208,10 +179,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "138af221d078e19c",
+  "active": "e6748e76de580a6b",
   "lastOpenFiles": [
-    "docs/math/statistics/statistics-3.md",
-    "node_modules/mathjax-full/README.md",
+    "docs/_temp/Tidal-Locked Exoplanets.md",
+    "docs/planetsci/planetfundamental/paleoceanography.md",
+    "docs/planetsci/planetfundamental/ocean-current.md",
+    "docs/planetsci/planetfundamental/images/image-20250530140438.png",
+    "docs/planetsci/planetfundamental/images/image-20250530140224.png",
+    "docs/planetsci/planetfundamental/images/image-20250530133632.png",
+    "docs/Fitness.md",
+    "docs/math/gdc.md",
+    "docs/math/Helmholtz.md",
+    "docs/math/Legendre.md",
+    "docs/math/math_intro.md",
+    "docs/planetsci/planetfundamental/planet_crater.md",
+    "docs/planetsci/planetfundamental/planet_dynamics.md",
+    "docs/planetsci/planetfundamental/planet_geomagnetic.md",
+    "docs/planetsci/planetfundamental/planet_heat_conduction.md",
+    "docs/math/Spherical_harmonics.md",
+    "球坐标系中的拉普拉斯方程 - 小时百科.md",
+    "docs/planetsci/planetmaterial/sedimentary_rock-6.md",
+    "docs/planetsci/planetmaterial/sedimentary_rock-5.md",
+    "docs/planetsci/planetmaterial/sedimentary_struture.md",
+    "docs/planetsci/planetfundamental/planet_oribit.md",
+    "docs/planetsci/planetfundamental/planet_igrf_intro.md",
+    "docs/_temp/符号大全.md",
+    "docs/biosci/devebio/devebio-7.md",
+    "docs/biosci/devebio/devebio-6.md",
+    "docs/biosci/devebio/devebio-8.md",
+    "docs/biosci/devebio/devebio-9.md",
+    "docs/biosci/devebio/devebio-10.md",
+    "docs/biosci/devebio/devebio-11.md",
+    "docs/planetsci/planetmaterial/images/image-20250522002242.png",
+    "docs/planetsci/planetmaterial/images/image-20250521234821.png",
+    "docs/planetsci/planetmaterial/images/image-20250521235010.png",
+    "docs/general/Japeco/images/image-20250521194902.png",
+    "docs/general/Japeco/images/image-20250521195135.png",
+    "docs/general/Japeco/images/image-20250521191308.png",
+    "docs/general/Japeco/images/image-20250521190956.png",
     "node_modules/mathjax-full/components/src/input/tex/extensions/action/build.json",
     "node_modules/mathjax-full/components/src/input/tex/build.json",
     "node_modules/mathjax-full/components/src/input/tex-full/build.json",
@@ -222,40 +227,6 @@
     "node_modules/mathjax-full/components/src/input/tex/extensions/verb/lib/input/tex",
     "node_modules/mathjax-full/components/src/input/tex/extensions/verb/lib/verb.js",
     "node_modules/mathjax-full/components/src/input/tex/extensions/verb/lib/input",
-    "node_modules/markdown-it-container/README.md",
-    "docs/biosci/devebio/devebio-11.md",
-    "docs/biosci/devebio/devebio-12.md",
-    "docs/_temp/Statistics.md",
-    "docs/general/Japeco/Japeco-11.md",
-    "docs/general/Japeco/Japeco-12.md",
-    "docs/general/Japeco/Japeco-13.md",
-    "docs/biosci/cellbio/cellbio-12.md",
-    "docs/general/Japeco/Japeco-10.md",
-    "docs/general/Japeco/Japeco-14.md",
-    "docs/general/Japeco-0.md",
-    "docs/general/Guqin-0.md",
-    "docs/general/Japeco/Japeco-7.md",
-    "docs/general/Japeco/Japeco-5.md",
-    "docs/general/Japeco/Japeco-3.md",
-    "docs/general/Japeco/Japeco-6.md",
-    "docs/general/Japeco/Japeco-0.1.md",
-    "docs/general/Japeco/images/image-20250514192954.png",
-    "docs/general/Japeco/images/image-20250514191918.png",
-    "docs/general/Japeco/Japeco-9.md",
-    "docs/general/Japeco/Japeco-8.md",
-    "docs/math/statistics/statistics-6.md",
-    "docs/math/gdc.md",
-    "docs/math/Legendre.md",
-    "docs/biosci/devebio/images/image-20250513112716.png",
-    "docs/biosci/devebio/images/image-20250513113310.png",
-    "docs/biosci/devebio/images/image-20250513115434.png",
-    "docs/biosci/devebio/devebio-9.md",
-    "docs/biosci/devebio/devebio-6.md",
-    "docs/planetsci/planetmaterial/images/image-20250512152354.png",
-    "docs/planetsci/planetmaterial/images/image-20250428160137.png",
-    "docs/planetsci/planetmaterial/images/image-20250428160828.png",
-    "docs/planetsci/planetmaterial/images/image-20250428160049.png",
-    "docs/planetsci/planetmaterial/images/image-20250428155750.png",
     "未命名.canvas"
   ]
 }

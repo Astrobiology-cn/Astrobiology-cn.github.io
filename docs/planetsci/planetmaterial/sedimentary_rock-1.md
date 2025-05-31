@@ -13,8 +13,6 @@ order: 4.1
 * 时间尺度
 
 ## 沉积岩的研究
-
-
 ## 什么是沉积学
 
 ### 要学习什么
@@ -33,8 +31,8 @@ order: 4.1
 沉积体系
 沉积结构
 
-### 一些基本概念的辨析
-#### 沉积相关名词
+## 一些基本概念的辨析
+### 沉积相关名词
 **Sediment**-unconsolidated material that is produced on earth’s surface by the disaggregation of pre-existing rocks 
 **Sedimentary rock**-a consolidated body formed from sediments or solutesthat are transported and deposited by gravity, biologic activity, or a fluidand then lithifiedby the combined effects of compactionand cementation 
 **Sedimentation**-deposition of sediment which results in the formation of sedimentary rock **Sedimentology**-the study of theproduction, transport, and depositionof sediment

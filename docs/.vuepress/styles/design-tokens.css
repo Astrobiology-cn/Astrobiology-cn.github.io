@@ -1,0 +1,143 @@
+// FreshKnowledge Design Tokens — CSS Custom Properties
+// Sourced from DESIGN.md, mapped to vuepress-theme-hope variable names
+
+:root {
+  // ========================================
+  // Page & Surface Colors
+  // ========================================
+  --fk-bg: #FAFAF8;
+  --fk-bg-alt: #F5F3EF;
+  --fk-surface: #FFFFFF;
+  --fk-border: #EFEFEF;
+  --fk-border-light: #E5E5E5;
+  --fk-divider: #EFEFEF;
+
+  // ========================================
+  // Text Colors
+  // ========================================
+  --fk-text: #1E1E1E;
+  --fk-text-secondary: #6B6B6B;
+  --fk-text-muted: #9E9E9E;
+  --fk-text-inverse: #F5F3EF;
+
+  // ========================================
+  // Accent Colors
+  // ========================================
+  --fk-accent: #0C8C5E;
+  --fk-accent-hover: #0A7550;
+  --fk-accent-active: #095C42;
+  --fk-accent-bg: #E8F5EE;
+
+  --fk-link: #478CD0;
+  --fk-link-hover: #3A7BC0;
+  --fk-link-bg: #EDF4FC;
+
+  --fk-warn: #FB9100;
+  --fk-warn-bg: #FFF8E8;
+
+  --fk-danger: #F77463;
+  --fk-danger-bg: #FEF2F0;
+
+  // ========================================
+  // Typography
+  // ========================================
+  --fk-font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --fk-font-serif: "Crimson Pro", Georgia, "Times New Roman", serif;
+  --fk-font-mono: "JetBrains Mono", "Fira Code", "SF Mono", Consolas, monospace;
+
+  --fk-text-display: 48px;
+  --fk-text-h1: 36px;
+  --fk-text-h2: 28px;
+  --fk-text-h3: 22px;
+  --fk-text-h4: 18px;
+  --fk-text-body-lg: 18px;
+  --fk-text-body: 16px;
+  --fk-text-body-sm: 14px;
+  --fk-text-caption: 12px;
+
+  --fk-lh-display: 1.15;
+  --fk-lh-h1: 1.2;
+  --fk-lh-h2: 1.25;
+  --fk-lh-h3: 1.3;
+  --fk-lh-h4: 1.35;
+  --fk-lh-body: 1.6;
+  --fk-lh-caption: 1.4;
+
+  --fk-ls-display: -0.02em;
+  --fk-ls-h1: -0.015em;
+  --fk-ls-h2: -0.01em;
+  --fk-ls-h3: -0.005em;
+  --fk-ls-caption: 0.01em;
+
+  // ========================================
+  // Spacing (4px base grid)
+  // ========================================
+  --fk-space-1: 4px;
+  --fk-space-2: 8px;
+  --fk-space-3: 12px;
+  --fk-space-4: 16px;
+  --fk-space-5: 24px;
+  --fk-space-6: 32px;
+  --fk-space-7: 48px;
+  --fk-space-8: 64px;
+  --fk-space-9: 96px;
+  --fk-space-10: 128px;
+
+  // ========================================
+  // Border Radius
+  // ========================================
+  --fk-radius-sm: 4px;
+  --fk-radius-md: 8px;
+  --fk-radius-lg: 12px;
+  --fk-radius-xl: 16px;
+  --fk-radius-full: 9999px;
+
+  // ========================================
+  // Shadows
+  // ========================================
+  --fk-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --fk-shadow-md: 0 1px 3px rgba(0, 0, 0, 0.04), 0 4px 12px rgba(0, 0, 0, 0.04);
+  --fk-shadow-lg: 0 4px 20px rgba(0, 0, 0, 0.05);
+  --fk-shadow-xl: 0 8px 30px rgba(0, 0, 0, 0.06);
+
+  // ========================================
+  // Transitions
+  // ========================================
+  --fk-transition-fast: 0.15s ease;
+  --fk-transition: 0.2s ease;
+  --fk-transition-slow: 0.3s ease;
+
+  // ========================================
+  // Layout
+  // ========================================
+  --fk-content-width: 720px;
+  --fk-container-max: 1200px;
+  --fk-sidebar-width: 260px;
+}
+
+// ========================================
+// Dark Mode Overrides
+// ========================================
+[data-theme="dark"] {
+  --fk-bg: #121212;
+  --fk-bg-alt: #1E1E1E;
+  --fk-surface: #1E1E1E;
+  --fk-border: #2A2A2A;
+  --fk-border-light: #333333;
+  --fk-divider: #2A2A2A;
+
+  --fk-text: #F5F3EF;
+  --fk-text-secondary: #A0A0A0;
+  --fk-text-muted: #6B6B6B;
+  --fk-text-inverse: #1E1E1E;
+
+  --fk-accent-bg: rgba(12, 140, 94, 0.15);
+  --fk-link-bg: rgba(71, 140, 208, 0.15);
+  --fk-warn-bg: rgba(251, 145, 0, 0.15);
+  --fk-danger-bg: rgba(247, 116, 99, 0.15);
+
+  --fk-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
+  --fk-shadow-md: 0 1px 3px rgba(0, 0, 0, 0.2), 0 4px 12px rgba(0, 0, 0, 0.2);
+  --fk-shadow-lg: 0 4px 20px rgba(0, 0, 0, 0.25);
+  --fk-shadow-xl: 0 8px 30px rgba(0, 0, 0, 0.3);
+}

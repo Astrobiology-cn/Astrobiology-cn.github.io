@@ -1,0 +1,162 @@
+/* ========================================
+   FreshKnowledge for Obsidian
+   行星科学知识库 - Obsidian 配套 CSS 片段
+   使用方式：复制到 .obsidian/snippets/ 目录下启用
+   ======================================== */
+
+/* ---------- 基础变量 ---------- */
+:root {
+  --fk-accent: #0C8C5E;
+  --fk-accent-bg: #E8F5EE;
+  --fk-link: #478CD0;
+  --fk-link-bg: #EDF4FC;
+  --fk-warn: #FB9100;
+  --fk-warn-bg: #FFF8E8;
+  --fk-danger: #F77463;
+  --fk-danger-bg: #FEF2F0;
+}
+
+/* ---------- Callout 样式（Obsidian 原生 + 学术扩展） ---------- */
+
+.callout[data-callout="theorem"] {
+  --callout-color: 99, 102, 241;
+  --callout-icon: lucide-ruler;
+  border-left: 4px solid rgb(99, 102, 241);
+  background-color: rgba(99, 102, 241, 0.08);
+}
+
+.callout[data-callout="proof"] {
+  --callout-color: 148, 163, 184;
+  --callout-icon: lucide-pencil;
+  border-left: 4px solid rgb(148, 163, 184);
+  background-color: rgba(148, 163, 184, 0.06);
+}
+
+.callout[data-callout="proof"] .callout-content::after {
+  content: '∎';
+  float: right;
+  color: rgb(148, 163, 184);
+  font-size: 1.2em;
+  margin-top: -1.5em;
+}
+
+.callout[data-callout="example"] {
+  --callout-color: 34, 197, 94;
+  --callout-icon: lucide-file-text;
+  border-left: 4px solid rgb(34, 197, 94);
+  background-color: rgba(34, 197, 94, 0.08);
+}
+
+.callout[data-callout="definition"] {
+  --callout-color: 168, 85, 247;
+  --callout-icon: lucide-book-open;
+  border-left: 4px solid rgb(168, 85, 247);
+  background-color: rgba(168, 85, 247, 0.08);
+}
+
+.callout[data-callout="note"] {
+  --callout-color: 71, 140, 208;
+  --callout-icon: lucide-lightbulb;
+}
+
+.callout[data-callout="tip"] {
+  --callout-color: 12, 140, 94;
+  --callout-icon: lucide-lightbulb;
+}
+
+/* Callout 内部数学公式 */
+.callout .math.math-block {
+  font-size: 0.95em;
+}
+
+/* ---------- 图注样式 ---------- */
+figure {
+  margin: 1.5em 0;
+  text-align: center;
+}
+
+figure img {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+figcaption {
+  font-size: 0.85em;
+  color: var(--text-muted);
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+/* ---------- 字体优化 ---------- */
+.markdown-preview-view h1,
+.markdown-preview-view h2 {
+  font-family: "Crimson Pro", Georgia, "Times New Roman", serif;
+}
+
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.markdown-preview-view p,
+.markdown-preview-view li,
+.markdown-preview-view td,
+.markdown-preview-view th {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* ---------- 阅读体验优化 ---------- */
+.markdown-preview-view {
+  line-height: 1.6;
+}
+
+.markdown-preview-view p {
+  max-width: 70ch;
+}
+
+/* ---------- 代码块 ---------- */
+.markdown-preview-view pre {
+  border-radius: 8px;
+}
+
+.markdown-preview-view code {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.9em;
+}
+
+/* ---------- 表格 ---------- */
+.markdown-preview-view table {
+  border-radius: 8px;
+  overflow: hidden;
+  border-collapse: collapse;
+}
+
+.markdown-preview-view th {
+  background-color: var(--background-secondary);
+  font-weight: 600;
+}
+
+.markdown-preview-view td,
+.markdown-preview-view th {
+  padding: 8px 12px;
+  border: 1px solid var(--background-modifier-border);
+}
+
+/* ---------- 链接 ---------- */
+.markdown-preview-view a {
+  color: var(--fk-link);
+  text-decoration: none;
+}
+
+.markdown-preview-view a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* ---------- 引用块（非 callout） ---------- */
+.markdown-preview-view blockquote:not(.callout) {
+  border-left: 3px solid var(--fk-accent);
+  background-color: var(--fk-accent-bg);
+  border-radius: 0 8px 8px 0;
+  padding: 12px 16px;
+}

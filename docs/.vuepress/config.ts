@@ -154,7 +154,7 @@ function calloutPlugin(md: any) {
 }
 
 export default defineUserConfig({
-  base: "/planetary-science/",
+  base: "/",
 
   lang: "zh-CN",
   title: "行星科学知识库",

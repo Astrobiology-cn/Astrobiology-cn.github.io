@@ -8,10 +8,10 @@
         探索宇宙奥秘，共享行星科学学习资源
       </p>
       <div class="fk-hero-actions">
-        <a href="/planetary-science/knowledge/math-physics/" class="vp-button primary">
+        <a href="/knowledge/math-physics/" class="vp-button primary">
           开始学习
         </a>
-        <a href="/planetary-science/intro.html" class="vp-button ghost">
+        <a href="/intro.html" class="vp-button ghost">
           了解更多
         </a>
       </div>

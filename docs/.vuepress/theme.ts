@@ -5,18 +5,18 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme(
   {
-    hostname: "https://your-github-username.github.io",
+    hostname: "https://astrobiology-cn.github.io",
 
     author: {
       name: "Planetary Science Hub",
-      url: "https://github.com/your-username",
+      url: "https://github.com/Astrobiology-cn",
     },
 
     iconAssets: "fontawesome-with-brands",
 
     logo: "/logo.svg",
 
-    repo: "https://github.com/your-username/planetary-science",
+    repo: "https://github.com/Astrobiology-cn/Astrobiology-cn.github.io",
     repoLabel: "GitHub",
     repoDisplay: true,
 

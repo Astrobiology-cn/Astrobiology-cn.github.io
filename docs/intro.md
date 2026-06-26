@@ -43,7 +43,7 @@ title: 关于本站
 
 如果你有建议或想要贡献内容，欢迎通过以下方式参与：
 
-- 在 [GitHub](https://github.com/your-username/planetary-science) 上提交 Issue 或 Pull Request
+- 在 [GitHub](https://github.com/Astrobiology-cn/Astrobiology-cn.github.io) 上提交 Issue 或 Pull Request
 - 使用 Obsidian 编辑 `docs/knowledge/` 下的 Markdown 文件，内容将自动同步到网站
 - 联系管理员推荐新的学习资源或学者信息
 
